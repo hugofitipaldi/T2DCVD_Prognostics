@@ -1,0 +1,5587 @@
+V1,V2,n
+ACE inhibitors,ARBs,2
+ACE inhibitors,RCT,1
+ACE inhibitors,acute coronary syndrome,1
+ACE inhibitors,andor nitroglycerin,1
+ACE inhibitors,antialdosterone,1
+ACE inhibitors,antiplatelet therapy,1
+ACE inhibitors,blockers,1
+ACE inhibitors,bnp,1
+ACE inhibitors,diuretic therapy,1
+ACE inhibitors,egfr,1
+ACE inhibitors,hypertension,1
+ACE inhibitors,insulin (measurment),1
+ACE inhibitors,insulin treatment,1
+ACE inhibitors,monocyte chemoattractant protin1 m,1
+ACE inhibitors,nitrates,1
+ACE inhibitors,pioglitazone treatment,1
+ACE inhibitors,statins,1
+ACE inhibitors,urinary acr,1
+ACEI/ARB,antidiabetic medication,1
+ACEI/ARB,insulin treatment,2
+ACEI/ARB,lipidlowering therapy,1
+ACEI/ARB,uoer,1
+ARBs,acute coronary syndrome,1
+ARBs,age,1
+ARBs,andor nitroglycerin,1
+ARBs,antialdosterone,1
+ARBs,antidepressants,1
+ARBs,antihypertensive use,2
+ARBs,antiplatelet therapy,1
+ARBs,beta-blocker,2
+ARBs,blockers,2
+ARBs,bnp,1
+ARBs,calcium channel blockers,2
+ARBs,diuretic therapy,1
+ARBs,fibrates,1
+ARBs,hyperlipidemia,1
+ARBs,hypertension,1
+ARBs,insulin treatment,1
+ARBs,monocyte chemoattractant protin1 m,1
+ARBs,neuropathy,1
+ARBs,nitrates,1
+ARBs,peripheral artery disease,1
+ARBs,race/ethnicity,1
+ARBs,secretagogues,1
+ARBs,socioeconomic variables,1
+ARBs,statins,1
+ApoAI,apoAI/apoB ratio,1
+ApoAI,apoB,1
+ApoAI,c-reactive protein,1
+ApoAI,coronary artery disease,1
+ApoAI,fibrinogen,2
+ApoAI,homair,1
+ApoAI,homocysteine,1
+ApoAI,idf metabolic syndrome,1
+ApoAI,insulin (measurment),1
+ApoAI,peripheral arterial occlusive disease,1
+ApoAI,stroke,1
+CCr,albumin excretion rate,1
+CCr,cholesterol,2
+CCr,coronary heart disease,1
+CCr,diastolic blood pressure,1
+CCr,hba1c,1
+CCr,smoking,1
+CCr,systolic blood pressure,1
+Elixhauser comorbidies,blood pressure,1
+Elixhauser comorbidies,bmi,1
+Elixhauser comorbidies,cholesterol,1
+Elixhauser comorbidies,creatinine,1
+Elixhauser comorbidies,microalbuminuria,1
+Elixhauser comorbidies,provider quality controls,1
+Elixhauser comorbidies,sociodemographics,1
+Elixhauser comorbidies,sulfonylurea,1
+Elixhauser comorbidies,year fixed effects,1
+Elixhauser comorbidies,young severity index,1
+Lp(a),apo(a) phenotypes,1
+Lp(a),cholesterol,3
+Lp(a),hba1c,1
+Lp(a),multivessel coronary disease,1
+Lp(a),stent,1
+Lp(a),triglycerides,1
+RCT,ACE inhibitors,1
+RCT,acr,1
+RCT,age,4
+RCT,albumin to creatinine ratio,2
+RCT,alcohol use,2
+RCT,alternative healthy eating index ahei diet quality score quintiles,1
+RCT,angina,1
+RCT,antihypertensive use,1
+RCT,atrial fibrillation,2
+RCT,blood glucose,2
+RCT,bmi,5
+RCT,bnp,1
+RCT,c-reactive protein,2
+RCT,cardiovascular disease,5
+RCT,cholesterol,13
+RCT,coronary artery disease,1
+RCT,creatinine,1
+RCT,diabetes duration,6
+RCT,diabetic neuropathy,1
+RCT,diastolic blood pressure,1
+RCT,egfr,6
+RCT,ejection fraction,1
+RCT,fasting status at blood draw,1
+RCT,gender,4
+RCT,hba1c,7
+RCT,heart failure,1
+RCT,heart rate,2
+RCT,hormone therapy,1
+RCT,hyperlipidemia,1
+RCT,hypertension,5
+RCT,left ventricular ejection fraction,1
+RCT,macroalbuminuria,1
+RCT,macrovascular complications,1
+RCT,menopausal status pre post uncertain missing,1
+RCT,microvascular disease,1
+RCT,myocardial infarction,2
+RCT,nterminal probrain natriuretic peptide,1
+RCT,pacemaker implantation,1
+RCT,physical activity,1
+RCT,prior event,1
+RCT,pro btype natriuretic peptide quartiles,1
+RCT,race/ethnicity,1
+RCT,retinopathy,1
+RCT,smoking,8
+RCT,statins,2
+RCT,systolic blood pressure,7
+RCT,triglycerides,3
+RCT,troponin,2
+RCT,urinary acr,1
+RCT,white blood cell count,2
+acr,blood glucose,1
+acr,cholesterol,1
+acr,egfr,2
+acr,hba1c,1
+acr,triglycerides,1
+acute coronary syndrome,ACE inhibitors,1
+acute coronary syndrome,beta-blocker,1
+acute coronary syndrome,blood glucose,1
+acute coronary syndrome,bnp,1
+acute coronary syndrome,c-reactive protein,1
+acute coronary syndrome,complex lesions,1
+acute coronary syndrome,diuretic therapy,2
+acute coronary syndrome,egfr,1
+acute coronary syndrome,insulin (measurment),1
+acute coronary syndrome,insulin treatment,2
+acute coronary syndrome,left ventricular ejection fraction,1
+acute coronary syndrome,metformin,1
+acute coronary syndrome,monocyte chemoattractant protin1 m,1
+acute coronary syndrome,multivessel coronary disease,1
+acute coronary syndrome,myocardial infarction,1
+acute coronary syndrome,peripheral arterial occlusive disease,1
+acute coronary syndrome,pioglitazone treatment,1
+acute coronary syndrome,prior coronary artery bypass,1
+acute coronary syndrome,statins,1
+acute coronary syndrome,stroke,1
+acute coronary syndrome,sulfonylurea,1
+acute kidney injury,albumin,1
+acute kidney injury,egfr,1
+acute kidney injury,myocardial infarction,1
+adherence to medication,dcsi,1
+adherence to medication,hyperlipidemia,1
+adiponectin,cholesterol,1
+adiponectin,creatinine,1
+adiponectin,egfr,1
+adiponectin,hemoglobin,1
+adiponectin,interleukin 6,1
+adiponectin,parathyroid harmone (PTH),1
+adiponectin,phosphate,1
+adjusted for baseline morbidity,baseline medications,1
+adjusted for baseline morbidity,baseline related risk factor level,1
+adjusted for baseline morbidity,comorbidity,1
+adjusted for baseline morbidity,diabetes duration,1
+age,ACE inhibitors,6
+age,ACEI/ARB,5
+age,ARBs,4
+age,ApoAI,2
+age,CCr,1
+age,RCT,16
+age,Serum 25-hydroxyvitamin D,1
+age,acr,2
+age,acute coronary syndrome,3
+age,adherence to medication,1
+age,adiponectin,1
+age,albumin,31
+age,albumin excretion rate,8
+age,albumin to creatinine ratio,12
+age,alcohol use,24
+age,alphaglucosidase inhibitor,1
+age,alternative healthy eating index ahei diet quality score quintiles,1
+age,andor nitroglycerin,1
+age,angina,5
+age,ankle-brachial index (ABI),4
+age,antiaggregating agents,1
+age,antialdosterone,1
+age,anticoagulants,1
+age,antidepressants,1
+age,antidiabetic medication,3
+age,antihyperlipidemic drugs,2
+age,antihypertensive use,28
+age,antiplatelet therapy,13
+age,apelin36 levels,1
+age,apoAI/apoB ratio,2
+age,apoB,2
+age,arteriovenous fistula,1
+age,aspirin therapy,17
+age,atrial fibrillation,10
+age,autonomic dysfunction,2
+age,bapwv,1
+age,baseline claudication,1
+age,beta-blocker,4
+age,biomarkers (general),1
+age,blockers,2
+age,blood glucose,27
+age,blood pressure,22
+age,bmi,146
+age,bnp,13
+age,c-reactive protein,21
+age,calcium channel blockers,2
+age,cancer,1
+age,cardiac autonomic neuropathy (CAN),2
+age,cardiovascular disease,50
+age,cardiovascular risk factors,6
+age,carotid artery imt,1
+age,carotid intima media thickness,1
+age,carotid plaque,1
+age,cerebrovascular disease,6
+age,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+age,charlson index,2
+age,choleseterol,1
+age,cholesterol,275
+age,chronic kidney disease,8
+age,chronic obstructive pulmonary disease,1
+age,chronic renal failure,1
+age,ci,1
+age,cimt,3
+age,clinic,1
+age,clinic gamma frailty,1
+age,clopidigrel,1
+age,clopidogrel,1
+age,clustering by clinic,1
+age,combined alox12 genotypes,1
+age,complete revascularization,1
+age,complex lesions,1
+age,coronary artery calcium score,4
+age,coronary artery disease,18
+age,coronary heart disease,12
+age,creatinine,51
+age,dcb use,1
+age,dcsi,1
+age,depression,1
+age,diabetes,13
+age,diabetes duration,134
+age,diabetes treatment,23
+age,diabetic neuropathy,2
+age,dialysis,5
+age,diastolic blood pressure,38
+age,dipeptidyl peptidase 4 inhibitor at discharge,1
+age,dipyridamole stress test,1
+age,disease duration,1
+age,distal polyneuropathy,1
+age,diuretic therapy,3
+age,dpucmgp,1
+age,duration,2
+age,ecg abnormalities,22
+age,echolucent plaque,1
+age,egfr,64
+age,ejection fraction,2
+age,ejection fraction 40,1
+age,endothelial dysfunction,1
+age,fasting cpeptide,1
+age,fasting plasma glucose,5
+age,fasting status at blood draw,1
+age,fasting status yes or no,1
+age,fibrates,2
+age,fibrinogen,9
+age,final timi flow,1
+age,folate,1
+age,fpi,1
+age,frailty effect for cohort,1
+age,gamma frailty,1
+age,gender,212
+age,gliclazide,1
+age,glycated hemoglobin,3
+age,glycemic control,9
+age,hab1c,1
+age,haemoglobin,1
+age,hba1c,152
+age,heart failure,17
+age,heart rate,11
+age,heart valve calcium,1
+age,height,3
+age,hemoglobin,2
+age,high density lipoprotein level,1
+age,highdensity lipoprotein,3
+age,history of copd,1
+age,history of coronary disease,3
+age,homair,5
+age,homocysteine,2
+age,homocysteine at baseline,1
+age,hormone therapy,1
+age,hyperlipidemia,23
+age,hypertension,91
+age,hypoglycaemic treatment,1
+age,idf metabolic syndrome,1
+age,indigenous australian,1
+age,inflammatory markers,1
+age,insulin (measurment),6
+age,insulin treatment,27
+age,intensive treatment,1
+age,interleukin 6,2
+age,intervention arm no interaction model,1
+age,ischemia,2
+age,ischemic heart disease,5
+age,kidney function,2
+age,left atrial diameter,1
+age,left bundle branch block,1
+age,left ventricular ejection fraction,11
+age,left ventricular hypertrophy,2
+age,"leisure time physical activity",1
+age,lipid profile,4
+age,lipidlowering therapy,18
+age,living alone,1
+age,lm treatment,1
+age,log101  acr,1
+age,logaer,1
+age,lowdensity lipoprotein,2
+age,macroalbuminuria,4
+age,macrovascular complications,13
+age,marital status,2
+age,mca stenosis,1
+age,medication differences,1
+age,medications,1
+age,menopausal status pre post uncertain missing,1
+age,metformin,5
+age,microalbuminuria,15
+age,microvascular disease,11
+age,mild plaque calcifi cation,1
+age,monocyte chemoattractant protin1 m,1
+age,multivessel coronary disease,2
+age,myocardial infarction,25
+age,nephropathy,5
+age,neuropathy,4
+age,nitrates,1
+age,nterminal probrain natriuretic peptide,2
+age,nzdep quintile,1
+age,other complications,1
+age,other conventional risk factors,1
+age,other lifestyle risk factors,1
+age,pIMT,1
+age,pacemaker implantation,1
+age,parathyroid harmone (PTH),2
+age,percent low density plaque,1
+age,percutaneous coronary intervention,4
+age,peripheral arterial occlusive disease,2
+age,peripheral artery disease,13
+age,peripheral neuropathy,1
+age,peripheral vascular disease,3
+age,peripherovascular morbidity,1
+age,phosphate,6
+age,physical activity,16
+age,physical inactivity,5
+age,pioglitazone treatment,1
+age,plaque thickness,1
+age,plaque volume,1
+age,postpci thrombolysis in mitimiflow,1
+age,previous pcicabg,1
+age,prior coronary artery bypass,3
+age,prior event,1
+age,pro btype natriuretic peptide quartiles,1
+age,proteinuria,6
+age,psychiatric medications,1
+age,pulse pressure,3
+age,race/ethnicity,26
+age,ratio between total,1
+age,referring physician,1
+age,renal function,1
+age,renal impairment,1
+age,renal insufficiency,1
+age,renin-angiotensin system inhibitors,3
+age,retinopathy,15
+age,rosiglitazone during followup,1
+age,secretagogues,1
+age,sensory neuropathy,1
+age,sensory neuropathy presentabsent,1
+age,significant proximal lad disease,1
+age,skinfold thickness,1
+age,sleep duration,1
+age,smoking,181
+age,sociodemographics,14
+age,socioeconomic variables,11
+age,sodium concentration,1
+age,statins,35
+age,stent,1
+age,stroke,13
+age,study treatment,1
+age,sulfonylurea,4
+age,syntax score,1
+age,systolic blood pressure,119
+age,the presence of total occlusion,1
+age,the ukpds risk score,1
+age,the use of drugs yesno,1
+age,therapy for hypercoagulation,1
+age,thiazolidinediones,1
+age,tnfalpha,1
+age,"to tal",1
+age,top three multidimensional scaling axes,1
+age,tot chol,1
+age,total energy kcalday,1
+age,treatment,1
+age,triacylglycerol,4
+age,triglycerides,68
+age,troponin,3
+age,tryglycerides,1
+age,type of treatment,1
+age,ultrafiltration volume,2
+age,uoer,2
+age,uric acid,5
+age,urinary acr,5
+age,urinary albumin excretion rate,10
+age,urinary protein log,1
+age,use of blockers,1
+age,use of sulfonamides,1
+age,vitamin b12,1
+age,waist measurements,17
+age,wasting,1
+age,weight,1
+age,white blood cell count,4
+age,year of followup start,1
+age,years of enrolment,1
+albumin,Lp(a),1
+albumin,RCT,1
+albumin,age,2
+albumin,apo(a) phenotypes,1
+albumin,arteriovenous fistula,1
+albumin,aspirin therapy,1
+albumin,autonomic dysfunction,1
+albumin,blood pressure,1
+albumin,bmi,1
+albumin,bnp,2
+albumin,c-reactive protein,3
+albumin,cardiovascular disease,2
+albumin,carotid intima media thickness,1
+albumin,cholesterol,11
+albumin,chronic kidney disease,1
+albumin,cimt,2
+albumin,combined alox12 genotypes,1
+albumin,coronary artery disease,2
+albumin,creatinine,2
+albumin,diabetes duration,2
+albumin,diabetes treatment,3
+albumin,dialysis,1
+albumin,ecg abnormalities,2
+albumin,egfr,2
+albumin,endothelial dysfunction,1
+albumin,gender,1
+albumin,hba1c,7
+albumin,heart failure,2
+albumin,homair,1
+albumin,hyperlipidemia,1
+albumin,hypertension,2
+albumin,insulin (measurment),1
+albumin,insulin treatment,1
+albumin,interleukin 6,1
+albumin,ischemic heart disease,1
+albumin,macrovascular complications,1
+albumin,metformin,1
+albumin,microvascular disease,1
+albumin,multivessel coronary disease,1
+albumin,myocardial infarction,4
+albumin,parathyroid harmone (PTH),1
+albumin,phosphate,3
+albumin,race/ethnicity,1
+albumin,retinopathy,1
+albumin,smoking,4
+albumin,sociodemographics,1
+albumin,socioeconomic variables,1
+albumin,stent,1
+albumin,sulfonylurea,1
+albumin,systolic blood pressure,2
+albumin,therapy for hypercoagulation,1
+albumin,tnfalpha,1
+albumin,triglycerides,3
+albumin,uric acid,1
+albumin excretion rate,ankle-brachial index (ABI),1
+albumin excretion rate,bmi,1
+albumin excretion rate,bnp,1
+albumin excretion rate,c-reactive protein,1
+albumin excretion rate,cardiovascular disease,1
+albumin excretion rate,cholesterol,2
+albumin excretion rate,coronary heart disease,1
+albumin excretion rate,diabetes treatment,1
+albumin excretion rate,diastolic blood pressure,1
+albumin excretion rate,ecg abnormalities,1
+albumin excretion rate,fibrinogen,1
+albumin excretion rate,glycemic control,1
+albumin excretion rate,hba1c,1
+albumin excretion rate,heart rate,1
+albumin excretion rate,microalbuminuria,1
+albumin excretion rate,nterminal probrain natriuretic peptide,1
+albumin excretion rate,peripheral artery disease,1
+albumin excretion rate,physical activity,1
+albumin excretion rate,retinopathy,1
+albumin excretion rate,sensory neuropathy presentabsent,1
+albumin excretion rate,smoking,1
+albumin excretion rate,stroke,1
+albumin excretion rate,systolic blood pressure,1
+albumin excretion rate,the use of drugs yesno,1
+albumin excretion rate,white blood cell count,1
+albumin to creatinine ratio,ACE inhibitors,1
+albumin to creatinine ratio,acute coronary syndrome,1
+albumin to creatinine ratio,albumin,1
+albumin to creatinine ratio,alcohol use,2
+albumin to creatinine ratio,antihypertensive use,1
+albumin to creatinine ratio,average of 3 daily 2hour bg levels after meals,1
+albumin to creatinine ratio,beta-blocker,1
+albumin to creatinine ratio,blood glucose,1
+albumin to creatinine ratio,blood pressure,1
+albumin to creatinine ratio,bmi,3
+albumin to creatinine ratio,c-reactive protein,1
+albumin to creatinine ratio,cardiovascular disease,1
+albumin to creatinine ratio,cholesterol,7
+albumin to creatinine ratio,chronic kidney disease,2
+albumin to creatinine ratio,coronary artery disease,1
+albumin to creatinine ratio,creatinine,1
+albumin to creatinine ratio,diabetes duration,2
+albumin to creatinine ratio,diabetes treatment,4
+albumin to creatinine ratio,diastolic blood pressure,1
+albumin to creatinine ratio,diuretic therapy,1
+albumin to creatinine ratio,egfr,1
+albumin to creatinine ratio,glycemic control,3
+albumin to creatinine ratio,hba1c,5
+albumin to creatinine ratio,heart failure,1
+albumin to creatinine ratio,heart rate,1
+albumin to creatinine ratio,high density lipoprotein level,1
+albumin to creatinine ratio,hypertension,2
+albumin to creatinine ratio,insulin (measurment),1
+albumin to creatinine ratio,lipidlowering therapy,1
+albumin to creatinine ratio,macrovascular complications,1
+albumin to creatinine ratio,marital status,1
+albumin to creatinine ratio,metformin,1
+albumin to creatinine ratio,microalbuminuria,1
+albumin to creatinine ratio,microvascular disease,1
+albumin to creatinine ratio,myocardial infarction,2
+albumin to creatinine ratio,nterminal probrain natriuretic peptide,1
+albumin to creatinine ratio,peripheral arterial occlusive disease,1
+albumin to creatinine ratio,pioglitazone treatment,1
+albumin to creatinine ratio,prior coronary artery bypass,1
+albumin to creatinine ratio,smoking,3
+albumin to creatinine ratio,sociodemographics,1
+albumin to creatinine ratio,statins,2
+albumin to creatinine ratio,stroke,1
+albumin to creatinine ratio,sulfonylurea,1
+albumin to creatinine ratio,systolic blood pressure,3
+albumin to creatinine ratio,triglycerides,2
+albumin to creatinine ratio,troponin,1
+albumin to creatinine ratio,waist measurements,1
+alcohol use,ACEI/ARB,1
+alcohol use,ApoAI,1
+alcohol use,albumin,1
+alcohol use,albumin to creatinine ratio,1
+alcohol use,alphaglucosidase inhibitor,1
+alcohol use,angina,1
+alcohol use,antidiabetic medication,1
+alcohol use,antihypertensive use,3
+alcohol use,antiplatelet therapy,3
+alcohol use,apoAI/apoB ratio,1
+alcohol use,apoB,1
+alcohol use,aspirin therapy,3
+alcohol use,beta-blocker,1
+alcohol use,blood glucose,2
+alcohol use,blood pressure,2
+alcohol use,bmi,8
+alcohol use,c-reactive protein,2
+alcohol use,calcium channel blockers,1
+alcohol use,cardiovascular disease,2
+alcohol use,cholesterol,19
+alcohol use,chronic kidney disease,2
+alcohol use,chronic obstructive pulmonary disease,1
+alcohol use,clopidigrel,1
+alcohol use,complete revascularization,1
+alcohol use,coronary artery disease,1
+alcohol use,coronary heart disease,2
+alcohol use,creatinine,5
+alcohol use,dcb use,1
+alcohol use,diabetes duration,3
+alcohol use,diabetes treatment,5
+alcohol use,diastolic blood pressure,2
+alcohol use,dipeptidyl peptidase 4 inhibitor at discharge,1
+alcohol use,ecg abnormalities,3
+alcohol use,egfr,2
+alcohol use,fasting plasma glucose,1
+alcohol use,fasting status yes or no,1
+alcohol use,fibrinogen,2
+alcohol use,glycemic control,1
+alcohol use,hba1c,10
+alcohol use,heart rate,3
+alcohol use,homair,1
+alcohol use,homocysteine,1
+alcohol use,hyperlipidemia,4
+alcohol use,hypertension,8
+alcohol use,idf metabolic syndrome,1
+alcohol use,insulin (measurment),2
+alcohol use,insulin treatment,3
+alcohol use,left ventricular ejection fraction,2
+alcohol use,lipidlowering therapy,1
+alcohol use,lm treatment,1
+alcohol use,myocardial infarction,2
+alcohol use,other lifestyle risk factors,1
+alcohol use,percutaneous coronary intervention,2
+alcohol use,peripheral artery disease,1
+alcohol use,peripheral vascular disease,1
+alcohol use,physical activity,9
+alcohol use,psychiatric medications,1
+alcohol use,retinopathy,2
+alcohol use,smoking,2
+alcohol use,socioeconomic variables,1
+alcohol use,statins,4
+alcohol use,stroke,2
+alcohol use,sulfonylurea,1
+alcohol use,syntax score,1
+alcohol use,systolic blood pressure,2
+alcohol use,total energy kcalday,1
+alcohol use,triacylglycerol,1
+alcohol use,triglycerides,5
+alcohol use,use of blockers,1
+alcohol use,waist measurements,3
+alphaglucosidase inhibitor,dipeptidyl peptidase 4 inhibitor at discharge,1
+alphaglucosidase inhibitor,insulin (measurment),1
+alphaglucosidase inhibitor,sulfonylurea,1
+alternative healthy eating index ahei diet quality score quintiles,alcohol use,1
+alternative healthy eating index ahei diet quality score quintiles,bmi,1
+alternative healthy eating index ahei diet quality score quintiles,cholesterol,1
+alternative healthy eating index ahei diet quality score quintiles,hypertension,1
+alternative healthy eating index ahei diet quality score quintiles,physical activity,1
+andor nitroglycerin,acute coronary syndrome,1
+andor nitroglycerin,bnp,1
+andor nitroglycerin,diuretic therapy,1
+andor nitroglycerin,insulin treatment,1
+andor nitroglycerin,monocyte chemoattractant protin1 m,1
+angina,ACEI/ARB,1
+angina,antidiabetic medication,1
+angina,atrial fibrillation,1
+angina,beta-blocker,1
+angina,cerebrovascular disease,1
+angina,cholesterol,2
+angina,clopidigrel,1
+angina,creatinine,1
+angina,dipyridamole stress test,1
+angina,ecg abnormalities,2
+angina,insulin treatment,1
+angina,ischemia,1
+angina,left ventricular ejection fraction,2
+angina,myocardial infarction,2
+angina,pacemaker implantation,1
+angina,peripheral artery disease,1
+angina,statins,1
+ankle-brachial index (ABI),age,1
+ankle-brachial index (ABI),bmi,1
+ankle-brachial index (ABI),cholesterol,2
+ankle-brachial index (ABI),coronary artery disease,1
+ankle-brachial index (ABI),diabetes duration,1
+ankle-brachial index (ABI),diastolic blood pressure,1
+ankle-brachial index (ABI),ecg abnormalities,6
+ankle-brachial index (ABI),egfr,1
+ankle-brachial index (ABI),fasting plasma glucose,1
+ankle-brachial index (ABI),hba1c,2
+ankle-brachial index (ABI),heart rate,1
+ankle-brachial index (ABI),significant proximal lad disease,1
+ankle-brachial index (ABI),statins,1
+ankle-brachial index (ABI),systolic blood pressure,1
+ankle-brachial index (ABI),the presence of total occlusion,1
+antialdosterone,acute coronary syndrome,1
+antialdosterone,andor nitroglycerin,1
+antialdosterone,blockers,1
+antialdosterone,bnp,1
+antialdosterone,diuretic therapy,1
+antialdosterone,insulin treatment,1
+antialdosterone,monocyte chemoattractant protin1 m,1
+antialdosterone,nitrates,1
+anticoagulants,ACE inhibitors,1
+anticoagulants,ARBs,1
+anticoagulants,acute coronary syndrome,1
+anticoagulants,andor nitroglycerin,1
+anticoagulants,antialdosterone,1
+anticoagulants,blockers,1
+anticoagulants,bnp,1
+anticoagulants,diuretic therapy,1
+anticoagulants,insulin treatment,1
+anticoagulants,monocyte chemoattractant protin1 m,1
+anticoagulants,nitrates,1
+anticoagulants,statins,1
+antidiabetic medication,antihypertensive use,2
+antidiabetic medication,antiplatelet therapy,1
+antidiabetic medication,insulin treatment,1
+antidiabetic medication,statins,1
+antihyperlipidemic drugs,cholesterol,3
+antihyperlipidemic drugs,egfr,1
+antihyperlipidemic drugs,triglycerides,1
+antihyperlipidemic drugs,waist measurements,1
+antihypertensive use,ACE inhibitors,1
+antihypertensive use,ApoAI,1
+antihypertensive use,RCT,1
+antihypertensive use,age,1
+antihypertensive use,albumin,1
+antihypertensive use,alcohol use,2
+antihypertensive use,antidepressants,1
+antihypertensive use,antihyperlipidemic drugs,1
+antihypertensive use,antiplatelet therapy,2
+antihypertensive use,apoAI/apoB ratio,1
+antihypertensive use,apoB,1
+antihypertensive use,aspirin therapy,2
+antihypertensive use,atrial fibrillation,1
+antihypertensive use,blood glucose,3
+antihypertensive use,bmi,2
+antihypertensive use,c-reactive protein,1
+antihypertensive use,calcium channel blockers,1
+antihypertensive use,cardiovascular disease,2
+antihypertensive use,cholesterol,8
+antihypertensive use,coronary heart disease,1
+antihypertensive use,creatinine,2
+antihypertensive use,diabetes duration,1
+antihypertensive use,diabetes treatment,1
+antihypertensive use,egfr,2
+antihypertensive use,fibrates,1
+antihypertensive use,fibrinogen,1
+antihypertensive use,hba1c,2
+antihypertensive use,heart failure,2
+antihypertensive use,heart rate,2
+antihypertensive use,homair,1
+antihypertensive use,homocysteine,1
+antihypertensive use,idf metabolic syndrome,1
+antihypertensive use,insulin (measurment),2
+antihypertensive use,lipidlowering therapy,9
+antihypertensive use,microalbuminuria,1
+antihypertensive use,peripheral artery disease,1
+antihypertensive use,physical activity,1
+antihypertensive use,psychiatric medications,1
+antihypertensive use,race/ethnicity,1
+antihypertensive use,renal impairment,1
+antihypertensive use,retinopathy,1
+antihypertensive use,sleep duration,1
+antihypertensive use,smoking,3
+antihypertensive use,sociodemographics,1
+antihypertensive use,socioeconomic variables,1
+antihypertensive use,statins,2
+antihypertensive use,systolic blood pressure,2
+antihypertensive use,triglycerides,4
+antihypertensive use,use of blockers,1
+antihypertensive use,waist measurements,3
+antiplatelet therapy,ACE inhibitors,1
+antiplatelet therapy,ARBs,3
+antiplatelet therapy,RCT,1
+antiplatelet therapy,acute coronary syndrome,1
+antiplatelet therapy,age,1
+antiplatelet therapy,alphaglucosidase inhibitor,2
+antiplatelet therapy,andor nitroglycerin,1
+antiplatelet therapy,antialdosterone,1
+antiplatelet therapy,anticoagulants,1
+antiplatelet therapy,antihypertensive use,3
+antiplatelet therapy,beta-blocker,2
+antiplatelet therapy,blockers,1
+antiplatelet therapy,blood glucose,1
+antiplatelet therapy,bmi,2
+antiplatelet therapy,bnp,1
+antiplatelet therapy,calcium channel blockers,2
+antiplatelet therapy,cholesterol,3
+antiplatelet therapy,diastolic blood pressure,1
+antiplatelet therapy,dipeptidyl peptidase 4 inhibitor at discharge,2
+antiplatelet therapy,diuretic therapy,1
+antiplatelet therapy,egfr,1
+antiplatelet therapy,glycemic control,2
+antiplatelet therapy,hba1c,3
+antiplatelet therapy,heart failure,1
+antiplatelet therapy,hyperlipidemia,1
+antiplatelet therapy,hypertension,1
+antiplatelet therapy,insulin (measurment),2
+antiplatelet therapy,insulin treatment,1
+antiplatelet therapy,lipidlowering therapy,1
+antiplatelet therapy,monocyte chemoattractant protin1 m,1
+antiplatelet therapy,neuropathy,1
+antiplatelet therapy,nitrates,1
+antiplatelet therapy,peripheral artery disease,1
+antiplatelet therapy,psychiatric medications,1
+antiplatelet therapy,race/ethnicity,1
+antiplatelet therapy,secretagogues,1
+antiplatelet therapy,smoking,1
+antiplatelet therapy,socioeconomic variables,1
+antiplatelet therapy,statins,7
+antiplatelet therapy,study treatment,1
+antiplatelet therapy,sulfonylurea,2
+antiplatelet therapy,systolic blood pressure,1
+antiplatelet therapy,triglycerides,1
+antiplatelet therapy,uric acid,1
+antiplatelet therapy,urinary acr,1
+apelin36 levels,adiponectin,1
+apelin36 levels,cholesterol,1
+apelin36 levels,creatinine,1
+apelin36 levels,egfr,1
+apelin36 levels,hemoglobin,1
+apelin36 levels,homair,1
+apelin36 levels,interleukin 6,1
+apelin36 levels,parathyroid harmone (PTH),1
+apelin36 levels,phosphate,1
+apoAI/apoB ratio,albumin excretion rate,1
+apoAI/apoB ratio,c-reactive protein,2
+apoAI/apoB ratio,cardiovascular disease,1
+apoAI/apoB ratio,diabetes treatment,1
+apoAI/apoB ratio,egfr,1
+apoAI/apoB ratio,fibrinogen,1
+apoAI/apoB ratio,homair,1
+apoAI/apoB ratio,homocysteine,1
+apoAI/apoB ratio,idf metabolic syndrome,1
+apoAI/apoB ratio,insulin (measurment),1
+apoB,apoAI/apoB ratio,1
+apoB,c-reactive protein,1
+apoB,fibrinogen,1
+apoB,homair,1
+apoB,homocysteine,1
+apoB,idf metabolic syndrome,1
+apoB,insulin (measurment),1
+apoB,microalbuminuria,1
+aspirin therapy,ACE inhibitors,1
+aspirin therapy,ARBs,1
+aspirin therapy,RCT,1
+aspirin therapy,acute coronary syndrome,1
+aspirin therapy,age,1
+aspirin therapy,andor nitroglycerin,1
+aspirin therapy,antialdosterone,1
+aspirin therapy,anticoagulants,1
+aspirin therapy,antiplatelet therapy,1
+aspirin therapy,blockers,1
+aspirin therapy,blood glucose,1
+aspirin therapy,bnp,1
+aspirin therapy,cholesterol,4
+aspirin therapy,clopidogrel,1
+aspirin therapy,creatinine,2
+aspirin therapy,diastolic blood pressure,1
+aspirin therapy,diuretic therapy,1
+aspirin therapy,fasting plasma glucose,1
+aspirin therapy,fibrinogen,1
+aspirin therapy,framingham risk score,1
+aspirin therapy,gender,1
+aspirin therapy,glycemic control,1
+aspirin therapy,hba1c,2
+aspirin therapy,hypertension,2
+aspirin therapy,insulin treatment,1
+aspirin therapy,monocyte chemoattractant protin1 m,1
+aspirin therapy,nitrates,1
+aspirin therapy,smoking,1
+aspirin therapy,statins,2
+aspirin therapy,systolic blood pressure,3
+atrial fibrillation,ACE inhibitors,1
+atrial fibrillation,ARBs,1
+atrial fibrillation,RCT,1
+atrial fibrillation,acute coronary syndrome,1
+atrial fibrillation,age,1
+atrial fibrillation,albumin,1
+atrial fibrillation,andor nitroglycerin,1
+atrial fibrillation,angina,1
+atrial fibrillation,antialdosterone,1
+atrial fibrillation,anticoagulants,1
+atrial fibrillation,antiplatelet therapy,1
+atrial fibrillation,aspirin therapy,2
+atrial fibrillation,blockers,1
+atrial fibrillation,bmi,2
+atrial fibrillation,bnp,2
+atrial fibrillation,c-reactive protein,1
+atrial fibrillation,cerebrovascular disease,1
+atrial fibrillation,cholesterol,5
+atrial fibrillation,chronic kidney disease,1
+atrial fibrillation,clopidogrel,1
+atrial fibrillation,creatinine,3
+atrial fibrillation,diuretic therapy,1
+atrial fibrillation,egfr,2
+atrial fibrillation,gender,1
+atrial fibrillation,hba1c,2
+atrial fibrillation,heart failure,2
+atrial fibrillation,heart rate,1
+atrial fibrillation,insulin treatment,1
+atrial fibrillation,left ventricular ejection fraction,1
+atrial fibrillation,macroalbuminuria,1
+atrial fibrillation,mild plaque calcifi cation,1
+atrial fibrillation,monocyte chemoattractant protin1 m,1
+atrial fibrillation,nitrates,1
+atrial fibrillation,pacemaker implantation,2
+atrial fibrillation,percent low density plaque,1
+atrial fibrillation,percutaneous coronary intervention,1
+atrial fibrillation,peripheral artery disease,1
+atrial fibrillation,plaque volume,1
+atrial fibrillation,renal impairment,1
+atrial fibrillation,smoking,1
+atrial fibrillation,sociodemographics,1
+atrial fibrillation,sodium concentration,1
+atrial fibrillation,statins,1
+atrial fibrillation,systolic blood pressure,2
+atrial fibrillation,uric acid,1
+autonomic dysfunction,ankle-brachial index (ABI),1
+autonomic dysfunction,distal polyneuropathy,1
+autonomic nervous function,smoking,1
+average of 3 daily 2hour bg levels after meals,diastolic blood pressure,1
+average of 3 daily 2hour bg levels after meals,glycemic control,2
+average of 3 daily 2hour bg levels after meals,hba1c,1
+average of 3 daily 2hour bg levels after meals,heart rate,1
+average of 3 daily 2hour bg levels after meals,systolic blood pressure,1
+bapwv,carotid artery imt,1
+baseline claudication,albumin excretion rate,1
+baseline claudication,ankle-brachial index (ABI),1
+baseline claudication,blood pressure,1
+baseline claudication,bmi,2
+baseline claudication,cholesterol,2
+baseline claudication,clinic,1
+baseline claudication,ecg abnormalities,1
+baseline claudication,fibrinogen,1
+baseline claudication,hba1c,1
+baseline claudication,heart rate,1
+baseline claudication,microalbuminuria,1
+baseline claudication,physical activity,1
+baseline medications,diabetes duration,1
+baseline related risk factor level,baseline medications,1
+baseline related risk factor level,diabetes duration,1
+beta-blocker,ACE inhibitors,1
+beta-blocker,ACEI/ARB,1
+beta-blocker,age,1
+beta-blocker,antidiabetic medication,1
+beta-blocker,calcium channel blockers,3
+beta-blocker,hyperlipidemia,1
+beta-blocker,insulin treatment,1
+beta-blocker,neuropathy,1
+beta-blocker,peripheral artery disease,1
+beta-blocker,pioglitazone treatment,1
+beta-blocker,secretagogues,1
+beta-blocker,statins,1
+blockers,acute coronary syndrome,1
+blockers,andor nitroglycerin,1
+blockers,antidepressants,1
+blockers,antihypertensive use,1
+blockers,bnp,1
+blockers,diuretic therapy,1
+blockers,fibrates,1
+blockers,insulin treatment,1
+blockers,monocyte chemoattractant protin1 m,1
+blockers,nitrates,1
+blockers,statins,1
+blood glucose,ApoAI,1
+blood glucose,age,1
+blood glucose,albumin,7
+blood glucose,alcohol use,1
+blood glucose,antihypertensive use,3
+blood glucose,apoAI/apoB ratio,1
+blood glucose,apoB,1
+blood glucose,atrial fibrillation,1
+blood glucose,blood pressure,1
+blood glucose,bmi,6
+blood glucose,c-reactive protein,4
+blood glucose,calcium channel blockers,1
+blood glucose,cardiovascular disease,3
+blood glucose,cardiovascular risk factors,1
+blood glucose,cerebrovascular disease,1
+blood glucose,choleseterol,1
+blood glucose,cholesterol,19
+blood glucose,complex lesions,1
+blood glucose,coronary artery disease,2
+blood glucose,creatinine,8
+blood glucose,diabetes,1
+blood glucose,diabetes duration,3
+blood glucose,diabetes treatment,4
+blood glucose,diastolic blood pressure,2
+blood glucose,diuretic therapy,1
+blood glucose,family history of diabetes,1
+blood glucose,fibrinogen,1
+blood glucose,final timi flow,1
+blood glucose,gender,2
+blood glucose,hba1c,6
+blood glucose,heart failure,1
+blood glucose,heart rate,2
+blood glucose,homair,1
+blood glucose,homocysteine,1
+blood glucose,hypertension,2
+blood glucose,idf metabolic syndrome,1
+blood glucose,insulin (measurment),1
+blood glucose,insulin treatment,2
+blood glucose,left ventricular ejection fraction,2
+blood glucose,lipidlowering therapy,1
+blood glucose,lowdensity lipoprotein,1
+blood glucose,macrovascular complications,1
+blood glucose,mean blood pressure,1
+blood glucose,metformin,1
+blood glucose,microalbuminuria,1
+blood glucose,multivessel coronary disease,2
+blood glucose,myocardial spect,1
+blood glucose,nephropathy,1
+blood glucose,nterminal probrain natriuretic peptide,1
+blood glucose,other complications,1
+blood glucose,percutaneous coronary intervention,1
+blood glucose,peripheral artery disease,1
+blood glucose,peripheral neuropathy,1
+blood glucose,peripheral vascular disease,1
+blood glucose,proteinuria,1
+blood glucose,pulse pressure,1
+blood glucose,qt interval,1
+blood glucose,renal impairment,1
+blood glucose,smoking,4
+blood glucose,sociodemographics,1
+blood glucose,stent,1
+blood glucose,systolic blood pressure,4
+blood glucose,triglycerides,10
+blood glucose,troponin,1
+blood glucose,use of blockers,1
+blood glucose,waist measurements,1
+blood pressure,ACE inhibitors,1
+blood pressure,ACEI/ARB,1
+blood pressure,acute coronary syndrome,1
+blood pressure,albumin,2
+blood pressure,albumin excretion rate,1
+blood pressure,ankle-brachial index (ABI),1
+blood pressure,antihypertensive use,2
+blood pressure,antiplatelet therapy,2
+blood pressure,beta-blocker,1
+blood pressure,blood glucose,1
+blood pressure,bmi,7
+blood pressure,bnp,1
+blood pressure,cardiovascular disease,1
+blood pressure,cholesterol,14
+blood pressure,coronary artery disease,1
+blood pressure,coronary heart disease,2
+blood pressure,creatinine,4
+blood pressure,diabetes,1
+blood pressure,diabetes treatment,1
+blood pressure,diuretic therapy,1
+blood pressure,ecg abnormalities,1
+blood pressure,egfr,3
+blood pressure,fibrinogen,1
+blood pressure,hba1c,6
+blood pressure,heart failure,2
+blood pressure,heart rate,2
+blood pressure,hyperlipidemia,1
+blood pressure,hypertension,2
+blood pressure,insulin (measurment),1
+blood pressure,insulin treatment,1
+blood pressure,lipid profile,3
+blood pressure,lipidlowering therapy,2
+blood pressure,metformin,1
+blood pressure,microalbuminuria,3
+blood pressure,microvascular disease,1
+blood pressure,myocardial infarction,1
+blood pressure,nephropathy,2
+blood pressure,peripheral arterial occlusive disease,1
+blood pressure,peripheral artery disease,2
+blood pressure,physical activity,1
+blood pressure,pioglitazone treatment,1
+blood pressure,prior coronary artery bypass,1
+blood pressure,provider quality controls,1
+blood pressure,retinopathy,1
+blood pressure,smoking,2
+blood pressure,sociodemographics,1
+blood pressure,statins,1
+blood pressure,stroke,1
+blood pressure,study treatment,1
+blood pressure,sulfonylurea,2
+blood pressure,therapy for hypercoagulation,1
+blood pressure,triglycerides,5
+blood pressure,uric acid,1
+blood pressure,urinary albumin excretion rate,2
+blood pressure,year fixed effects,1
+blood transfusion,bmi,1
+blood transfusion,diabetes,1
+blood transfusion,egfr,1
+blood transfusion,gastrointestinal bleeding in past 5 years,1
+blood transfusion,heart rate,1
+blood transfusion,hyperuricemia-gout,1
+blood transfusion,lung disease,1
+blood transfusion,peripheral artery disease,1
+blood transfusion,systolic blood pressure,1
+blood transfusion,white blood cell count,1
+bmi,ACE inhibitors,4
+bmi,ACEI/ARB,3
+bmi,ARBs,5
+bmi,ApoAI,1
+bmi,CCr,1
+bmi,Lp(a),1
+bmi,RCT,5
+bmi,acr,2
+bmi,acute coronary syndrome,3
+bmi,age,4
+bmi,albumin,17
+bmi,albumin excretion rate,5
+bmi,albumin to creatinine ratio,4
+bmi,alcohol use,11
+bmi,alphaglucosidase inhibitor,1
+bmi,andor nitroglycerin,1
+bmi,angina,3
+bmi,ankle-brachial index (ABI),3
+bmi,antialdosterone,1
+bmi,anticoagulants,1
+bmi,antidepressants,1
+bmi,antidiabetic medication,3
+bmi,antihyperlipidemic drugs,2
+bmi,antihypertensive use,18
+bmi,antiplatelet therapy,10
+bmi,apo(a) phenotypes,1
+bmi,apoAI/apoB ratio,1
+bmi,apoB,1
+bmi,arteriovenous fistula,1
+bmi,aspirin therapy,13
+bmi,atrial fibrillation,5
+bmi,autonomic dysfunction,2
+bmi,average of 3 daily 2hour bg levels after meals,1
+bmi,bapwv,1
+bmi,beta-blocker,4
+bmi,blockers,2
+bmi,blood glucose,14
+bmi,blood pressure,8
+bmi,bnp,5
+bmi,c-reactive protein,10
+bmi,calcium channel blockers,3
+bmi,cancer,1
+bmi,cardiac autonomic neuropathy (CAN),1
+bmi,cardiovascular disease,17
+bmi,carotid artery imt,1
+bmi,cerebrovascular disease,3
+bmi,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+bmi,cholesterol,162
+bmi,chronic kidney disease,5
+bmi,chronic obstructive pulmonary disease,1
+bmi,chronic renal failure,1
+bmi,cimt,3
+bmi,clinic,1
+bmi,clopidigrel,1
+bmi,clopidogrel,1
+bmi,combined alox12 genotypes,1
+bmi,complete revascularization,1
+bmi,complex lesions,1
+bmi,coronary artery calcium score,2
+bmi,coronary artery disease,7
+bmi,coronary heart disease,7
+bmi,creatinine,32
+bmi,dcb use,1
+bmi,depression,1
+bmi,diabetes,4
+bmi,diabetes duration,30
+bmi,diabetes treatment,17
+bmi,diabetic neuropathy,1
+bmi,dialysis,4
+bmi,diastolic blood pressure,26
+bmi,dipeptidyl peptidase 4 inhibitor at discharge,1
+bmi,dipyridamole stress test,1
+bmi,distal polyneuropathy,1
+bmi,diuretic therapy,3
+bmi,dpucmgp,1
+bmi,ecg abnormalities,15
+bmi,egfr,27
+bmi,ejection fraction,1
+bmi,ejection fraction 40,1
+bmi,endothelial dysfunction,1
+bmi,fasting plasma glucose,2
+bmi,fasting status yes or no,1
+bmi,fibrates,1
+bmi,fibrinogen,7
+bmi,gastrointestinal bleeding in past 5 years,1
+bmi,gender,2
+bmi,glycated hemoglobin,1
+bmi,glycemic control,6
+bmi,hba1c,80
+bmi,heart failure,8
+bmi,heart rate,7
+bmi,height,2
+bmi,highdensity lipoprotein,3
+bmi,history of coronary disease,1
+bmi,homair,3
+bmi,homocysteine,2
+bmi,homocysteine at baseline,1
+bmi,hyperlipidemia,11
+bmi,hypertension,42
+bmi,hyperuricemia-gout,1
+bmi,idf metabolic syndrome,1
+bmi,incretins,1
+bmi,indigenous australian,1
+bmi,inflammatory markers,1
+bmi,insulin (measurment),3
+bmi,insulin treatment,16
+bmi,ischemia,1
+bmi,ischemic heart disease,2
+bmi,left ventricular ejection fraction,6
+bmi,left ventricular hypertrophy,2
+bmi,"leisure time physical activity",1
+bmi,lipid profile,3
+bmi,lipidlowering therapy,10
+bmi,lm treatment,1
+bmi,lowdensity lipoprotein,1
+bmi,lung disease,1
+bmi,macroalbuminuria,3
+bmi,macroangiopathy,1
+bmi,macrovascular complications,9
+bmi,medication use,1
+bmi,metformin,5
+bmi,microalbuminuria,7
+bmi,microvascular disease,9
+bmi,monocyte chemoattractant protin1 m,1
+bmi,multivessel coronary disease,2
+bmi,myocardial infarction,11
+bmi,myocardial spect,1
+bmi,nephropathy,2
+bmi,neuropathy,3
+bmi,nitrates,1
+bmi,nterminal probrain natriuretic peptide,1
+bmi,other lifestyle risk factors,1
+bmi,pacemaker implantation,1
+bmi,pc screen time,1
+bmi,percutaneous coronary intervention,3
+bmi,peripheral arterial occlusive disease,1
+bmi,peripheral artery disease,8
+bmi,peripheral neuropathy,1
+bmi,peripheral vascular disease,3
+bmi,phosphate,2
+bmi,physical activity,9
+bmi,physical inactivity,4
+bmi,pioglitazone treatment,1
+bmi,previous pcicabg,1
+bmi,prior coronary artery bypass,3
+bmi,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+bmi,proteinuria,2
+bmi,provider quality controls,1
+bmi,psychiatric medications,1
+bmi,pulse pressure,2
+bmi,race/ethnicity,3
+bmi,ratio between total,1
+bmi,reactive hyperemia index,1
+bmi,renal impairment,1
+bmi,renal insufficiency,1
+bmi,renin-angiotensin system inhibitors,2
+bmi,retinopathy,7
+bmi,secretagogues,1
+bmi,sensory neuropathy presentabsent,1
+bmi,significant proximal lad disease,1
+bmi,sleep duration,2
+bmi,smoking,60
+bmi,sociodemographics,7
+bmi,socioeconomic variables,6
+bmi,sodium concentration,2
+bmi,statins,21
+bmi,stent,2
+bmi,stroke,9
+bmi,study treatment,1
+bmi,sulfonylurea,5
+bmi,syntax score,1
+bmi,systolic blood pressure,53
+bmi,the presence of total occlusion,1
+bmi,the use of drugs yesno,1
+bmi,therapy for hypercoagulation,1
+bmi,thiazolidinediones,1
+bmi,tot chol,1
+bmi,treatment,1
+bmi,triacylglycerol,3
+bmi,triglycerides,50
+bmi,troponin,1
+bmi,tryglycerides,1
+bmi,tv viewing,1
+bmi,ultrafiltration volume,2
+bmi,uric acid,1
+bmi,urinary acr,3
+bmi,urinary albumin excretion rate,3
+bmi,urinary protein log,1
+bmi,use of blockers,1
+bmi,use of sulfonamides,1
+bmi,waist measurements,9
+bmi,wasting,1
+bmi,white blood cell count,2
+bmi,year fixed effects,1
+bnp,age,1
+bnp,angina,2
+bnp,atrial fibrillation,1
+bnp,cholesterol,1
+bnp,creatinine,1
+bnp,glycated hemoglobin,1
+bnp,haemoglobin,1
+bnp,heart rate,2
+bnp,lack of coronary revascularization,1
+bnp,monocyte chemoattractant protin1 m,1
+bnp,myocardial infarction,1
+bnp,pacemaker implantation,1
+bnp,peripheral artery disease,1
+bnp,prior coronary artery bypass,1
+bnp,systolic blood pressure,1
+c-reactive protein,ACE inhibitors,1
+c-reactive protein,ARBs,1
+c-reactive protein,RCT,1
+c-reactive protein,acute coronary syndrome,1
+c-reactive protein,albumin,2
+c-reactive protein,andor nitroglycerin,1
+c-reactive protein,antialdosterone,1
+c-reactive protein,anticoagulants,1
+c-reactive protein,antiplatelet therapy,1
+c-reactive protein,aspirin therapy,2
+c-reactive protein,blockers,1
+c-reactive protein,blood glucose,2
+c-reactive protein,bmi,2
+c-reactive protein,bnp,4
+c-reactive protein,cardiovascular disease,2
+c-reactive protein,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+c-reactive protein,cholesterol,3
+c-reactive protein,chronic obstructive pulmonary disease,1
+c-reactive protein,cimt,1
+c-reactive protein,clopidogrel,1
+c-reactive protein,complex lesions,1
+c-reactive protein,coronary artery disease,1
+c-reactive protein,creatinine,3
+c-reactive protein,diabetes duration,2
+c-reactive protein,diabetes treatment,2
+c-reactive protein,diastolic blood pressure,1
+c-reactive protein,diuretic therapy,2
+c-reactive protein,fasting plasma glucose,1
+c-reactive protein,fibrinogen,1
+c-reactive protein,hba1c,4
+c-reactive protein,homocysteine,1
+c-reactive protein,hyperlipidemia,1
+c-reactive protein,hypertension,1
+c-reactive protein,insulin treatment,2
+c-reactive protein,left ventricular ejection fraction,2
+c-reactive protein,logaer,1
+c-reactive protein,medication differences,1
+c-reactive protein,monocyte chemoattractant protin1 m,1
+c-reactive protein,multivessel coronary disease,1
+c-reactive protein,nitrates,1
+c-reactive protein,nterminal probrain natriuretic peptide,1
+c-reactive protein,peripheral artery disease,1
+c-reactive protein,smoking,2
+c-reactive protein,statins,2
+c-reactive protein,systolic blood pressure,3
+c-reactive protein,triglycerides,1
+c-reactive protein,troponin,1
+c-reactive protein,uric acid,1
+calcium channel blockers,age,1
+calcium channel blockers,beta-blocker,1
+calcium channel blockers,hyperlipidemia,1
+calcium channel blockers,neuropathy,1
+calcium channel blockers,peripheral artery disease,1
+calcium channel blockers,secretagogues,1
+calcium channel blockers,systolic blood pressure,1
+cardiovascular autonomic neuropathy,diastolic blood pressure,1
+cardiovascular autonomic neuropathy,ecg abnormalities,1
+cardiovascular autonomic neuropathy,hypertension,1
+cardiovascular autonomic neuropathy,insulin treatment,1
+cardiovascular autonomic neuropathy,smoking,1
+cardiovascular disease,ACE inhibitors,1
+cardiovascular disease,ACEI/ARB,1
+cardiovascular disease,ARBs,1
+cardiovascular disease,RCT,3
+cardiovascular disease,Serum 25-hydroxyvitamin D,1
+cardiovascular disease,acr,1
+cardiovascular disease,age,2
+cardiovascular disease,albumin,4
+cardiovascular disease,albumin excretion rate,1
+cardiovascular disease,alcohol use,1
+cardiovascular disease,ankle-brachial index (ABI),1
+cardiovascular disease,antidepressants,1
+cardiovascular disease,antidiabetic medication,1
+cardiovascular disease,antihypertensive use,6
+cardiovascular disease,antiplatelet therapy,2
+cardiovascular disease,atrial fibrillation,2
+cardiovascular disease,blockers,1
+cardiovascular disease,blood glucose,3
+cardiovascular disease,blood pressure,4
+cardiovascular disease,bmi,9
+cardiovascular disease,bnp,1
+cardiovascular disease,c-reactive protein,1
+cardiovascular disease,cancer,1
+cardiovascular disease,cholesterol,24
+cardiovascular disease,chronic kidney disease,3
+cardiovascular disease,cimt,2
+cardiovascular disease,combined alox12 genotypes,1
+cardiovascular disease,creatinine,4
+cardiovascular disease,depression,1
+cardiovascular disease,diabetes,3
+cardiovascular disease,diabetes duration,7
+cardiovascular disease,diabetes treatment,4
+cardiovascular disease,diabetic neuropathy,1
+cardiovascular disease,diastolic blood pressure,1
+cardiovascular disease,dpucmgp,1
+cardiovascular disease,ecg abnormalities,2
+cardiovascular disease,egfr,6
+cardiovascular disease,expected costs,1
+cardiovascular disease,fasting plasma glucose,2
+cardiovascular disease,fibrates,1
+cardiovascular disease,fibrinogen,2
+cardiovascular disease,fpi,1
+cardiovascular disease,gender,2
+cardiovascular disease,glycemic control,2
+cardiovascular disease,hba1c,13
+cardiovascular disease,heart failure,3
+cardiovascular disease,homair,1
+cardiovascular disease,homocysteine at baseline,1
+cardiovascular disease,hyperlipidemia,1
+cardiovascular disease,hypertension,4
+cardiovascular disease,insulin treatment,3
+cardiovascular disease,left ventricular ejection fraction,1
+cardiovascular disease,lipid profile,1
+cardiovascular disease,lipidlowering therapy,3
+cardiovascular disease,lowdensity lipoprotein,1
+cardiovascular disease,macroalbuminuria,1
+cardiovascular disease,metformin,1
+cardiovascular disease,microalbuminuria,2
+cardiovascular disease,microvascular disease,2
+cardiovascular disease,nephropathy,3
+cardiovascular disease,neuropathy,3
+cardiovascular disease,other conventional risk factors,1
+cardiovascular disease,pIMT,1
+cardiovascular disease,peripheral artery disease,1
+cardiovascular disease,peripherovascular morbidity,1
+cardiovascular disease,physical activity,1
+cardiovascular disease,pulse pressure,1
+cardiovascular disease,race/ethnicity,1
+cardiovascular disease,ratio between total,1
+cardiovascular disease,renal impairment,1
+cardiovascular disease,renin-angiotensin system inhibitors,1
+cardiovascular disease,retinopathy,4
+cardiovascular disease,smoking,15
+cardiovascular disease,sociodemographics,3
+cardiovascular disease,statins,4
+cardiovascular disease,sulfonylurea,1
+cardiovascular disease,systolic blood pressure,7
+cardiovascular disease,thiazolidinediones,1
+cardiovascular disease,treatment intensity,1
+cardiovascular disease,triacylglycerol,1
+cardiovascular disease,triglycerides,8
+cardiovascular disease,type of treatment,1
+cardiovascular disease,uric acid,1
+cardiovascular disease,urinary acr,1
+cardiovascular disease,urinary albumin excretion rate,1
+cardiovascular disease,white blood cell count,1
+cardiovascular risk factors,albumin,1
+cardiovascular risk factors,antihypertensive use,1
+cardiovascular risk factors,aspirin therapy,1
+cardiovascular risk factors,c-reactive protein,1
+cardiovascular risk factors,coronary anatomy,1
+cardiovascular risk factors,diabetes,1
+cardiovascular risk factors,ecg abnormalities,1
+cardiovascular risk factors,lipidlowering therapy,1
+cardiovascular risk factors,medication differences,1
+cardiovascular risk factors,medications,1
+cardiovascular risk factors,metformin,1
+cardiovascular risk factors,serum magnesium,1
+cerebrovascular disease,ACE inhibitors,1
+cerebrovascular disease,ARBs,1
+cerebrovascular disease,acute coronary syndrome,1
+cerebrovascular disease,age,2
+cerebrovascular disease,albumin,2
+cerebrovascular disease,andor nitroglycerin,1
+cerebrovascular disease,antialdosterone,1
+cerebrovascular disease,anticoagulants,1
+cerebrovascular disease,antidiabetic medication,1
+cerebrovascular disease,antihypertensive use,1
+cerebrovascular disease,antiplatelet therapy,1
+cerebrovascular disease,aspirin therapy,2
+cerebrovascular disease,atrial fibrillation,2
+cerebrovascular disease,blockers,1
+cerebrovascular disease,bmi,3
+cerebrovascular disease,bnp,1
+cerebrovascular disease,c-reactive protein,1
+cerebrovascular disease,cholesterol,2
+cerebrovascular disease,chronic kidney disease,1
+cerebrovascular disease,clopidogrel,1
+cerebrovascular disease,diabetes duration,1
+cerebrovascular disease,diuretic therapy,1
+cerebrovascular disease,egfr,1
+cerebrovascular disease,ejection fraction 40,1
+cerebrovascular disease,gender,1
+cerebrovascular disease,hba1c,3
+cerebrovascular disease,heart failure,1
+cerebrovascular disease,highdensity lipoprotein,1
+cerebrovascular disease,hypertension,1
+cerebrovascular disease,insulin treatment,1
+cerebrovascular disease,lipidlowering therapy,1
+cerebrovascular disease,lowdensity lipoprotein,1
+cerebrovascular disease,macroalbuminuria,1
+cerebrovascular disease,metformin,1
+cerebrovascular disease,monocyte chemoattractant protin1 m,1
+cerebrovascular disease,myocardial infarction,1
+cerebrovascular disease,nitrates,1
+cerebrovascular disease,peripheral artery disease,1
+cerebrovascular disease,peripheral neuropathy,1
+cerebrovascular disease,peripheral vascular disease,1
+cerebrovascular disease,sociodemographics,1
+cerebrovascular disease,sodium concentration,1
+cerebrovascular disease,statins,1
+cerebrovascular disease,triacylglycerol,1
+charlson index,c-reactive protein,1
+charlson index,cardiovascular disease,1
+charlson index,diastolic blood pressure,1
+charlson index,egfr,1
+charlson index,hba1c,1
+charlson index,proteinuria,1
+charlson index,systolic blood pressure,1
+charlson index,total baseline expenditures,1
+choleseterol,albumin,1
+cholesterol,ACE inhibitors,9
+cholesterol,ACEI/ARB,6
+cholesterol,ARBs,5
+cholesterol,ApoAI,5
+cholesterol,RCT,10
+cholesterol,acute coronary syndrome,5
+cholesterol,age,5
+cholesterol,albumin,29
+cholesterol,albumin excretion rate,10
+cholesterol,albumin to creatinine ratio,4
+cholesterol,alcohol use,8
+cholesterol,alphaglucosidase inhibitor,2
+cholesterol,andor nitroglycerin,2
+cholesterol,angina,1
+cholesterol,ankle-brachial index (ABI),7
+cholesterol,antiaggregating agents,2
+cholesterol,antialdosterone,2
+cholesterol,anticoagulants,2
+cholesterol,antidepressants,1
+cholesterol,antidiabetic medication,2
+cholesterol,antihyperlipidemic drugs,2
+cholesterol,antihypertensive use,28
+cholesterol,antiplatelet therapy,12
+cholesterol,apo(a) phenotypes,3
+cholesterol,apoAI/apoB ratio,5
+cholesterol,apoB,5
+cholesterol,arteriovenous fistula,1
+cholesterol,aspirin therapy,22
+cholesterol,atrial fibrillation,6
+cholesterol,autonomic dysfunction,6
+cholesterol,bapwv,2
+cholesterol,beta-blocker,4
+cholesterol,blockers,3
+cholesterol,blood glucose,14
+cholesterol,blood pressure,7
+cholesterol,bmi,38
+cholesterol,bnp,14
+cholesterol,c-reactive protein,25
+cholesterol,calcium channel blockers,1
+cholesterol,cancer,1
+cholesterol,cardiovascular disease,24
+cholesterol,carotid artery imt,2
+cholesterol,cerebrovascular disease,5
+cholesterol,change of esrage endogenous secretory receptor of advanced glycated endproducts,3
+cholesterol,charlson index,2
+cholesterol,choleseterol,1
+cholesterol,chronic kidney disease,5
+cholesterol,cimt,7
+cholesterol,clopidigrel,2
+cholesterol,clopidogrel,2
+cholesterol,combined alox12 genotypes,3
+cholesterol,complete revascularization,2
+cholesterol,complex lesions,1
+cholesterol,coronary artery calcium score,4
+cholesterol,coronary artery disease,7
+cholesterol,coronary heart disease,10
+cholesterol,creatinine,35
+cholesterol,dcb use,2
+cholesterol,depression,1
+cholesterol,diabetes,3
+cholesterol,diabetes duration,27
+cholesterol,diabetes treatment,21
+cholesterol,diabetic neuropathy,2
+cholesterol,dialysis,2
+cholesterol,diastolic blood pressure,20
+cholesterol,dipeptidyl peptidase 4 inhibitor at discharge,2
+cholesterol,distal polyneuropathy,3
+cholesterol,diuretic therapy,5
+cholesterol,dpucmgp,2
+cholesterol,ecg abnormalities,12
+cholesterol,echolucent plaque,2
+cholesterol,egfr,39
+cholesterol,ejection fraction 40,2
+cholesterol,endothelial dysfunction,3
+cholesterol,fasting cpeptide,1
+cholesterol,fasting plasma glucose,4
+cholesterol,fibrates,1
+cholesterol,fibrinogen,13
+cholesterol,gender,6
+cholesterol,glycated hemoglobin,2
+cholesterol,glycemic control,7
+cholesterol,hba1c,87
+cholesterol,heart attack,1
+cholesterol,heart failure,5
+cholesterol,heart rate,4
+cholesterol,height,3
+cholesterol,hemoglobin,2
+cholesterol,high density lipoprotein level,1
+cholesterol,highdensity lipoprotein,2
+cholesterol,history of coronary disease,1
+cholesterol,homair,5
+cholesterol,homocysteine,5
+cholesterol,homocysteine at baseline,2
+cholesterol,hyperlipidemia,3
+cholesterol,hypertension,38
+cholesterol,idf metabolic syndrome,5
+cholesterol,inflammatory markers,1
+cholesterol,insulin (measurment),11
+cholesterol,insulin treatment,24
+cholesterol,ischemic heart disease,4
+cholesterol,left ventricular ejection fraction,6
+cholesterol,left ventricular hypertrophy,1
+cholesterol,"leisure time physical activity",1
+cholesterol,lipidlowering therapy,20
+cholesterol,lm treatment,2
+cholesterol,log101  acr,2
+cholesterol,logaer,1
+cholesterol,lowdensity lipoprotein,1
+cholesterol,macroalbuminuria,1
+cholesterol,macrovascular complications,4
+cholesterol,medication use,1
+cholesterol,metformin,7
+cholesterol,microalbuminuria,5
+cholesterol,microvascular disease,5
+cholesterol,mild plaque calcifi cation,2
+cholesterol,monocyte chemoattractant protin1 m,2
+cholesterol,multivessel coronary disease,4
+cholesterol,myocardial infarction,8
+cholesterol,nephropathy,3
+cholesterol,neuropathy,1
+cholesterol,nitrates,2
+cholesterol,nterminal probrain natriuretic peptide,3
+cholesterol,pacemaker implantation,1
+cholesterol,pc screen time,1
+cholesterol,percent low density plaque,2
+cholesterol,peripheral arterial occlusive disease,2
+cholesterol,peripheral artery disease,7
+cholesterol,peripheral neuropathy,2
+cholesterol,peripheral vascular disease,4
+cholesterol,phosphate,1
+cholesterol,physical activity,7
+cholesterol,pioglitazone treatment,2
+cholesterol,plaque thickness,2
+cholesterol,plaque volume,2
+cholesterol,prior coronary artery bypass,3
+cholesterol,proteinuria,5
+cholesterol,provider quality controls,1
+cholesterol,pulse pressure,4
+cholesterol,race/ethnicity,6
+cholesterol,reactive hyperemia index,1
+cholesterol,referring physician,1
+cholesterol,renal impairment,1
+cholesterol,renal insufficiency,1
+cholesterol,renin-angiotensin system inhibitors,5
+cholesterol,retinopathy,16
+cholesterol,sensory neuropathy,2
+cholesterol,sensory neuropathy presentabsent,2
+cholesterol,significant proximal lad disease,1
+cholesterol,sleep duration,2
+cholesterol,smoking,73
+cholesterol,sociodemographics,6
+cholesterol,socioeconomic variables,4
+cholesterol,statins,33
+cholesterol,stent,3
+cholesterol,stroke,11
+cholesterol,sulfonylurea,6
+cholesterol,syntax score,2
+cholesterol,systolic blood pressure,45
+cholesterol,the presence of total occlusion,1
+cholesterol,the use of drugs yesno,2
+cholesterol,therapy for hypercoagulation,3
+cholesterol,thiazolidinediones,1
+cholesterol,tot chol,1
+cholesterol,triacylglycerol,6
+cholesterol,triglycerides,92
+cholesterol,troponin,2
+cholesterol,tryglycerides,2
+cholesterol,tv viewing,1
+cholesterol,ultrafiltration volume,1
+cholesterol,uric acid,6
+cholesterol,urinary,1
+cholesterol,urinary acr,4
+cholesterol,urinary albumin excretion rate,7
+cholesterol,urinary protein log,2
+cholesterol,use of blockers,1
+cholesterol,waist measurements,10
+cholesterol,wasting,1
+cholesterol,white blood cell count,1
+cholesterol,year fixed effects,1
+chronic kidney disease,ACE inhibitors,1
+chronic kidney disease,ARBs,2
+chronic kidney disease,RCT,1
+chronic kidney disease,acute coronary syndrome,1
+chronic kidney disease,andor nitroglycerin,1
+chronic kidney disease,antialdosterone,1
+chronic kidney disease,anticoagulants,1
+chronic kidney disease,antidepressants,1
+chronic kidney disease,antidiabetic medication,1
+chronic kidney disease,antihypertensive use,3
+chronic kidney disease,antiplatelet therapy,2
+chronic kidney disease,aspirin therapy,1
+chronic kidney disease,atrial fibrillation,1
+chronic kidney disease,blockers,2
+chronic kidney disease,bmi,2
+chronic kidney disease,bnp,1
+chronic kidney disease,c-reactive protein,1
+chronic kidney disease,cardiovascular disease,3
+chronic kidney disease,charlson index,1
+chronic kidney disease,clopidogrel,1
+chronic kidney disease,diabetes duration,1
+chronic kidney disease,diabetes treatment,1
+chronic kidney disease,diuretic therapy,1
+chronic kidney disease,fibrates,1
+chronic kidney disease,insulin treatment,3
+chronic kidney disease,lipidlowering therapy,1
+chronic kidney disease,metformin,1
+chronic kidney disease,monocyte chemoattractant protin1 m,1
+chronic kidney disease,nitrates,1
+chronic kidney disease,proteinuria,1
+chronic kidney disease,retinopathy,1
+chronic kidney disease,socioeconomic variables,1
+chronic kidney disease,statins,3
+chronic kidney disease,sulfonylurea,1
+chronic kidney disease,thiazolidinediones,1
+chronic kidney disease,total baseline expenditures,1
+chronic obstructive pulmonary disease,diabetes duration,1
+chronic obstructive pulmonary disease,diabetes treatment,1
+chronic obstructive pulmonary disease,fasting plasma glucose,1
+chronic obstructive pulmonary disease,hba1c,1
+chronic renal failure,cholesterol,1
+chronic renal failure,diabetes treatment,1
+chronic renal failure,statins,1
+ci,albumin,1
+ci,cholesterol,1
+ci,macrovascular complications,1
+ci,smoking,1
+ci,systolic blood pressure,1
+cimt,combined alox12 genotypes,1
+cimt,dpucmgp,1
+cimt,renin-angiotensin system inhibitors,1
+cimt,statins,1
+clinic,albumin excretion rate,1
+clinic,ankle-brachial index (ABI),1
+clinic,blood pressure,1
+clinic,bmi,1
+clinic,cholesterol,2
+clinic,ecg abnormalities,1
+clinic,fibrinogen,1
+clinic,hba1c,1
+clinic,heart rate,1
+clinic,microalbuminuria,1
+clinic,physical activity,1
+clinical risk scores,Computed Tomography Angiography (CTA) variables,1
+clinical risk scores,coronary artery calcium score,1
+clinical variables,biomarkers,1
+clinical variables,cardiovascular risk factors,1
+clinical variables,diabetes,1
+clinical variables,drug use,1
+clinical variables,ecg abnormalities,1
+clinical variables,echocardiographic variables,1
+clinical variables,imaging risk predictors,1
+clinical variables,metformin,1
+clinical variables,other complications,1
+clinical variables,serum magnesium,1
+clinical variables,sociodemographics,1
+clinical variables,stress variables,1
+clopidigrel,ACEI/ARB,1
+clopidigrel,antidiabetic medication,1
+clopidigrel,beta-blocker,1
+clopidigrel,insulin treatment,1
+clopidigrel,statins,1
+clopidogrel,ACE inhibitors,1
+clopidogrel,ARBs,1
+clopidogrel,acute coronary syndrome,1
+clopidogrel,andor nitroglycerin,1
+clopidogrel,antialdosterone,1
+clopidogrel,anticoagulants,1
+clopidogrel,antiplatelet therapy,1
+clopidogrel,blockers,1
+clopidogrel,bnp,1
+clopidogrel,diuretic therapy,1
+clopidogrel,insulin treatment,1
+clopidogrel,monocyte chemoattractant protin1 m,1
+clopidogrel,mpv mean platelet volume,1
+clopidogrel,nitrates,1
+clopidogrel,statins,1
+clopidogrel,syntax score,1
+clopidogrel,uric acid,1
+clustering,age,1
+clustering,bmi,1
+clustering,diabetes duration,1
+clustering,gender,1
+clustering,history of coronary disease,1
+clustering,smoking,1
+comorbidity,baseline medications,1
+comorbidity,baseline related risk factor level,1
+comorbidity,diabetes duration,1
+complete revascularization,alphaglucosidase inhibitor,1
+complete revascularization,antiplatelet therapy,2
+complete revascularization,dipeptidyl peptidase 4 inhibitor at discharge,1
+complete revascularization,glycemic control,1
+complete revascularization,insulin (measurment),1
+complete revascularization,statins,2
+complete revascularization,sulfonylurea,1
+complex lesions,diuretic therapy,1
+complex lesions,insulin treatment,1
+complex lesions,left ventricular ejection fraction,1
+coronary artery calcium score,Computed Tomography Angiography (CTA) variables,1
+coronary artery calcium score,age,1
+coronary artery calcium score,albumin,1
+coronary artery calcium score,bnp,2
+coronary artery calcium score,carotid intima media thickness,1
+coronary artery calcium score,cholesterol,1
+coronary artery calcium score,creatinine,1
+coronary artery calcium score,inflammatory markers,1
+coronary artery calcium score,reactive hyperemia index,1
+coronary artery calcium score,tnfalpha,1
+coronary artery calcium score,triglycerides,1
+coronary artery calcium score,uric acid,1
+coronary artery disease,ACE inhibitors,1
+coronary artery disease,ACEI/ARB,1
+coronary artery disease,Lp(a),1
+coronary artery disease,acute coronary syndrome,1
+coronary artery disease,age,1
+coronary artery disease,albumin,4
+coronary artery disease,angina,2
+coronary artery disease,ankle-brachial index (ABI),2
+coronary artery disease,antidiabetic medication,1
+coronary artery disease,apo(a) phenotypes,1
+coronary artery disease,arteriovenous fistula,1
+coronary artery disease,autonomic dysfunction,2
+coronary artery disease,autonomic nervous function,1
+coronary artery disease,beta-blocker,2
+coronary artery disease,blood glucose,1
+coronary artery disease,bmi,5
+coronary artery disease,bnp,2
+coronary artery disease,c-reactive protein,2
+coronary artery disease,cardiovascular disease,2
+coronary artery disease,cholesterol,21
+coronary artery disease,clopidigrel,1
+coronary artery disease,creatinine,2
+coronary artery disease,diabetes duration,2
+coronary artery disease,diabetes treatment,1
+coronary artery disease,dialysis,3
+coronary artery disease,dipyridamole stress test,1
+coronary artery disease,distal polyneuropathy,1
+coronary artery disease,diuretic therapy,1
+coronary artery disease,dyslipidaemia,1
+coronary artery disease,ecg abnormalities,2
+coronary artery disease,egfr,2
+coronary artery disease,endothelial dysfunction,1
+coronary artery disease,fasting plasma glucose,1
+coronary artery disease,gender,1
+coronary artery disease,glycemic control,1
+coronary artery disease,hba1c,12
+coronary artery disease,heart failure,4
+coronary artery disease,hemodynamic measures,1
+coronary artery disease,hyperlipidemia,2
+coronary artery disease,hypertension,3
+coronary artery disease,insulin (measurment),1
+coronary artery disease,insulin treatment,1
+coronary artery disease,ischemia,1
+coronary artery disease,left ventricular ejection fraction,2
+coronary artery disease,macroalbuminuria,1
+coronary artery disease,metformin,1
+coronary artery disease,microalbuminuria,4
+coronary artery disease,minimum lumen diameter,1
+coronary artery disease,multivessel coronary disease,1
+coronary artery disease,myocardial infarction,2
+coronary artery disease,percutaneous coronary intervention,1
+coronary artery disease,peripheral arterial occlusive disease,2
+coronary artery disease,peripheral artery disease,2
+coronary artery disease,peripheral vascular disease,1
+coronary artery disease,phosphate,2
+coronary artery disease,pioglitazone treatment,1
+coronary artery disease,prior coronary artery bypass,1
+coronary artery disease,race/ethnicity,1
+coronary artery disease,renal insufficiency,1
+coronary artery disease,smoking,9
+coronary artery disease,statins,4
+coronary artery disease,stent,2
+coronary artery disease,stroke,6
+coronary artery disease,sulfonylurea,1
+coronary artery disease,systolic blood pressure,2
+coronary artery disease,triglycerides,6
+coronary artery disease,ultrafiltration volume,2
+coronary artery disease,vessel size,1
+coronary heart disease,ACEI/ARB,1
+coronary heart disease,aspirin therapy,1
+coronary heart disease,cardiovascular disease,2
+coronary heart disease,cholesterol,3
+coronary heart disease,creatinine,1
+coronary heart disease,diabetes treatment,1
+coronary heart disease,fibrinogen,1
+coronary heart disease,hba1c,4
+coronary heart disease,hypertension,1
+coronary heart disease,insulin treatment,1
+coronary heart disease,medication use,1
+coronary heart disease,neuropathy,1
+coronary heart disease,peripheral artery disease,1
+coronary heart disease,retinopathy,1
+coronary heart disease,smoking,2
+coronary heart disease,systolic blood pressure,1
+coronary heart disease,uoer,2
+coronary heart disease,urinary acr,1
+creatinine,ACE inhibitors,1
+creatinine,ACEI/ARB,2
+creatinine,ARBs,1
+creatinine,ApoAI,2
+creatinine,CCr,1
+creatinine,RCT,2
+creatinine,acute coronary syndrome,1
+creatinine,age,2
+creatinine,albumin,6
+creatinine,albumin excretion rate,3
+creatinine,angina,1
+creatinine,ankle-brachial index (ABI),1
+creatinine,antidiabetic medication,1
+creatinine,antihyperlipidemic drugs,1
+creatinine,antihypertensive use,3
+creatinine,antiplatelet therapy,1
+creatinine,apoAI/apoB ratio,2
+creatinine,apoB,2
+creatinine,aspirin therapy,2
+creatinine,atrial fibrillation,1
+creatinine,beta-blocker,4
+creatinine,blood glucose,3
+creatinine,blood pressure,1
+creatinine,bmi,3
+creatinine,bnp,2
+creatinine,c-reactive protein,4
+creatinine,calcium channel blockers,2
+creatinine,cardiovascular disease,1
+creatinine,cardiovascular risk factors,1
+creatinine,carotid intima media thickness,1
+creatinine,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+creatinine,choleseterol,1
+creatinine,cholesterol,27
+creatinine,chronic obstructive pulmonary disease,1
+creatinine,clopidigrel,1
+creatinine,coronary artery calcium score,2
+creatinine,coronary artery disease,2
+creatinine,coronary heart disease,2
+creatinine,diabetes,1
+creatinine,diabetes duration,5
+creatinine,diabetes treatment,6
+creatinine,diastolic blood pressure,1
+creatinine,diuretic therapy,1
+creatinine,ecg abnormalities,3
+creatinine,egfr,1
+creatinine,fasting plasma glucose,1
+creatinine,fibrinogen,2
+creatinine,folate,1
+creatinine,glycemic control,1
+creatinine,hba1c,10
+creatinine,hemoglobin,1
+creatinine,homair,2
+creatinine,homocysteine,3
+creatinine,homocysteine at baseline,1
+creatinine,hyperlipidemia,3
+creatinine,hypertension,3
+creatinine,idf metabolic syndrome,2
+creatinine,incretins,1
+creatinine,inflammatory markers,1
+creatinine,insulin (measurment),3
+creatinine,insulin treatment,3
+creatinine,left ventricular ejection fraction,1
+creatinine,lipidlowering therapy,1
+creatinine,macroalbuminuria,1
+creatinine,macroangiopathy,1
+creatinine,metformin,2
+creatinine,microalbuminuria,2
+creatinine,microvascular disease,1
+creatinine,myocardial infarction,1
+creatinine,neuropathy,1
+creatinine,nterminal probrain natriuretic peptide,1
+creatinine,pacemaker implantation,1
+creatinine,peripheral arterial occlusive disease,1
+creatinine,peripheral artery disease,2
+creatinine,pioglitazone treatment,1
+creatinine,prior coronary artery bypass,1
+creatinine,provider quality controls,1
+creatinine,pulse pressure,1
+creatinine,race/ethnicity,1
+creatinine,secretagogues,1
+creatinine,significant proximal lad disease,1
+creatinine,smoking,4
+creatinine,sociodemographics,1
+creatinine,socioeconomic variables,1
+creatinine,statins,2
+creatinine,stroke,1
+creatinine,sulfonylurea,2
+creatinine,systolic blood pressure,7
+creatinine,the presence of total occlusion,1
+creatinine,therapy for hypercoagulation,1
+creatinine,tnfalpha,1
+creatinine,triglycerides,10
+creatinine,uoer,1
+creatinine,uric acid,2
+creatinine,urinary albumin excretion rate,5
+creatinine,vitamin b12,1
+creatinine,year fixed effects,1
+current multifactorial care,myocardial infarction,1
+current multifactorial care,peripheral artery disease,1
+dcb use,alphaglucosidase inhibitor,1
+dcb use,antiplatelet therapy,2
+dcb use,complete revascularization,1
+dcb use,dipeptidyl peptidase 4 inhibitor at discharge,1
+dcb use,glycemic control,1
+dcb use,insulin (measurment),1
+dcb use,statins,2
+dcb use,sulfonylurea,1
+dcsi,hyperlipidemia,1
+depression,ARBs,1
+depression,antidepressants,1
+depression,antihypertensive use,1
+depression,blockers,1
+depression,chronic kidney disease,1
+depression,fibrates,1
+depression,insulin treatment,1
+depression,metformin,1
+depression,statins,1
+depression,sulfonylurea,1
+depression,thiazolidinediones,1
+diabetes,RCT,1
+diabetes,Serum 25-hydroxyvitamin D,1
+diabetes,antiplatelet therapy,1
+diabetes,blood pressure,1
+diabetes,bmi,4
+diabetes,c-reactive protein,1
+diabetes,cancer,1
+diabetes,cardiovascular disease,3
+diabetes,cardiovascular risk factors,1
+diabetes,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+diabetes,cholesterol,7
+diabetes,chronic kidney disease,1
+diabetes,coronary anatomy,1
+diabetes,coronary artery disease,1
+diabetes,creatinine,2
+diabetes,diabetes duration,3
+diabetes,disease duration,1
+diabetes,duration,1
+diabetes,ecg abnormalities,1
+diabetes,egfr,3
+diabetes,fpi,1
+diabetes,glycemic control,1
+diabetes,hba1c,4
+diabetes,heart failure,1
+diabetes,hemodynamic measures,1
+diabetes,hyperlipidemia,1
+diabetes,hypertension,2
+diabetes,insulin treatment,1
+diabetes,lipid profile,1
+diabetes,medical diabetic treatment,1
+diabetes,metformin,1
+diabetes,minimum lumen diameter,1
+diabetes,other complications,1
+diabetes,serum magnesium,1
+diabetes,smoking,4
+diabetes,sociodemographics,1
+diabetes,statins,1
+diabetes,stent,1
+diabetes,systolic blood pressure,4
+diabetes,triglycerides,2
+diabetes,urinary protein log,1
+diabetes,vessel size,1
+diabetes duration,ACE inhibitors,4
+diabetes duration,ACEI/ARB,2
+diabetes duration,ARBs,3
+diabetes duration,ApoAI,1
+diabetes duration,CCr,1
+diabetes duration,RCT,6
+diabetes duration,acr,2
+diabetes duration,acute coronary syndrome,1
+diabetes duration,age,4
+diabetes duration,albumin,16
+diabetes duration,albumin excretion rate,6
+diabetes duration,albumin to creatinine ratio,5
+diabetes duration,alcohol use,8
+diabetes duration,alphaglucosidase inhibitor,1
+diabetes duration,ankle-brachial index (ABI),3
+diabetes duration,antidepressants,1
+diabetes duration,antidiabetic medication,1
+diabetes duration,antihyperlipidemic drugs,1
+diabetes duration,antihypertensive use,16
+diabetes duration,antiplatelet therapy,9
+diabetes duration,apoAI/apoB ratio,2
+diabetes duration,apoB,1
+diabetes duration,aspirin therapy,11
+diabetes duration,atrial fibrillation,3
+diabetes duration,autonomic dysfunction,2
+diabetes duration,baseline claudication,1
+diabetes duration,beta-blocker,1
+diabetes duration,biomarkers (general),1
+diabetes duration,blockers,1
+diabetes duration,blood glucose,8
+diabetes duration,blood pressure,13
+diabetes duration,bmi,53
+diabetes duration,bnp,2
+diabetes duration,c-reactive protein,5
+diabetes duration,calcium channel blockers,1
+diabetes duration,cancer,1
+diabetes duration,cardiac autonomic neuropathy (CAN),2
+diabetes duration,cardiovascular disease,22
+diabetes duration,carotid plaque,1
+diabetes duration,cerebrovascular disease,2
+diabetes duration,cholesterol,126
+diabetes duration,chronic kidney disease,2
+diabetes duration,cimt,1
+diabetes duration,clinic,1
+diabetes duration,combined alox12 genotypes,1
+diabetes duration,complete revascularization,1
+diabetes duration,coronary artery calcium score,1
+diabetes duration,coronary artery disease,5
+diabetes duration,coronary heart disease,4
+diabetes duration,creatinine,18
+diabetes duration,dcb use,1
+diabetes duration,depression,1
+diabetes duration,diabetes,4
+diabetes duration,diabetes treatment,8
+diabetes duration,diabetic neuropathy,1
+diabetes duration,diastolic blood pressure,17
+diabetes duration,dipeptidyl peptidase 4 inhibitor at discharge,1
+diabetes duration,distal polyneuropathy,1
+diabetes duration,diuretic therapy,1
+diabetes duration,ecg abnormalities,10
+diabetes duration,egfr,36
+diabetes duration,endothelial dysfunction,1
+diabetes duration,expected costs,1
+diabetes duration,fasting cpeptide,2
+diabetes duration,fasting plasma glucose,4
+diabetes duration,fibrates,2
+diabetes duration,fibrinogen,4
+diabetes duration,gender,8
+diabetes duration,gliclazide,1
+diabetes duration,glycemic control,6
+diabetes duration,hba1c,85
+diabetes duration,heart failure,7
+diabetes duration,heart rate,5
+diabetes duration,heart valve calcium,1
+diabetes duration,height,3
+diabetes duration,highdensity lipoprotein,2
+diabetes duration,history of copd,1
+diabetes duration,history of coronary disease,3
+diabetes duration,homair,3
+diabetes duration,homocysteine,2
+diabetes duration,homocysteine at baseline,1
+diabetes duration,hyperlipidemia,6
+diabetes duration,hypertension,34
+diabetes duration,hypoglycaemic treatment,1
+diabetes duration,idf metabolic syndrome,1
+diabetes duration,indigenous australian,1
+diabetes duration,insulin (measurment),4
+diabetes duration,insulin treatment,11
+diabetes duration,ischemic heart disease,1
+diabetes duration,left atrial diameter,1
+diabetes duration,left ventricular ejection fraction,2
+diabetes duration,lipid profile,1
+diabetes duration,lipidlowering therapy,11
+diabetes duration,lm treatment,1
+diabetes duration,log101  acr,1
+diabetes duration,logaer,1
+diabetes duration,lowdensity lipoprotein,1
+diabetes duration,macroalbuminuria,2
+diabetes duration,macrovascular complications,9
+diabetes duration,marital status,1
+diabetes duration,mca stenosis,1
+diabetes duration,metformin,3
+diabetes duration,microalbuminuria,7
+diabetes duration,microvascular disease,11
+diabetes duration,mild plaque calcifi cation,1
+diabetes duration,myocardial infarction,9
+diabetes duration,nephropathy,2
+diabetes duration,neuropathy,3
+diabetes duration,nterminal probrain natriuretic peptide,1
+diabetes duration,pIMT,1
+diabetes duration,pc screen time,1
+diabetes duration,percent low density plaque,1
+diabetes duration,percutaneous coronary intervention,1
+diabetes duration,peripheral arterial occlusive disease,1
+diabetes duration,peripheral artery disease,6
+diabetes duration,peripheral neuropathy,1
+diabetes duration,peripheral vascular disease,2
+diabetes duration,physical activity,7
+diabetes duration,physical inactivity,4
+diabetes duration,pioglitazone treatment,1
+diabetes duration,plaque volume,1
+diabetes duration,prior coronary artery bypass,1
+diabetes duration,pro btype natriuretic peptide quartiles,1
+diabetes duration,proteinuria,3
+diabetes duration,pulse pressure,2
+diabetes duration,race/ethnicity,4
+diabetes duration,ratio between total,1
+diabetes duration,renal impairment,1
+diabetes duration,renin-angiotensin system inhibitors,2
+diabetes duration,retinopathy,12
+diabetes duration,rosiglitazone during followup,1
+diabetes duration,sensory neuropathy,1
+diabetes duration,sensory neuropathy presentabsent,1
+diabetes duration,significant proximal lad disease,1
+diabetes duration,sleep duration,1
+diabetes duration,smoking,73
+diabetes duration,sociodemographics,5
+diabetes duration,socioeconomic variables,7
+diabetes duration,statins,22
+diabetes duration,stroke,6
+diabetes duration,study treatment,1
+diabetes duration,sulfonylurea,4
+diabetes duration,syntax score,1
+diabetes duration,systolic blood pressure,54
+diabetes duration,the presence of total occlusion,1
+diabetes duration,the ukpds risk score,1
+diabetes duration,the use of drugs yesno,1
+diabetes duration,therapy for hypercoagulation,1
+diabetes duration,thiazolidinediones,1
+diabetes duration,"to tal",1
+diabetes duration,total energy kcalday,1
+diabetes duration,treatment intensity,1
+diabetes duration,triacylglycerol,4
+diabetes duration,triglycerides,38
+diabetes duration,troponin,2
+diabetes duration,tv viewing,1
+diabetes duration,type of treatment,1
+diabetes duration,uric acid,2
+diabetes duration,urinary acr,6
+diabetes duration,urinary albumin excretion rate,4
+diabetes duration,use of blockers,1
+diabetes duration,use of sulfonamides,1
+diabetes duration,waist measurements,6
+diabetes duration,weight,2
+diabetes duration,white blood cell count,1
+diabetes duration,years of enrolment,1
+diabetes treatment,ACEI/ARB,2
+diabetes treatment,adherence to medication,1
+diabetes treatment,albumin,5
+diabetes treatment,angina,1
+diabetes treatment,antidiabetic medication,1
+diabetes treatment,antihyperlipidemic drugs,1
+diabetes treatment,antihypertensive use,5
+diabetes treatment,aspirin therapy,2
+diabetes treatment,beta-blocker,1
+diabetes treatment,blood glucose,3
+diabetes treatment,bmi,2
+diabetes treatment,c-reactive protein,3
+diabetes treatment,cholesterol,12
+diabetes treatment,chronic kidney disease,3
+diabetes treatment,cimt,2
+diabetes treatment,clopidigrel,1
+diabetes treatment,coronary artery disease,4
+diabetes treatment,creatinine,4
+diabetes treatment,dcsi,1
+diabetes treatment,diastolic blood pressure,1
+diabetes treatment,dpucmgp,1
+diabetes treatment,ecg abnormalities,3
+diabetes treatment,egfr,1
+diabetes treatment,fasting plasma glucose,1
+diabetes treatment,hba1c,6
+diabetes treatment,heart failure,1
+diabetes treatment,hyperlipidemia,6
+diabetes treatment,hypertension,4
+diabetes treatment,insulin treatment,1
+diabetes treatment,left ventricular ejection fraction,1
+diabetes treatment,lipidlowering therapy,3
+diabetes treatment,macrovascular complications,1
+diabetes treatment,microalbuminuria,1
+diabetes treatment,microvascular disease,1
+diabetes treatment,myocardial infarction,2
+diabetes treatment,percutaneous coronary intervention,1
+diabetes treatment,peripheral artery disease,1
+diabetes treatment,prior coronary artery bypass,1
+diabetes treatment,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+diabetes treatment,renin-angiotensin system inhibitors,1
+diabetes treatment,smoking,2
+diabetes treatment,statins,4
+diabetes treatment,stent,1
+diabetes treatment,stroke,2
+diabetes treatment,systolic blood pressure,3
+diabetes treatment,therapy for hypercoagulation,1
+diabetes treatment,triglycerides,3
+diabetic neuropathy,creatinine,1
+diabetic neuropathy,hba1c,1
+diabetic neuropathy,insulin treatment,1
+diabetic neuropathy,macroalbuminuria,1
+diabetic neuropathy,microalbuminuria,1
+dialysis,albumin,2
+dialysis,arteriovenous fistula,2
+dialysis,bnp,2
+dialysis,c-reactive protein,2
+dialysis,cholesterol,4
+dialysis,coronary artery disease,1
+dialysis,diabetes duration,1
+dialysis,hba1c,4
+dialysis,heart failure,1
+dialysis,peripheral vascular disease,1
+dialysis,phosphate,2
+dialysis,stroke,1
+dialysis,triglycerides,2
+dialysis,ultrafiltration volume,2
+diastolic blood pressure,ACEI/ARB,1
+diastolic blood pressure,ARBs,1
+diastolic blood pressure,ApoAI,1
+diastolic blood pressure,RCT,1
+diastolic blood pressure,albumin,3
+diastolic blood pressure,albumin excretion rate,3
+diastolic blood pressure,albumin to creatinine ratio,1
+diastolic blood pressure,alcohol use,3
+diastolic blood pressure,alphaglucosidase inhibitor,1
+diastolic blood pressure,angina,1
+diastolic blood pressure,ankle-brachial index (ABI),1
+diastolic blood pressure,antidiabetic medication,1
+diastolic blood pressure,antihypertensive use,7
+diastolic blood pressure,antiplatelet therapy,5
+diastolic blood pressure,apoAI/apoB ratio,1
+diastolic blood pressure,apoB,1
+diastolic blood pressure,aspirin therapy,1
+diastolic blood pressure,beta-blocker,1
+diastolic blood pressure,blood glucose,2
+diastolic blood pressure,blood pressure,4
+diastolic blood pressure,bmi,6
+diastolic blood pressure,bnp,2
+diastolic blood pressure,c-reactive protein,5
+diastolic blood pressure,cardiovascular disease,7
+diastolic blood pressure,cholesterol,48
+diastolic blood pressure,chronic kidney disease,1
+diastolic blood pressure,cimt,1
+diastolic blood pressure,clopidigrel,1
+diastolic blood pressure,complete revascularization,1
+diastolic blood pressure,coronary artery disease,4
+diastolic blood pressure,coronary heart disease,4
+diastolic blood pressure,creatinine,9
+diastolic blood pressure,dcb use,1
+diastolic blood pressure,diabetes,2
+diastolic blood pressure,diabetes duration,6
+diastolic blood pressure,diabetes treatment,6
+diastolic blood pressure,dialysis,2
+diastolic blood pressure,dipeptidyl peptidase 4 inhibitor at discharge,1
+diastolic blood pressure,ecg abnormalities,7
+diastolic blood pressure,egfr,10
+diastolic blood pressure,fibrinogen,3
+diastolic blood pressure,glycemic control,2
+diastolic blood pressure,hba1c,20
+diastolic blood pressure,heart failure,4
+diastolic blood pressure,heart rate,1
+diastolic blood pressure,height,1
+diastolic blood pressure,homair,1
+diastolic blood pressure,homocysteine,1
+diastolic blood pressure,hyperlipidemia,5
+diastolic blood pressure,hypertension,3
+diastolic blood pressure,idf metabolic syndrome,1
+diastolic blood pressure,insulin (measurment),2
+diastolic blood pressure,insulin treatment,2
+diastolic blood pressure,left ventricular ejection fraction,2
+diastolic blood pressure,lipid profile,1
+diastolic blood pressure,lipidlowering therapy,6
+diastolic blood pressure,lm treatment,1
+diastolic blood pressure,medication use,1
+diastolic blood pressure,microalbuminuria,1
+diastolic blood pressure,myocardial infarction,2
+diastolic blood pressure,nephropathy,1
+diastolic blood pressure,percutaneous coronary intervention,2
+diastolic blood pressure,peripheral artery disease,4
+diastolic blood pressure,peripheral vascular disease,2
+diastolic blood pressure,peripherovascular morbidity,1
+diastolic blood pressure,phosphate,1
+diastolic blood pressure,physical activity,1
+diastolic blood pressure,proteinuria,1
+diastolic blood pressure,pulse pressure,1
+diastolic blood pressure,race/ethnicity,2
+diastolic blood pressure,ratio between total,1
+diastolic blood pressure,retinopathy,2
+diastolic blood pressure,sensory neuropathy presentabsent,1
+diastolic blood pressure,significant proximal lad disease,1
+diastolic blood pressure,smoking,10
+diastolic blood pressure,socioeconomic variables,3
+diastolic blood pressure,statins,3
+diastolic blood pressure,stroke,6
+diastolic blood pressure,sulfonylurea,1
+diastolic blood pressure,syntax score,1
+diastolic blood pressure,the presence of total occlusion,1
+diastolic blood pressure,the use of drugs yesno,1
+diastolic blood pressure,triglycerides,15
+diastolic blood pressure,ultrafiltration volume,1
+diastolic blood pressure,uric acid,1
+diastolic blood pressure,waist measurements,2
+diastolic blood pressure,white blood cell count,1
+dipeptidyl peptidase 4 inhibitor at discharge,insulin (measurment),1
+dipyridamole stress test,ischemia,1
+dipyridamole stress test,left ventricular ejection fraction,1
+disease duration,bmi,1
+disease duration,cardiovascular disease,1
+disease duration,cholesterol,2
+disease duration,creatinine,1
+disease duration,diabetes duration,1
+disease duration,hba1c,1
+disease duration,smoking,1
+disease duration,systolic blood pressure,1
+disease duration,triglycerides,1
+distal polyneuropathy,ankle-brachial index (ABI),1
+diuretic therapy,ACE inhibitors,1
+diuretic therapy,acute coronary syndrome,1
+diuretic therapy,beta-blocker,1
+diuretic therapy,bnp,1
+diuretic therapy,insulin treatment,1
+diuretic therapy,monocyte chemoattractant protin1 m,1
+diuretic therapy,pioglitazone treatment,1
+diuretic therapy,statins,1
+dpucmgp,renin-angiotensin system inhibitors,1
+dpucmgp,statins,1
+drug use,biomarkers,1
+duration,RCT,1
+duration,blood glucose,1
+duration,cardiovascular disease,2
+duration,cardiovascular risk factors,1
+duration,chronic kidney disease,1
+duration,other complications,1
+dyslipidaemia,autonomic nervous function,1
+dyslipidaemia,smoking,1
+ecg abnormalities,ACEI/ARB,2
+ecg abnormalities,age,2
+ecg abnormalities,alphaglucosidase inhibitor,1
+ecg abnormalities,antidiabetic medication,2
+ecg abnormalities,antiplatelet therapy,2
+ecg abnormalities,atrial fibrillation,2
+ecg abnormalities,beta-blocker,2
+ecg abnormalities,blood glucose,2
+ecg abnormalities,bnp,1
+ecg abnormalities,c-reactive protein,1
+ecg abnormalities,cardiovascular disease,1
+ecg abnormalities,cerebrovascular disease,1
+ecg abnormalities,cholesterol,11
+ecg abnormalities,cimt,1
+ecg abnormalities,clopidigrel,2
+ecg abnormalities,complete revascularization,1
+ecg abnormalities,coronary anatomy,1
+ecg abnormalities,coronary artery calcium score,1
+ecg abnormalities,coronary heart disease,1
+ecg abnormalities,creatinine,3
+ecg abnormalities,dcb use,1
+ecg abnormalities,diabetes,1
+ecg abnormalities,diastolic blood pressure,3
+ecg abnormalities,dipeptidyl peptidase 4 inhibitor at discharge,1
+ecg abnormalities,dpucmgp,1
+ecg abnormalities,echocardiographic variables,1
+ecg abnormalities,egfr,5
+ecg abnormalities,fasting plasma glucose,1
+ecg abnormalities,gender,1
+ecg abnormalities,glycated hemoglobin,1
+ecg abnormalities,glycemic control,1
+ecg abnormalities,hba1c,3
+ecg abnormalities,heart failure,1
+ecg abnormalities,heart rate,1
+ecg abnormalities,hypertension,4
+ecg abnormalities,insulin (measurment),2
+ecg abnormalities,insulin treatment,3
+ecg abnormalities,interleukin 6,1
+ecg abnormalities,left bundle branch block,1
+ecg abnormalities,left ventricular ejection fraction,4
+ecg abnormalities,lm treatment,1
+ecg abnormalities,macroalbuminuria,1
+ecg abnormalities,neuropathy,1
+ecg abnormalities,percutaneous coronary intervention,1
+ecg abnormalities,peripheral artery disease,2
+ecg abnormalities,peripherovascular morbidity,1
+ecg abnormalities,proteinuria,2
+ecg abnormalities,renin-angiotensin system inhibitors,1
+ecg abnormalities,significant proximal lad disease,3
+ecg abnormalities,sodium concentration,2
+ecg abnormalities,statins,5
+ecg abnormalities,sulfonylurea,1
+ecg abnormalities,syntax score,1
+ecg abnormalities,systolic blood pressure,4
+ecg abnormalities,the presence of total occlusion,3
+ecg abnormalities,triglycerides,1
+ecg abnormalities,uric acid,1
+echolucent plaque,antiaggregating agents,1
+egfr,ACE inhibitors,2
+egfr,ACEI/ARB,1
+egfr,ARBs,2
+egfr,RCT,3
+egfr,age,2
+egfr,albumin,8
+egfr,albumin excretion rate,3
+egfr,albumin to creatinine ratio,2
+egfr,alcohol use,1
+egfr,alphaglucosidase inhibitor,1
+egfr,antihypertensive use,3
+egfr,antiplatelet therapy,8
+egfr,aspirin therapy,3
+egfr,beta-blocker,2
+egfr,biomarkers (general),1
+egfr,blood glucose,4
+egfr,blood pressure,1
+egfr,bmi,5
+egfr,bnp,3
+egfr,c-reactive protein,7
+egfr,calcium channel blockers,2
+egfr,cardiovascular disease,4
+egfr,cardiovascular risk factors,1
+egfr,cerebrovascular disease,1
+egfr,cholesterol,27
+egfr,chronic kidney disease,1
+egfr,cimt,3
+egfr,combined alox12 genotypes,1
+egfr,complete revascularization,1
+egfr,complex lesions,1
+egfr,coronary heart disease,1
+egfr,creatinine,4
+egfr,dcb use,1
+egfr,diabetes,1
+egfr,diabetes duration,6
+egfr,diabetes treatment,4
+egfr,diastolic blood pressure,3
+egfr,dipeptidyl peptidase 4 inhibitor at discharge,1
+egfr,diuretic therapy,1
+egfr,dpucmgp,1
+egfr,ecg abnormalities,1
+egfr,gender,1
+egfr,glycemic control,1
+egfr,hba1c,22
+egfr,heart failure,1
+egfr,height,1
+egfr,hemoglobin,1
+egfr,history of coronary disease,1
+egfr,hyperlipidemia,2
+egfr,hypertension,5
+egfr,incretins,1
+egfr,inflammatory markers,1
+egfr,insulin (measurment),3
+egfr,insulin treatment,7
+egfr,interleukin 6,1
+egfr,ischemic heart disease,1
+egfr,left ventricular ejection fraction,3
+egfr,lipidlowering therapy,3
+egfr,lm treatment,1
+egfr,lung disease,1
+egfr,macroalbuminuria,1
+egfr,macroangiopathy,1
+egfr,macrovascular complications,1
+egfr,metformin,1
+egfr,microalbuminuria,2
+egfr,multivessel coronary disease,1
+egfr,myocardial infarction,3
+egfr,neuropathy,1
+egfr,nterminal probrain natriuretic peptide,1
+egfr,parathyroid harmone (PTH),1
+egfr,peripheral artery disease,3
+egfr,peripherovascular morbidity,1
+egfr,phosphate,2
+egfr,prior coronary artery bypass,1
+egfr,pro btype natriuretic peptide quartiles,1
+egfr,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+egfr,proteinuria,2
+egfr,renin-angiotensin system inhibitors,2
+egfr,retinopathy,4
+egfr,secretagogues,1
+egfr,sensory neuropathy,1
+egfr,sensory neuropathy presentabsent,1
+egfr,smoking,11
+egfr,sociodemographics,2
+egfr,statins,6
+egfr,stent,1
+egfr,stroke,3
+egfr,study treatment,1
+egfr,sulfonylurea,2
+egfr,syntax score,1
+egfr,systolic blood pressure,9
+egfr,the use of drugs yesno,1
+egfr,treatment,1
+egfr,triglycerides,6
+egfr,troponin,2
+egfr,urinary acr,3
+egfr,urinary protein log,1
+egfr,use of sulfonamides,1
+egfr,waist measurements,1
+ejection fraction,angina,1
+ejection fraction,atrial fibrillation,2
+ejection fraction,blood glucose,1
+ejection fraction,bmi,2
+ejection fraction,bnp,1
+ejection fraction,cholesterol,2
+ejection fraction,creatinine,2
+ejection fraction,hba1c,1
+ejection fraction,heart rate,1
+ejection fraction,pacemaker implantation,1
+ejection fraction,systolic blood pressure,1
+ejection fraction 40,ACE inhibitors,1
+ejection fraction 40,ARBs,1
+ejection fraction 40,acute coronary syndrome,1
+ejection fraction 40,andor nitroglycerin,1
+ejection fraction 40,antialdosterone,1
+ejection fraction 40,anticoagulants,1
+ejection fraction 40,antiplatelet therapy,1
+ejection fraction 40,aspirin therapy,1
+ejection fraction 40,atrial fibrillation,1
+ejection fraction 40,blockers,1
+ejection fraction 40,bnp,1
+ejection fraction 40,c-reactive protein,1
+ejection fraction 40,chronic kidney disease,1
+ejection fraction 40,clopidogrel,1
+ejection fraction 40,diuretic therapy,1
+ejection fraction 40,insulin treatment,1
+ejection fraction 40,monocyte chemoattractant protin1 m,1
+ejection fraction 40,nitrates,1
+ejection fraction 40,statins,1
+endothelial dysfunction,autonomic dysfunction,1
+expected costs,bmi,1
+expected costs,hba1c,1
+expected costs,physical activity,1
+expected costs,smoking,1
+family history of diabetes,bmi,1
+family history of diabetes,cardiovascular disease,1
+family history of diabetes,cholesterol,1
+family history of diabetes,lowdensity lipoprotein,1
+family history of diabetes,smoking,1
+family history of diabetes,systolic blood pressure,1
+family history of diabetes,triglycerides,1
+fasting plasma glucose,cholesterol,2
+fasting plasma glucose,diastolic blood pressure,1
+fasting plasma glucose,glycemic control,1
+fasting plasma glucose,hba1c,2
+fasting plasma glucose,neuropathy,1
+fasting plasma glucose,peripheral artery disease,1
+fasting plasma glucose,systolic blood pressure,1
+fasting plasma glucose,triglycerides,1
+fasting status at blood draw,alcohol use,1
+fasting status at blood draw,alternative healthy eating index ahei diet quality score quintiles,1
+fasting status at blood draw,bmi,1
+fasting status at blood draw,cholesterol,1
+fasting status at blood draw,hormone therapy,1
+fasting status at blood draw,hypertension,1
+fasting status at blood draw,menopausal status pre post uncertain missing,1
+fasting status at blood draw,myocardial infarction,1
+fasting status at blood draw,physical activity,1
+fasting status at blood draw,smoking,1
+fasting status at blood draw,white blood cell count,1
+fasting status yes or no,aspirin therapy,1
+fasting status yes or no,hba1c,1
+fasting status yes or no,hypertension,1
+fibrates,antidepressants,1
+fibrates,gliclazide,1
+fibrates,rosiglitazone during followup,1
+fibrates,years of enrolment,1
+fibrinogen,albumin excretion rate,1
+fibrinogen,albumin to creatinine ratio,1
+fibrinogen,ankle-brachial index (ABI),1
+fibrinogen,bmi,1
+fibrinogen,c-reactive protein,1
+fibrinogen,cholesterol,1
+fibrinogen,coronary artery disease,1
+fibrinogen,creatinine,2
+fibrinogen,ecg abnormalities,1
+fibrinogen,hba1c,1
+fibrinogen,heart rate,1
+fibrinogen,homocysteine,1
+fibrinogen,homocysteine at baseline,1
+fibrinogen,insulin treatment,1
+fibrinogen,microalbuminuria,1
+fibrinogen,peripheral arterial occlusive disease,1
+fibrinogen,physical activity,1
+fibrinogen,stroke,1
+fibrinogen,white blood cell count,1
+final timi flow,left ventricular ejection fraction,1
+final timi flow,stent,1
+folate,cholesterol,1
+folate,diabetes duration,1
+folate,hba1c,1
+folate,hypertension,1
+folate,smoking,1
+fpi,Serum 25-hydroxyvitamin D,1
+fpi,glycemic control,1
+fpi,lipid profile,1
+fpi,systolic blood pressure,1
+frailty effect for cohort,cardiovascular disease,1
+frailty effect for cohort,kidney function,1
+frailty effect for cohort,lowdensity lipoprotein,1
+frailty effect for cohort,microalbuminuria,1
+frailty effect for cohort,smoking,1
+frailty effect for cohort,systolic blood pressure,1
+gamma frailty,antihypertensive use,1
+gamma frailty,aspirin therapy,1
+gamma frailty,cardiovascular risk factors,1
+gamma frailty,lipidlowering therapy,1
+gastrointestinal bleeding in past 5 years,diabetes,1
+gastrointestinal bleeding in past 5 years,egfr,1
+gastrointestinal bleeding in past 5 years,lung disease,1
+gastrointestinal bleeding in past 5 years,systolic blood pressure,1
+ge,bmi,1
+ge,diabetes treatment,1
+ge,egfr,1
+ge,gender,1
+ge,hyperlipidemia,1
+ge,hypertension,1
+ge,myocardial infarction,1
+ge,prior coronary artery bypass,1
+ge,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+ge,stent,1
+gender,ACE inhibitors,4
+gender,ACEI/ARB,4
+gender,ARBs,4
+gender,ApoAI,1
+gender,CCr,1
+gender,Lp(a),1
+gender,RCT,12
+gender,Serum 25-hydroxyvitamin D,1
+gender,acr,2
+gender,acute coronary syndrome,3
+gender,adherence to medication,1
+gender,adiponectin,1
+gender,age,44
+gender,albumin,31
+gender,albumin excretion rate,7
+gender,albumin to creatinine ratio,10
+gender,alcohol use,16
+gender,alphaglucosidase inhibitor,1
+gender,andor nitroglycerin,1
+gender,angina,4
+gender,ankle-brachial index (ABI),4
+gender,antiaggregating agents,1
+gender,antialdosterone,1
+gender,anticoagulants,1
+gender,antidepressants,1
+gender,antidiabetic medication,3
+gender,antihyperlipidemic drugs,2
+gender,antihypertensive use,23
+gender,antiplatelet therapy,13
+gender,apelin36 levels,1
+gender,apo(a) phenotypes,1
+gender,apoAI/apoB ratio,2
+gender,apoB,2
+gender,arteriovenous fistula,1
+gender,aspirin therapy,14
+gender,atrial fibrillation,7
+gender,autonomic dysfunction,1
+gender,bapwv,1
+gender,baseline claudication,1
+gender,beta-blocker,3
+gender,biomarkers (general),1
+gender,blockers,2
+gender,blood glucose,22
+gender,blood pressure,18
+gender,blood transfusion,1
+gender,bmi,132
+gender,bnp,12
+gender,c-reactive protein,21
+gender,calcium channel blockers,1
+gender,cancer,1
+gender,cardiac autonomic neuropathy (CAN),1
+gender,cardiovascular disease,47
+gender,cardiovascular risk factors,6
+gender,carotid artery imt,1
+gender,carotid plaque,1
+gender,cerebrovascular disease,6
+gender,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+gender,charlson index,2
+gender,choleseterol,1
+gender,cholesterol,253
+gender,chronic kidney disease,8
+gender,chronic obstructive pulmonary disease,1
+gender,chronic renal failure,1
+gender,ci,1
+gender,cimt,3
+gender,clinic,1
+gender,clinic gamma frailty,1
+gender,clopidigrel,1
+gender,clopidogrel,1
+gender,combined alox12 genotypes,1
+gender,complete revascularization,1
+gender,complex lesions,1
+gender,coronary artery calcium score,4
+gender,coronary artery disease,14
+gender,coronary heart disease,10
+gender,creatinine,44
+gender,dcb use,1
+gender,dcsi,1
+gender,depression,1
+gender,diabetes,13
+gender,diabetes duration,115
+gender,diabetes treatment,21
+gender,diabetic neuropathy,2
+gender,dialysis,4
+gender,diastolic blood pressure,36
+gender,dipeptidyl peptidase 4 inhibitor at discharge,1
+gender,dipyridamole stress test,1
+gender,disease duration,1
+gender,distal polyneuropathy,1
+gender,diuretic therapy,3
+gender,dpucmgp,1
+gender,duration,2
+gender,ecg abnormalities,20
+gender,echolucent plaque,1
+gender,egfr,59
+gender,ejection fraction,2
+gender,ejection fraction 40,1
+gender,fasting cpeptide,1
+gender,fasting plasma glucose,5
+gender,fibrates,1
+gender,fibrinogen,5
+gender,final timi flow,1
+gender,folate,1
+gender,fpi,1
+gender,frailty effect for cohort,1
+gender,gamma frailty,1
+gender,gastrointestinal bleeding in past 5 years,1
+gender,glycated hemoglobin,2
+gender,glycemic control,9
+gender,hab1c,1
+gender,hba1c,144
+gender,heart failure,15
+gender,heart rate,10
+gender,height,2
+gender,hemoglobin,2
+gender,high density lipoprotein level,1
+gender,highdensity lipoprotein,3
+gender,history of copd,1
+gender,history of coronary disease,3
+gender,homair,5
+gender,homocysteine,2
+gender,homocysteine at baseline,1
+gender,hyperlipidemia,22
+gender,hypertension,85
+gender,hyperuricemia-gout,1
+gender,hypoglycaemic treatment,1
+gender,idf metabolic syndrome,1
+gender,indigenous australian,1
+gender,inflammatory markers,1
+gender,insulin (measurment),4
+gender,insulin treatment,27
+gender,interleukin 6,2
+gender,intervention arm no interaction model,1
+gender,ischemia,2
+gender,ischemic heart disease,4
+gender,kidney function,2
+gender,left ventricular ejection fraction,10
+gender,left ventricular hypertrophy,2
+gender,lipid profile,3
+gender,lipidlowering therapy,15
+gender,living alone,1
+gender,lm treatment,1
+gender,logaer,1
+gender,lowdensity lipoprotein,2
+gender,lung disease,1
+gender,macroalbuminuria,3
+gender,macrovascular complications,12
+gender,marital status,2
+gender,mca stenosis,1
+gender,medication differences,1
+gender,medication use,1
+gender,medications,1
+gender,metformin,5
+gender,microalbuminuria,12
+gender,microvascular disease,11
+gender,mild plaque calcifi cation,1
+gender,monocyte chemoattractant protin1 m,1
+gender,multivessel coronary disease,3
+gender,myocardial infarction,20
+gender,nephropathy,5
+gender,neuropathy,3
+gender,nitrates,1
+gender,nterminal probrain natriuretic peptide,2
+gender,nzdep quintile,1
+gender,other complications,1
+gender,other conventional risk factors,1
+gender,pIMT,1
+gender,pacemaker implantation,1
+gender,parathyroid harmone (PTH),2
+gender,percent low density plaque,1
+gender,percutaneous coronary intervention,3
+gender,peripheral arterial occlusive disease,1
+gender,peripheral artery disease,11
+gender,peripheral neuropathy,1
+gender,peripheral vascular disease,4
+gender,peripherovascular morbidity,1
+gender,phosphate,5
+gender,physical activity,10
+gender,physical inactivity,4
+gender,pioglitazone treatment,1
+gender,plaque thickness,1
+gender,plaque volume,1
+gender,previous diseases,1
+gender,previous pcicabg,1
+gender,prior coronary artery bypass,3
+gender,pro btype natriuretic peptide quartiles,1
+gender,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+gender,proteinuria,5
+gender,psychiatric medications,1
+gender,pulse pressure,2
+gender,race/ethnicity,21
+gender,referring physician,1
+gender,renal impairment,1
+gender,renal insufficiency,1
+gender,renin-angiotensin system inhibitors,4
+gender,retinopathy,14
+gender,sensory neuropathy presentabsent,1
+gender,significant proximal lad disease,1
+gender,sleep duration,1
+gender,smoking,164
+gender,sociodemographics,13
+gender,socioeconomic variables,11
+gender,sodium concentration,1
+gender,statins,32
+gender,stent,3
+gender,stroke,10
+gender,study treatment,1
+gender,sulfonylurea,4
+gender,syntax score,1
+gender,systolic blood pressure,114
+gender,the presence of total occlusion,1
+gender,the ukpds risk score,1
+gender,the use of drugs yesno,1
+gender,therapy for hypercoagulation,1
+gender,thiazolidinediones,1
+gender,top three multidimensional scaling axes,1
+gender,tot chol,1
+gender,total baseline expenditures,1
+gender,treatment,1
+gender,triacylglycerol,4
+gender,triglycerides,56
+gender,troponin,3
+gender,ultrafiltration volume,2
+gender,uric acid,4
+gender,urinary,2
+gender,urinary acr,5
+gender,urinary albumin excretion rate,10
+gender,urinary protein log,1
+gender,use of blockers,1
+gender,use of sulfonamides,1
+gender,vitamin b12,1
+gender,waist measurements,13
+gender,wasting,1
+gender,weight,1
+gender,white blood cell count,3
+gender,year of followup start,1
+gliclazide,rosiglitazone during followup,1
+gliclazide,years of enrolment,1
+glycated hemoglobin,cardiovascular disease,1
+glycated hemoglobin,diabetes duration,1
+glycated hemoglobin,diastolic blood pressure,1
+glycated hemoglobin,egfr,1
+glycated hemoglobin,haemoglobin,1
+glycated hemoglobin,hypertension,1
+glycated hemoglobin,insulin treatment,1
+glycated hemoglobin,metformin,1
+glycated hemoglobin,microvascular disease,1
+glycated hemoglobin,myocardial infarction,1
+glycated hemoglobin,peripherovascular morbidity,1
+glycated hemoglobin,prior coronary artery bypass,1
+glycated hemoglobin,statins,1
+glycemic control,Serum 25-hydroxyvitamin D,1
+glycemic control,albumin,1
+glycemic control,alcohol use,1
+glycemic control,alphaglucosidase inhibitor,1
+glycemic control,antihypertensive use,2
+glycemic control,bmi,2
+glycemic control,cardiovascular disease,2
+glycemic control,cholesterol,2
+glycemic control,diastolic blood pressure,2
+glycemic control,dipeptidyl peptidase 4 inhibitor at discharge,1
+glycemic control,hba1c,1
+glycemic control,heart rate,2
+glycemic control,hyperlipidemia,1
+glycemic control,hypertension,1
+glycemic control,insulin (measurment),1
+glycemic control,insulin treatment,1
+glycemic control,lipidlowering therapy,1
+glycemic control,microvascular disease,1
+glycemic control,physical activity,1
+glycemic control,retinopathy,1
+glycemic control,smoking,2
+glycemic control,sociodemographics,1
+glycemic control,statins,1
+glycemic control,sulfonylurea,1
+glycemic control,systolic blood pressure,3
+hab1c,albumin,1
+hab1c,blood glucose,1
+hab1c,choleseterol,1
+hab1c,cholesterol,1
+hab1c,creatinine,1
+haemoglobin,myocardial infarction,1
+haemoglobin,prior coronary artery bypass,1
+hba1c,ACE inhibitors,4
+hba1c,ACEI/ARB,1
+hba1c,ARBs,3
+hba1c,ApoAI,1
+hba1c,Elixhauser comorbidies,1
+hba1c,RCT,6
+hba1c,acr,1
+hba1c,acute coronary syndrome,1
+hba1c,age,6
+hba1c,albumin,21
+hba1c,albumin excretion rate,5
+hba1c,albumin to creatinine ratio,4
+hba1c,alcohol use,2
+hba1c,alphaglucosidase inhibitor,1
+hba1c,angina,1
+hba1c,ankle-brachial index (ABI),3
+hba1c,antiaggregating agents,1
+hba1c,antidiabetic medication,1
+hba1c,antihyperlipidemic drugs,2
+hba1c,antihypertensive use,11
+hba1c,antiplatelet therapy,7
+hba1c,apo(a) phenotypes,1
+hba1c,apoAI/apoB ratio,2
+hba1c,apoB,2
+hba1c,arteriovenous fistula,2
+hba1c,aspirin therapy,9
+hba1c,atrial fibrillation,3
+hba1c,autonomic dysfunction,2
+hba1c,bapwv,1
+hba1c,beta-blocker,3
+hba1c,blood glucose,6
+hba1c,blood pressure,7
+hba1c,bmi,25
+hba1c,bnp,8
+hba1c,c-reactive protein,12
+hba1c,calcium channel blockers,2
+hba1c,cancer,1
+hba1c,cardiac autonomic neuropathy (CAN),2
+hba1c,cardiovascular disease,13
+hba1c,cardiovascular risk factors,2
+hba1c,carotid artery imt,1
+hba1c,cerebrovascular disease,3
+hba1c,cholesterol,115
+hba1c,chronic kidney disease,2
+hba1c,cimt,3
+hba1c,combined alox12 genotypes,1
+hba1c,complete revascularization,1
+hba1c,coronary artery calcium score,2
+hba1c,coronary artery disease,2
+hba1c,coronary heart disease,4
+hba1c,creatinine,23
+hba1c,dcb use,1
+hba1c,diabetes,2
+hba1c,diabetes duration,15
+hba1c,diabetes treatment,10
+hba1c,diabetic neuropathy,1
+hba1c,dialysis,2
+hba1c,diastolic blood pressure,15
+hba1c,dipeptidyl peptidase 4 inhibitor at discharge,1
+hba1c,distal polyneuropathy,1
+hba1c,diuretic therapy,1
+hba1c,dpucmgp,1
+hba1c,ecg abnormalities,8
+hba1c,echolucent plaque,1
+hba1c,egfr,31
+hba1c,endothelial dysfunction,1
+hba1c,family history of diabetes,1
+hba1c,fasting cpeptide,1
+hba1c,fasting plasma glucose,2
+hba1c,fibrates,1
+hba1c,fibrinogen,5
+hba1c,gender,3
+hba1c,gensini score,1
+hba1c,gliclazide,1
+hba1c,glycemic control,4
+hba1c,heart failure,4
+hba1c,heart rate,3
+hba1c,heart valve calcium,1
+hba1c,height,2
+hba1c,highdensity lipoprotein,2
+hba1c,history of coronary disease,1
+hba1c,homair,4
+hba1c,homocysteine,2
+hba1c,homocysteine at baseline,1
+hba1c,hyperlipidemia,4
+hba1c,hypertension,15
+hba1c,idf metabolic syndrome,1
+hba1c,incretins,1
+hba1c,insulin (measurment),5
+hba1c,insulin treatment,13
+hba1c,interleukin 6,1
+hba1c,ischemic heart disease,1
+hba1c,left atrial diameter,1
+hba1c,left ventricular ejection fraction,3
+hba1c,lipid profile,1
+hba1c,lipidlowering therapy,7
+hba1c,lm treatment,1
+hba1c,log101  acr,1
+hba1c,logaer,1
+hba1c,lowdensity lipoprotein,2
+hba1c,macroalbuminuria,2
+hba1c,macroangiopathy,1
+hba1c,macrovascular complications,1
+hba1c,medications,1
+hba1c,metformin,3
+hba1c,microalbuminuria,8
+hba1c,microvascular disease,1
+hba1c,mild plaque calcifi cation,1
+hba1c,multivessel coronary disease,1
+hba1c,myocardial infarction,7
+hba1c,nephropathy,2
+hba1c,neuropathy,1
+hba1c,nterminal probrain natriuretic peptide,2
+hba1c,parathyroid harmone (PTH),1
+hba1c,percent low density plaque,1
+hba1c,percutaneous coronary intervention,1
+hba1c,peripheral arterial occlusive disease,1
+hba1c,peripheral artery disease,6
+hba1c,peripheral neuropathy,1
+hba1c,phosphate,6
+hba1c,physical activity,2
+hba1c,pioglitazone treatment,1
+hba1c,plaque thickness,1
+hba1c,plaque volume,1
+hba1c,prior coronary artery bypass,1
+hba1c,pro btype natriuretic peptide quartiles,1
+hba1c,proteinuria,2
+hba1c,provider quality controls,1
+hba1c,pulse pressure,1
+hba1c,race/ethnicity,4
+hba1c,referring physician,1
+hba1c,renal impairment,1
+hba1c,renin-angiotensin system inhibitors,3
+hba1c,retinopathy,6
+hba1c,rosiglitazone during followup,1
+hba1c,secretagogues,1
+hba1c,sensory neuropathy,1
+hba1c,sensory neuropathy presentabsent,1
+hba1c,significant proximal lad disease,1
+hba1c,smoking,30
+hba1c,sociodemographics,6
+hba1c,socioeconomic variables,3
+hba1c,sodium concentration,1
+hba1c,statins,15
+hba1c,stent,1
+hba1c,stroke,5
+hba1c,sulfonylurea,3
+hba1c,syntax score,1
+hba1c,systolic blood pressure,37
+hba1c,the presence of total occlusion,1
+hba1c,the use of drugs yesno,1
+hba1c,therapy for hypercoagulation,1
+hba1c,threevessel disease,1
+hba1c,tot chol,1
+hba1c,treatment,1
+hba1c,triacylglycerol,3
+hba1c,triglycerides,39
+hba1c,troponin,3
+hba1c,ultrafiltration volume,2
+hba1c,uric acid,4
+hba1c,urinary,1
+hba1c,urinary acr,5
+hba1c,urinary albumin excretion rate,6
+hba1c,use of sulfonamides,1
+hba1c,waist measurements,2
+hba1c,weight,1
+hba1c,year fixed effects,1
+hba1c,years of enrolment,1
+hba1c,young severity index,1
+heart failure,ARBs,1
+heart failure,RCT,2
+heart failure,age,2
+heart failure,albumin,2
+heart failure,antidepressants,1
+heart failure,antihypertensive use,1
+heart failure,arteriovenous fistula,1
+heart failure,aspirin therapy,1
+heart failure,atrial fibrillation,1
+heart failure,biomarkers (general),1
+heart failure,blockers,1
+heart failure,blood glucose,1
+heart failure,bmi,3
+heart failure,bnp,2
+heart failure,c-reactive protein,3
+heart failure,cholesterol,6
+heart failure,chronic kidney disease,2
+heart failure,coronary heart disease,1
+heart failure,creatinine,4
+heart failure,depression,1
+heart failure,diabetes,1
+heart failure,diabetes duration,4
+heart failure,dialysis,3
+heart failure,egfr,5
+heart failure,fibrates,1
+heart failure,gender,1
+heart failure,glycemic control,1
+heart failure,hba1c,7
+heart failure,heart rate,1
+heart failure,hyperlipidemia,4
+heart failure,hypertension,4
+heart failure,insulin treatment,1
+heart failure,left ventricular ejection fraction,1
+heart failure,macroalbuminuria,2
+heart failure,metformin,1
+heart failure,myocardial infarction,4
+heart failure,neuropathy,1
+heart failure,peripheral artery disease,3
+heart failure,peripheral vascular disease,1
+heart failure,phosphate,2
+heart failure,pro btype natriuretic peptide quartiles,1
+heart failure,retinopathy,1
+heart failure,smoking,6
+heart failure,sodium concentration,1
+heart failure,statins,1
+heart failure,stroke,1
+heart failure,sulfonylurea,1
+heart failure,systolic blood pressure,2
+heart failure,thiazolidinediones,1
+heart failure,triglycerides,2
+heart failure,troponin,1
+heart failure,ultrafiltration volume,2
+heart rate,ApoAI,1
+heart rate,RCT,1
+heart rate,age,1
+heart rate,albumin,1
+heart rate,angina,1
+heart rate,apoAI/apoB ratio,1
+heart rate,apoB,1
+heart rate,atrial fibrillation,3
+heart rate,beta-blocker,1
+heart rate,blood glucose,1
+heart rate,bmi,3
+heart rate,c-reactive protein,1
+heart rate,calcium channel blockers,1
+heart rate,cardiovascular disease,1
+heart rate,cerebrovascular disease,1
+heart rate,cholesterol,13
+heart rate,creatinine,4
+heart rate,diabetes,1
+heart rate,diabetic neuropathy,1
+heart rate,diastolic blood pressure,1
+heart rate,ecg abnormalities,2
+heart rate,egfr,3
+heart rate,fibrinogen,1
+heart rate,gastrointestinal bleeding in past 5 years,1
+heart rate,glycated hemoglobin,1
+heart rate,haemoglobin,1
+heart rate,hba1c,5
+heart rate,heart failure,1
+heart rate,homair,1
+heart rate,homocysteine,1
+heart rate,hyperuricemia-gout,1
+heart rate,idf metabolic syndrome,1
+heart rate,insulin (measurment),1
+heart rate,left bundle branch block,1
+heart rate,left ventricular ejection fraction,1
+heart rate,lung disease,1
+heart rate,macroalbuminuria,2
+heart rate,microalbuminuria,1
+heart rate,myocardial infarction,1
+heart rate,myocardial spect,1
+heart rate,pacemaker implantation,1
+heart rate,percutaneous coronary intervention,1
+heart rate,peripheral artery disease,2
+heart rate,prior coronary artery bypass,1
+heart rate,retinopathy,1
+heart rate,smoking,1
+heart rate,sodium concentration,1
+heart rate,systolic blood pressure,4
+heart rate,triglycerides,4
+heart rate,uric acid,1
+heart rate,use of blockers,1
+heart rate,white blood cell count,1
+heart valve calcium,egfr,1
+height,antihypertensive use,2
+height,coronary artery calcium score,1
+height,ecg abnormalities,1
+height,hyperlipidemia,1
+height,hypertension,1
+height,insulin treatment,1
+height,lipidlowering therapy,1
+height,myocardial infarction,1
+height,smoking,2
+height,systolic blood pressure,1
+hemodynamic measures,diabetes duration,1
+hemodynamic measures,hba1c,1
+hemoglobin,ACEI/ARB,1
+hemoglobin,cholesterol,1
+hemoglobin,egfr,1
+hemoglobin,insulin treatment,1
+hgi,fasting plasma glucose,1
+hgi,hba1c,1
+hgi,triglycerides,1
+high density lipoprotein level,smoking,1
+high density lipoprotein level,systolic blood pressure,1
+high rlp levels,hba1c,1
+high rlp levels,threevessel disease,1
+highdensity lipoprotein,aspirin therapy,2
+highdensity lipoprotein,cholesterol,2
+highdensity lipoprotein,diabetes duration,1
+highdensity lipoprotein,glycated hemoglobin,1
+highdensity lipoprotein,hypertension,1
+highdensity lipoprotein,insulin treatment,2
+highdensity lipoprotein,lipidlowering therapy,1
+highdensity lipoprotein,metformin,1
+highdensity lipoprotein,microvascular disease,1
+highdensity lipoprotein,statins,2
+history of copd,RCT,1
+history of copd,aspirin therapy,1
+history of copd,atrial fibrillation,1
+history of copd,cholesterol,2
+history of copd,creatinine,1
+history of copd,egfr,1
+history of copd,hba1c,1
+history of copd,heart failure,1
+history of copd,smoking,1
+history of coronary disease,RCT,1
+history of coronary disease,antiplatelet therapy,1
+history of coronary disease,aspirin therapy,1
+history of coronary disease,atrial fibrillation,1
+history of coronary disease,cholesterol,2
+history of coronary disease,creatinine,1
+history of coronary disease,egfr,1
+history of coronary disease,hba1c,1
+history of coronary disease,heart failure,1
+history of coronary disease,history of copd,1
+history of coronary disease,peripheral artery disease,1
+history of coronary disease,smoking,2
+homair,adiponectin,1
+homair,blood glucose,1
+homair,c-reactive protein,1
+homair,cholesterol,3
+homair,creatinine,3
+homair,ecg abnormalities,1
+homair,egfr,2
+homair,fibrinogen,2
+homair,hemoglobin,1
+homair,homocysteine,2
+homair,homocysteine at baseline,1
+homair,interleukin 6,2
+homair,parathyroid harmone (PTH),1
+homair,phosphate,1
+homair,systolic blood pressure,1
+homair,triacylglycerol,1
+homair,triglycerides,1
+homocysteine,blood glucose,1
+hormone therapy,alcohol use,1
+hormone therapy,alternative healthy eating index ahei diet quality score quintiles,1
+hormone therapy,bmi,1
+hormone therapy,cholesterol,1
+hormone therapy,hypertension,1
+hormone therapy,myocardial infarction,1
+hormone therapy,physical activity,1
+hormone therapy,smoking,1
+hormone therapy,white blood cell count,1
+hyperlipidemia,ACEI/ARB,1
+hyperlipidemia,age,2
+hyperlipidemia,albumin,2
+hyperlipidemia,alphaglucosidase inhibitor,1
+hyperlipidemia,angina,2
+hyperlipidemia,antidiabetic medication,1
+hyperlipidemia,antiplatelet therapy,2
+hyperlipidemia,aspirin therapy,1
+hyperlipidemia,beta-blocker,2
+hyperlipidemia,biomarkers (general),1
+hyperlipidemia,blood glucose,3
+hyperlipidemia,bmi,3
+hyperlipidemia,c-reactive protein,2
+hyperlipidemia,calcium channel blockers,1
+hyperlipidemia,cardiovascular disease,1
+hyperlipidemia,cholesterol,11
+hyperlipidemia,chronic kidney disease,1
+hyperlipidemia,chronic obstructive pulmonary disease,1
+hyperlipidemia,cimt,1
+hyperlipidemia,clopidigrel,1
+hyperlipidemia,complete revascularization,1
+hyperlipidemia,coronary artery calcium score,1
+hyperlipidemia,coronary artery disease,3
+hyperlipidemia,coronary heart disease,1
+hyperlipidemia,creatinine,3
+hyperlipidemia,dcb use,1
+hyperlipidemia,diabetes duration,2
+hyperlipidemia,diabetes treatment,4
+hyperlipidemia,dipeptidyl peptidase 4 inhibitor at discharge,1
+hyperlipidemia,dipyridamole stress test,1
+hyperlipidemia,dpucmgp,1
+hyperlipidemia,ecg abnormalities,5
+hyperlipidemia,egfr,6
+hyperlipidemia,fasting plasma glucose,1
+hyperlipidemia,gender,1
+hyperlipidemia,glycemic control,1
+hyperlipidemia,hba1c,9
+hyperlipidemia,hypertension,3
+hyperlipidemia,insulin (measurment),1
+hyperlipidemia,insulin treatment,3
+hyperlipidemia,ischemia,1
+hyperlipidemia,left ventricular ejection fraction,3
+hyperlipidemia,lm treatment,1
+hyperlipidemia,metformin,1
+hyperlipidemia,myocardial infarction,4
+hyperlipidemia,neuropathy,1
+hyperlipidemia,percutaneous coronary intervention,2
+hyperlipidemia,peripheral artery disease,3
+hyperlipidemia,peripheral vascular disease,1
+hyperlipidemia,prior coronary artery bypass,1
+hyperlipidemia,pro btype natriuretic peptide quartiles,1
+hyperlipidemia,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+hyperlipidemia,renin-angiotensin system inhibitors,1
+hyperlipidemia,secretagogues,1
+hyperlipidemia,smoking,8
+hyperlipidemia,statins,5
+hyperlipidemia,stent,1
+hyperlipidemia,stroke,3
+hyperlipidemia,sulfonylurea,1
+hyperlipidemia,syntax score,1
+hyperlipidemia,systolic blood pressure,1
+hyperlipidemia,therapy for hypercoagulation,1
+hyperlipidemia,triglycerides,2
+hyperlipidemia,troponin,1
+hypertension,ACE inhibitors,2
+hypertension,ACEI/ARB,2
+hypertension,ARBs,2
+hypertension,Lp(a),1
+hypertension,RCT,2
+hypertension,acute coronary syndrome,2
+hypertension,age,4
+hypertension,albumin,14
+hypertension,albumin excretion rate,1
+hypertension,alcohol use,3
+hypertension,andor nitroglycerin,1
+hypertension,angina,2
+hypertension,ankle-brachial index (ABI),2
+hypertension,antiaggregating agents,1
+hypertension,antialdosterone,1
+hypertension,anticoagulants,1
+hypertension,antidiabetic medication,1
+hypertension,antihypertensive use,1
+hypertension,antiplatelet therapy,4
+hypertension,apo(a) phenotypes,1
+hypertension,apoAI/apoB ratio,1
+hypertension,aspirin therapy,11
+hypertension,atrial fibrillation,1
+hypertension,autonomic dysfunction,2
+hypertension,autonomic nervous function,1
+hypertension,beta-blocker,3
+hypertension,biomarkers (general),1
+hypertension,blockers,1
+hypertension,blood glucose,8
+hypertension,bmi,19
+hypertension,bnp,3
+hypertension,c-reactive protein,9
+hypertension,calcium channel blockers,2
+hypertension,cardiovascular disease,8
+hypertension,cerebrovascular disease,1
+hypertension,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+hypertension,choleseterol,1
+hypertension,cholesterol,80
+hypertension,chronic kidney disease,2
+hypertension,chronic obstructive pulmonary disease,1
+hypertension,chronic renal failure,1
+hypertension,cimt,3
+hypertension,clopidigrel,1
+hypertension,clopidogrel,1
+hypertension,combined alox12 genotypes,1
+hypertension,complex lesions,1
+hypertension,coronary artery calcium score,3
+hypertension,coronary artery disease,9
+hypertension,coronary heart disease,2
+hypertension,creatinine,11
+hypertension,diabetes,2
+hypertension,diabetes duration,14
+hypertension,diabetes treatment,13
+hypertension,diabetic neuropathy,1
+hypertension,diastolic blood pressure,5
+hypertension,dipyridamole stress test,1
+hypertension,distal polyneuropathy,1
+hypertension,diuretic therapy,2
+hypertension,dpucmgp,1
+hypertension,dyslipidaemia,1
+hypertension,ecg abnormalities,7
+hypertension,echolucent plaque,1
+hypertension,egfr,17
+hypertension,ejection fraction 40,1
+hypertension,endothelial dysfunction,1
+hypertension,fasting plasma glucose,3
+hypertension,fibrinogen,1
+hypertension,final timi flow,1
+hypertension,gender,4
+hypertension,glycated hemoglobin,1
+hypertension,glycemic control,3
+hypertension,hab1c,1
+hypertension,hba1c,33
+hypertension,heart attack,1
+hypertension,heart failure,1
+hypertension,heart rate,1
+hypertension,highdensity lipoprotein,2
+hypertension,history of coronary disease,1
+hypertension,hyperlipidemia,20
+hypertension,incretins,1
+hypertension,insulin treatment,16
+hypertension,ischemia,1
+hypertension,ischemic heart disease,3
+hypertension,left ventricular ejection fraction,5
+hypertension,left ventricular hypertrophy,1
+hypertension,lipidlowering therapy,1
+hypertension,logaer,1
+hypertension,macroalbuminuria,1
+hypertension,macroangiopathy,1
+hypertension,macrovascular complications,8
+hypertension,metformin,5
+hypertension,microalbuminuria,2
+hypertension,microvascular disease,7
+hypertension,monocyte chemoattractant protin1 m,1
+hypertension,multivessel coronary disease,3
+hypertension,myocardial infarction,9
+hypertension,nephropathy,1
+hypertension,neuropathy,1
+hypertension,nitrates,1
+hypertension,pc screen time,2
+hypertension,percutaneous coronary intervention,2
+hypertension,peripheral artery disease,4
+hypertension,peripheral neuropathy,1
+hypertension,peripheral vascular disease,1
+hypertension,physical activity,1
+hypertension,plaque thickness,1
+hypertension,prior coronary artery bypass,2
+hypertension,pro btype natriuretic peptide quartiles,1
+hypertension,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+hypertension,proteinuria,2
+hypertension,race/ethnicity,1
+hypertension,renal insufficiency,1
+hypertension,renin-angiotensin system inhibitors,2
+hypertension,retinopathy,2
+hypertension,secretagogues,1
+hypertension,sleep duration,2
+hypertension,smoking,37
+hypertension,sociodemographics,1
+hypertension,socioeconomic variables,1
+hypertension,statins,20
+hypertension,stent,3
+hypertension,stroke,3
+hypertension,study treatment,1
+hypertension,sulfonylurea,1
+hypertension,systolic blood pressure,13
+hypertension,the ukpds risk score,1
+hypertension,therapy for hypercoagulation,1
+hypertension,triglycerides,18
+hypertension,troponin,1
+hypertension,tv viewing,2
+hypertension,uric acid,1
+hypertension,wasting,1
+hyperuricemia-gout,diabetes,1
+hyperuricemia-gout,egfr,1
+hyperuricemia-gout,gastrointestinal bleeding in past 5 years,1
+hyperuricemia-gout,lung disease,1
+hyperuricemia-gout,systolic blood pressure,1
+hypoglycaemic treatment,antihypertensive use,1
+hypoglycaemic treatment,blood pressure,1
+hypoglycaemic treatment,bmi,1
+hypoglycaemic treatment,hba1c,1
+hypoglycaemic treatment,lipidlowering therapy,1
+hypoglycaemic treatment,microalbuminuria,1
+idf metabolic syndrome,c-reactive protein,1
+idf metabolic syndrome,fibrinogen,1
+idf metabolic syndrome,homair,1
+idf metabolic syndrome,homocysteine,1
+idf metabolic syndrome,insulin (measurment),1
+incretins,ARBs,1
+incretins,age,1
+incretins,antiplatelet therapy,1
+incretins,beta-blocker,2
+incretins,calcium channel blockers,2
+incretins,hyperlipidemia,1
+incretins,neuropathy,1
+incretins,peripheral artery disease,1
+incretins,secretagogues,1
+indigenous australian,cardiovascular disease,1
+indigenous australian,coronary heart disease,1
+indigenous australian,neuropathy,1
+indigenous australian,retinopathy,1
+indigenous australian,urinary acr,1
+inflammatory markers,cardiovascular risk factors,1
+inflammatory markers,hba1c,1
+initial timi,age,1
+initial timi,blood glucose,1
+initial timi,final timi flow,1
+initial timi,gender,1
+initial timi,hypertension,1
+initial timi,left ventricular ejection fraction,1
+initial timi,multivessel coronary disease,1
+initial timi,myocardial infarction,2
+initial timi,percutaneous coronary intervention,1
+initial timi,smoking,1
+initial timi,stent,1
+insulin (measurment),ACE inhibitors,1
+insulin (measurment),beta-blocker,1
+insulin (measurment),blood glucose,1
+insulin (measurment),c-reactive protein,2
+insulin (measurment),diastolic blood pressure,1
+insulin (measurment),diuretic therapy,1
+insulin (measurment),fibrinogen,1
+insulin (measurment),homair,1
+insulin (measurment),homocysteine,1
+insulin (measurment),metformin,1
+insulin (measurment),pioglitazone treatment,1
+insulin (measurment),statins,1
+insulin (measurment),sulfonylurea,1
+insulin (measurment),systolic blood pressure,1
+insulin treatment,ACE inhibitors,1
+insulin treatment,ARBs,3
+insulin treatment,age,2
+insulin treatment,albumin to creatinine ratio,2
+insulin treatment,alcohol use,2
+insulin treatment,angina,1
+insulin treatment,antidepressants,1
+insulin treatment,antihypertensive use,4
+insulin treatment,antiplatelet therapy,3
+insulin treatment,aspirin therapy,5
+insulin treatment,beta-blocker,2
+insulin treatment,blockers,1
+insulin treatment,blood glucose,1
+insulin treatment,blood pressure,1
+insulin treatment,bmi,7
+insulin treatment,bnp,2
+insulin treatment,calcium channel blockers,2
+insulin treatment,cardiovascular disease,2
+insulin treatment,cerebrovascular disease,1
+insulin treatment,cholesterol,11
+insulin treatment,coronary artery calcium score,1
+insulin treatment,coronary heart disease,1
+insulin treatment,diabetes duration,4
+insulin treatment,diastolic blood pressure,4
+insulin treatment,diuretic therapy,1
+insulin treatment,ecg abnormalities,2
+insulin treatment,egfr,3
+insulin treatment,family history of diabetes,1
+insulin treatment,fasting plasma glucose,1
+insulin treatment,fibrates,1
+insulin treatment,gender,1
+insulin treatment,glycemic control,1
+insulin treatment,hba1c,5
+insulin treatment,hyperlipidemia,1
+insulin treatment,hypertension,4
+insulin treatment,incretins,1
+insulin treatment,lowdensity lipoprotein,1
+insulin treatment,macrovascular complications,1
+insulin treatment,metformin,2
+insulin treatment,microvascular disease,1
+insulin treatment,monocyte chemoattractant protin1 m,1
+insulin treatment,myocardial infarction,1
+insulin treatment,neuropathy,1
+insulin treatment,pc screen time,1
+insulin treatment,peripheral artery disease,1
+insulin treatment,physical activity,2
+insulin treatment,pulse pressure,1
+insulin treatment,renin-angiotensin system inhibitors,1
+insulin treatment,retinopathy,2
+insulin treatment,sds summed difference score,1
+insulin treatment,secretagogues,1
+insulin treatment,sleep duration,1
+insulin treatment,smoking,4
+insulin treatment,sodium concentration,1
+insulin treatment,statins,7
+insulin treatment,sulfonylurea,1
+insulin treatment,summed stress score sss,1
+insulin treatment,systolic blood pressure,5
+insulin treatment,tot chol,1
+insulin treatment,triglycerides,3
+insulin treatment,tv viewing,1
+insulin treatment,uric acid,1
+insulin treatment,urinary acr,1
+intensive treatment,diabetes duration,2
+interleukin 6,cholesterol,1
+interleukin 6,creatinine,1
+interleukin 6,egfr,1
+interleukin 6,hemoglobin,1
+interleukin 6,parathyroid harmone (PTH),1
+interleukin 6,phosphate,1
+intervention arm no interaction model,clinic gamma frailty,1
+ischemia,antihypertensive use,1
+ischemia,blood glucose,1
+ischemia,bmi,1
+ischemia,cardiovascular disease,1
+ischemia,cholesterol,3
+ischemia,diabetes duration,1
+ischemia,insulin treatment,1
+ischemia,microalbuminuria,1
+ischemia,pulse pressure,1
+ischemia,retinopathy,1
+ischemia,smoking,1
+ischemia,stroke,1
+ischemia,triglycerides,1
+ischemic heart disease,bnp,1
+ischemic heart disease,cholesterol,1
+ischemic heart disease,chronic renal failure,1
+ischemic heart disease,diabetes duration,1
+ischemic heart disease,diabetes treatment,1
+ischemic heart disease,hba1c,2
+ischemic heart disease,retinopathy,1
+ischemic heart disease,statins,1
+kidney function,cardiovascular disease,2
+kidney function,lowdensity lipoprotein,1
+kidney function,other conventional risk factors,1
+kidney function,smoking,1
+kidney function,systolic blood pressure,1
+lack of coronary revascularization,age,1
+lack of coronary revascularization,glycated hemoglobin,1
+lack of coronary revascularization,haemoglobin,1
+lack of coronary revascularization,heart rate,1
+lack of coronary revascularization,myocardial infarction,1
+lack of coronary revascularization,prior coronary artery bypass,1
+left atrial diameter,egfr,1
+left atrial diameter,heart valve calcium,1
+left bundle branch block,atrial fibrillation,1
+left bundle branch block,cholesterol,1
+left bundle branch block,creatinine,1
+left bundle branch block,uric acid,1
+left ventricular ejection fraction,ACEI/ARB,1
+left ventricular ejection fraction,alphaglucosidase inhibitor,1
+left ventricular ejection fraction,antidiabetic medication,1
+left ventricular ejection fraction,antiplatelet therapy,2
+left ventricular ejection fraction,beta-blocker,1
+left ventricular ejection fraction,c-reactive protein,2
+left ventricular ejection fraction,cholesterol,3
+left ventricular ejection fraction,clopidigrel,1
+left ventricular ejection fraction,complete revascularization,1
+left ventricular ejection fraction,dcb use,1
+left ventricular ejection fraction,diabetes,1
+left ventricular ejection fraction,diastolic blood pressure,1
+left ventricular ejection fraction,dipeptidyl peptidase 4 inhibitor at discharge,1
+left ventricular ejection fraction,diuretic therapy,1
+left ventricular ejection fraction,egfr,1
+left ventricular ejection fraction,fibrinogen,1
+left ventricular ejection fraction,glycemic control,1
+left ventricular ejection fraction,hba1c,2
+left ventricular ejection fraction,hypertension,1
+left ventricular ejection fraction,insulin (measurment),1
+left ventricular ejection fraction,insulin treatment,2
+left ventricular ejection fraction,ischemia,1
+left ventricular ejection fraction,lm treatment,1
+left ventricular ejection fraction,previous pcicabg,1
+left ventricular ejection fraction,smoking,1
+left ventricular ejection fraction,statins,3
+left ventricular ejection fraction,sulfonylurea,1
+left ventricular ejection fraction,syntax score,1
+left ventricular ejection fraction,systolic blood pressure,1
+left ventricular ejection fraction,troponin,1
+left ventricular hypertrophy,cholesterol,2
+left ventricular hypertrophy,coronary artery disease,1
+left ventricular hypertrophy,diabetes duration,1
+left ventricular hypertrophy,ecg abnormalities,1
+left ventricular hypertrophy,hba1c,1
+left ventricular hypertrophy,hypertension,1
+left ventricular hypertrophy,macroalbuminuria,1
+left ventricular hypertrophy,microalbuminuria,1
+left ventricular hypertrophy,renal insufficiency,1
+left ventricular hypertrophy,statins,1
+lipid profile,Serum 25-hydroxyvitamin D,1
+lipid profile,antihypertensive use,1
+lipid profile,coronary heart disease,1
+lipid profile,glycemic control,1
+lipid profile,heart failure,1
+lipid profile,peripheral artery disease,1
+lipid profile,systolic blood pressure,1
+lipidlowering therapy,ARBs,1
+lipidlowering therapy,ApoAI,1
+lipidlowering therapy,RCT,1
+lipidlowering therapy,age,2
+lipidlowering therapy,albumin,2
+lipidlowering therapy,alcohol use,1
+lipidlowering therapy,antihypertensive use,5
+lipidlowering therapy,antiplatelet therapy,3
+lipidlowering therapy,apoAI/apoB ratio,1
+lipidlowering therapy,apoB,1
+lipidlowering therapy,aspirin therapy,3
+lipidlowering therapy,atrial fibrillation,1
+lipidlowering therapy,blood glucose,2
+lipidlowering therapy,blood pressure,1
+lipidlowering therapy,bmi,4
+lipidlowering therapy,c-reactive protein,1
+lipidlowering therapy,cardiovascular disease,2
+lipidlowering therapy,cholesterol,8
+lipidlowering therapy,creatinine,3
+lipidlowering therapy,diabetes,1
+lipidlowering therapy,diastolic blood pressure,2
+lipidlowering therapy,fibrinogen,1
+lipidlowering therapy,hba1c,2
+lipidlowering therapy,heart failure,2
+lipidlowering therapy,heart rate,1
+lipidlowering therapy,homair,1
+lipidlowering therapy,homocysteine,1
+lipidlowering therapy,idf metabolic syndrome,1
+lipidlowering therapy,insulin (measurment),1
+lipidlowering therapy,physical activity,1
+lipidlowering therapy,race/ethnicity,1
+lipidlowering therapy,renal impairment,1
+lipidlowering therapy,socioeconomic variables,1
+lipidlowering therapy,systolic blood pressure,3
+lipidlowering therapy,triglycerides,4
+lipidlowering therapy,waist measurements,3
+living alone,albumin,1
+living alone,bmi,1
+living alone,cholesterol,1
+living alone,creatinine,1
+living alone,diabetes treatment,1
+living alone,hypertension,1
+living alone,physical activity,1
+living alone,smoking,1
+living alone,triglycerides,1
+living alone,wasting,1
+lm treatment,alphaglucosidase inhibitor,1
+lm treatment,antiplatelet therapy,2
+lm treatment,complete revascularization,1
+lm treatment,dcb use,1
+lm treatment,dipeptidyl peptidase 4 inhibitor at discharge,1
+lm treatment,glycemic control,1
+lm treatment,insulin (measurment),1
+lm treatment,statins,2
+lm treatment,sulfonylurea,1
+log101  acr,ACE inhibitors,1
+log101  acr,antihypertensive use,1
+log101  acr,egfr,1
+log101  acr,insulin (measurment),1
+log101  acr,peripheral artery disease,1
+log101  acr,retinopathy,1
+log101  acr,sensory neuropathy,1
+log101  acr,stroke,2
+logaer,bnp,1
+logaer,cardiovascular disease,1
+lowdensity lipoprotein,aspirin therapy,1
+lowdensity lipoprotein,bmi,1
+lowdensity lipoprotein,cardiovascular disease,1
+lowdensity lipoprotein,cholesterol,1
+lowdensity lipoprotein,highdensity lipoprotein,1
+lowdensity lipoprotein,lipidlowering therapy,1
+lowdensity lipoprotein,smoking,1
+lowdensity lipoprotein,systolic blood pressure,2
+lowdensity lipoprotein,triglycerides,1
+lung disease,diabetes,1
+macroalbuminuria,age,1
+macroalbuminuria,cholesterol,2
+macroalbuminuria,fibrinogen,1
+macroalbuminuria,hba1c,1
+macroalbuminuria,insulin treatment,1
+macroalbuminuria,left ventricular ejection fraction,1
+macroalbuminuria,microalbuminuria,1
+macroalbuminuria,peripheral artery disease,1
+macroalbuminuria,renal insufficiency,1
+macroalbuminuria,sociodemographics,2
+macroangiopathy,ARBs,1
+macroangiopathy,age,1
+macroangiopathy,antiplatelet therapy,1
+macroangiopathy,beta-blocker,2
+macroangiopathy,calcium channel blockers,2
+macroangiopathy,hyperlipidemia,1
+macroangiopathy,incretins,1
+macroangiopathy,insulin treatment,1
+macroangiopathy,metformin,1
+macroangiopathy,neuropathy,1
+macroangiopathy,peripheral artery disease,1
+macroangiopathy,secretagogues,1
+macrovascular complications,albumin,1
+macrovascular complications,alcohol use,1
+macrovascular complications,antihypertensive use,1
+macrovascular complications,antiplatelet therapy,1
+macrovascular complications,aspirin therapy,6
+macrovascular complications,blood glucose,1
+macrovascular complications,bmi,1
+macrovascular complications,c-reactive protein,1
+macrovascular complications,cholesterol,16
+macrovascular complications,coronary artery calcium score,1
+macrovascular complications,creatinine,1
+macrovascular complications,diabetes duration,1
+macrovascular complications,diastolic blood pressure,1
+macrovascular complications,ecg abnormalities,1
+macrovascular complications,fasting plasma glucose,1
+macrovascular complications,glycemic control,1
+macrovascular complications,hba1c,7
+macrovascular complications,highdensity lipoprotein,1
+macrovascular complications,hypertension,1
+macrovascular complications,insulin treatment,3
+macrovascular complications,left ventricular hypertrophy,1
+macrovascular complications,microvascular disease,3
+macrovascular complications,nterminal probrain natriuretic peptide,1
+macrovascular complications,psychiatric medications,1
+macrovascular complications,smoking,1
+macrovascular complications,statins,8
+macrovascular complications,systolic blood pressure,4
+macrovascular complications,troponin,1
+marital status,albumin,1
+marital status,albumin to creatinine ratio,1
+marital status,bmi,1
+marital status,chronic kidney disease,1
+marital status,diabetes treatment,1
+marital status,egfr,1
+marital status,hba1c,1
+marital status,heart failure,1
+marital status,myocardial infarction,1
+marital status,smoking,1
+marital status,sociodemographics,1
+marital status,socioeconomic variables,1
+mca stenosis,albumin,1
+mca stenosis,cholesterol,3
+mca stenosis,hba1c,1
+mean blood pressure,bmi,1
+mean blood pressure,cholesterol,1
+mean blood pressure,gender,1
+mean blood pressure,triglycerides,1
+medical diabetic treatment,coronary artery disease,1
+medical diabetic treatment,diabetes duration,1
+medical diabetic treatment,hba1c,1
+medical diabetic treatment,hemodynamic measures,1
+medical diabetic treatment,minimum lumen diameter,1
+medical diabetic treatment,stent,1
+medical diabetic treatment,vessel size,1
+medication use,hba1c,1
+medications,albumin,1
+menopausal status pre post uncertain missing,alcohol use,1
+menopausal status pre post uncertain missing,alternative healthy eating index ahei diet quality score quintiles,1
+menopausal status pre post uncertain missing,bmi,1
+menopausal status pre post uncertain missing,cholesterol,1
+menopausal status pre post uncertain missing,hormone therapy,1
+menopausal status pre post uncertain missing,hypertension,1
+menopausal status pre post uncertain missing,myocardial infarction,1
+menopausal status pre post uncertain missing,physical activity,1
+menopausal status pre post uncertain missing,smoking,1
+menopausal status pre post uncertain missing,white blood cell count,1
+metabolic syndrome markers,age,1
+metabolic syndrome markers,bmi,1
+metabolic syndrome markers,hba1c,1
+metabolic syndrome markers,hyperlipidemia,1
+metabolic syndrome markers,hypertension,1
+metformin,ACE inhibitors,1
+metformin,ARBs,2
+metformin,age,2
+metformin,alcohol use,1
+metformin,antidepressants,1
+metformin,antihypertensive use,2
+metformin,antiplatelet therapy,2
+metformin,aspirin therapy,1
+metformin,beta-blocker,3
+metformin,blockers,1
+metformin,blood glucose,1
+metformin,bmi,1
+metformin,calcium channel blockers,2
+metformin,cholesterol,3
+metformin,diabetes duration,1
+metformin,diuretic therapy,1
+metformin,fibrates,1
+metformin,gender,1
+metformin,hyperlipidemia,1
+metformin,hypertension,1
+metformin,incretins,1
+metformin,insulin treatment,2
+metformin,macrovascular complications,1
+metformin,microvascular disease,2
+metformin,neuropathy,1
+metformin,peripheral artery disease,1
+metformin,pioglitazone treatment,1
+metformin,psychiatric medications,1
+metformin,secretagogues,1
+metformin,smoking,1
+metformin,statins,4
+metformin,sulfonylurea,2
+metformin,systolic blood pressure,1
+metformin,thiazolidinediones,1
+metformin,year of followup start,1
+microalbuminuria,ACE inhibitors,1
+microalbuminuria,RCT,1
+microalbuminuria,acute coronary syndrome,1
+microalbuminuria,ankle-brachial index (ABI),2
+microalbuminuria,antihypertensive use,2
+microalbuminuria,antiplatelet therapy,1
+microalbuminuria,autonomic dysfunction,1
+microalbuminuria,autonomic nervous function,1
+microalbuminuria,beta-blocker,1
+microalbuminuria,blood glucose,1
+microalbuminuria,blood pressure,1
+microalbuminuria,bmi,3
+microalbuminuria,cardiovascular disease,1
+microalbuminuria,cholesterol,11
+microalbuminuria,coronary artery disease,1
+microalbuminuria,creatinine,1
+microalbuminuria,diabetes duration,2
+microalbuminuria,dialysis,1
+microalbuminuria,distal polyneuropathy,1
+microalbuminuria,diuretic therapy,1
+microalbuminuria,dyslipidaemia,1
+microalbuminuria,ecg abnormalities,1
+microalbuminuria,hba1c,1
+microalbuminuria,heart rate,1
+microalbuminuria,hypertension,1
+microalbuminuria,insulin (measurment),1
+microalbuminuria,insulin treatment,2
+microalbuminuria,kidney function,1
+microalbuminuria,lipidlowering therapy,2
+microalbuminuria,lowdensity lipoprotein,1
+microalbuminuria,macroalbuminuria,1
+microalbuminuria,metformin,1
+microalbuminuria,myocardial infarction,1
+microalbuminuria,myocardial spect,1
+microalbuminuria,peripheral arterial occlusive disease,1
+microalbuminuria,physical activity,1
+microalbuminuria,pioglitazone treatment,1
+microalbuminuria,prior coronary artery bypass,1
+microalbuminuria,provider quality controls,1
+microalbuminuria,pulse pressure,1
+microalbuminuria,retinopathy,1
+microalbuminuria,smoking,5
+microalbuminuria,sociodemographics,1
+microalbuminuria,statins,2
+microalbuminuria,stroke,1
+microalbuminuria,sulfonylurea,2
+microalbuminuria,systolic blood pressure,1
+microalbuminuria,triglycerides,2
+microalbuminuria,year fixed effects,1
+microvascular disease,ACEI/ARB,1
+microvascular disease,alcohol use,2
+microvascular disease,antihypertensive use,2
+microvascular disease,antiplatelet therapy,1
+microvascular disease,aspirin therapy,6
+microvascular disease,blood glucose,1
+microvascular disease,bmi,2
+microvascular disease,cholesterol,15
+microvascular disease,diabetes treatment,2
+microvascular disease,diastolic blood pressure,1
+microvascular disease,fasting plasma glucose,1
+microvascular disease,glycemic control,1
+microvascular disease,hba1c,6
+microvascular disease,highdensity lipoprotein,1
+microvascular disease,hyperlipidemia,1
+microvascular disease,hypertension,3
+microvascular disease,insulin treatment,3
+microvascular disease,lipidlowering therapy,1
+microvascular disease,macrovascular complications,4
+microvascular disease,psychiatric medications,1
+microvascular disease,smoking,1
+microvascular disease,sociodemographics,1
+microvascular disease,statins,7
+microvascular disease,systolic blood pressure,4
+microvascular disease,therapy for hypercoagulation,1
+microvascular disease,triglycerides,1
+minimum lumen diameter,diabetes duration,1
+minimum lumen diameter,hba1c,1
+minimum lumen diameter,hemodynamic measures,1
+mpv mean platelet volume,syntax score,1
+multivessel coronary disease,apo(a) phenotypes,1
+multivessel coronary disease,complex lesions,1
+multivessel coronary disease,diuretic therapy,1
+multivessel coronary disease,final timi flow,1
+multivessel coronary disease,insulin treatment,1
+multivessel coronary disease,left ventricular ejection fraction,2
+multivessel coronary disease,stent,1
+myocardial infarction,ACE inhibitors,1
+myocardial infarction,ACEI/ARB,1
+myocardial infarction,RCT,2
+myocardial infarction,acute coronary syndrome,1
+myocardial infarction,age,1
+myocardial infarction,alcohol use,2
+myocardial infarction,alphaglucosidase inhibitor,1
+myocardial infarction,alternative healthy eating index ahei diet quality score quintiles,1
+myocardial infarction,angina,1
+myocardial infarction,antidiabetic medication,1
+myocardial infarction,antiplatelet therapy,2
+myocardial infarction,aspirin therapy,1
+myocardial infarction,atrial fibrillation,2
+myocardial infarction,beta-blocker,2
+myocardial infarction,biomarkers (general),1
+myocardial infarction,blood glucose,5
+myocardial infarction,bmi,8
+myocardial infarction,c-reactive protein,3
+myocardial infarction,cerebrovascular disease,2
+myocardial infarction,cholesterol,10
+myocardial infarction,chronic kidney disease,1
+myocardial infarction,clopidigrel,1
+myocardial infarction,complete revascularization,1
+myocardial infarction,complex lesions,1
+myocardial infarction,coronary artery calcium score,1
+myocardial infarction,coronary artery disease,1
+myocardial infarction,creatinine,5
+myocardial infarction,dcb use,1
+myocardial infarction,diabetes,1
+myocardial infarction,diabetes duration,2
+myocardial infarction,diabetes treatment,1
+myocardial infarction,dipeptidyl peptidase 4 inhibitor at discharge,1
+myocardial infarction,dipyridamole stress test,1
+myocardial infarction,diuretic therapy,2
+myocardial infarction,ecg abnormalities,5
+myocardial infarction,egfr,7
+myocardial infarction,ejection fraction,1
+myocardial infarction,fasting status yes or no,1
+myocardial infarction,final timi flow,2
+myocardial infarction,gender,4
+myocardial infarction,glycemic control,1
+myocardial infarction,hba1c,7
+myocardial infarction,heart failure,3
+myocardial infarction,heart rate,1
+myocardial infarction,hyperlipidemia,4
+myocardial infarction,hypertension,7
+myocardial infarction,insulin (measurment),2
+myocardial infarction,insulin treatment,3
+myocardial infarction,ischemia,1
+myocardial infarction,ischemic heart disease,1
+myocardial infarction,left ventricular ejection fraction,6
+myocardial infarction,lm treatment,1
+myocardial infarction,macroalbuminuria,1
+myocardial infarction,metformin,1
+myocardial infarction,multivessel coronary disease,3
+myocardial infarction,percutaneous coronary intervention,6
+myocardial infarction,peripheral arterial occlusive disease,1
+myocardial infarction,peripheral artery disease,1
+myocardial infarction,peripheral vascular disease,1
+myocardial infarction,physical activity,2
+myocardial infarction,pioglitazone treatment,1
+myocardial infarction,prior coronary artery bypass,2
+myocardial infarction,pro btype natriuretic peptide quartiles,1
+myocardial infarction,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+myocardial infarction,smoking,9
+myocardial infarction,sociodemographics,1
+myocardial infarction,sodium concentration,1
+myocardial infarction,statins,5
+myocardial infarction,stent,3
+myocardial infarction,stroke,2
+myocardial infarction,sulfonylurea,2
+myocardial infarction,syntax score,1
+myocardial infarction,systolic blood pressure,1
+myocardial infarction,tot chol,1
+myocardial infarction,triglycerides,1
+myocardial infarction,troponin,1
+myocardial infarction,urinary,1
+myocardial infarction,urinary albumin excretion rate,1
+myocardial infarction,white blood cell count,1
+myocardial spect,cholesterol,2
+nephropathy,aspirin therapy,1
+nephropathy,bmi,1
+nephropathy,cholesterol,3
+nephropathy,diabetes duration,1
+nephropathy,diastolic blood pressure,1
+nephropathy,egfr,2
+nephropathy,lipidlowering therapy,1
+nephropathy,systolic blood pressure,1
+nephropathy,triglycerides,1
+neuropathy,ARBs,1
+neuropathy,antidepressants,1
+neuropathy,antihypertensive use,1
+neuropathy,beta-blocker,1
+neuropathy,blockers,1
+neuropathy,calcium channel blockers,1
+neuropathy,chronic kidney disease,1
+neuropathy,depression,1
+neuropathy,fibrates,1
+neuropathy,insulin treatment,1
+neuropathy,metformin,1
+neuropathy,peripheral artery disease,1
+neuropathy,secretagogues,1
+neuropathy,statins,1
+neuropathy,sulfonylurea,1
+neuropathy,thiazolidinediones,1
+nitrates,acute coronary syndrome,1
+nitrates,andor nitroglycerin,1
+nitrates,bnp,1
+nitrates,diuretic therapy,1
+nitrates,insulin treatment,2
+nitrates,monocyte chemoattractant protin1 m,1
+nitrates,sds summed difference score,1
+nitrates,summed stress score sss,1
+not specified,age,1
+not specified,albumin to creatinine ratio,1
+not specified,gender,1
+not specified,marital status,1
+not specified,race/ethnicity,1
+not specified,socioeconomic variables,1
+nzdep quintile,antiplatelet therapy,1
+nzdep quintile,blood pressure,1
+nzdep quintile,bmi,1
+nzdep quintile,cardiovascular disease,1
+nzdep quintile,cholesterol,1
+nzdep quintile,diabetes,1
+nzdep quintile,diastolic blood pressure,1
+nzdep quintile,heart failure,1
+nzdep quintile,lipidlowering therapy,1
+nzdep quintile,systolic blood pressure,1
+other complications,cardiovascular risk factors,2
+other complications,metformin,1
+other complications,serum magnesium,1
+pIMT,egfr,1
+pIMT,hypertension,1
+pIMT,smoking,1
+parathyroid harmone (PTH),c-reactive protein,1
+parathyroid harmone (PTH),cholesterol,1
+parathyroid harmone (PTH),creatinine,1
+parathyroid harmone (PTH),ecg abnormalities,1
+parathyroid harmone (PTH),egfr,1
+parathyroid harmone (PTH),hemoglobin,1
+parathyroid harmone (PTH),insulin (measurment),1
+parathyroid harmone (PTH),systolic blood pressure,1
+pc screen time,alcohol use,1
+pc screen time,sleep duration,1
+percent low density plaque,mild plaque calcifi cation,1
+percutaneous coronary intervention,ACEI/ARB,1
+percutaneous coronary intervention,age,1
+percutaneous coronary intervention,alphaglucosidase inhibitor,1
+percutaneous coronary intervention,angina,1
+percutaneous coronary intervention,antidiabetic medication,1
+percutaneous coronary intervention,antiplatelet therapy,2
+percutaneous coronary intervention,atrial fibrillation,1
+percutaneous coronary intervention,beta-blocker,1
+percutaneous coronary intervention,bmi,1
+percutaneous coronary intervention,cerebrovascular disease,2
+percutaneous coronary intervention,cholesterol,5
+percutaneous coronary intervention,clopidigrel,1
+percutaneous coronary intervention,complete revascularization,1
+percutaneous coronary intervention,creatinine,1
+percutaneous coronary intervention,dcb use,1
+percutaneous coronary intervention,dipeptidyl peptidase 4 inhibitor at discharge,1
+percutaneous coronary intervention,ecg abnormalities,3
+percutaneous coronary intervention,egfr,2
+percutaneous coronary intervention,final timi flow,1
+percutaneous coronary intervention,gender,1
+percutaneous coronary intervention,glycemic control,1
+percutaneous coronary intervention,hba1c,2
+percutaneous coronary intervention,heart failure,1
+percutaneous coronary intervention,insulin (measurment),1
+percutaneous coronary intervention,insulin treatment,1
+percutaneous coronary intervention,left ventricular ejection fraction,3
+percutaneous coronary intervention,lm treatment,1
+percutaneous coronary intervention,macroalbuminuria,1
+percutaneous coronary intervention,multivessel coronary disease,1
+percutaneous coronary intervention,peripheral artery disease,1
+percutaneous coronary intervention,peripheral vascular disease,1
+percutaneous coronary intervention,sociodemographics,1
+percutaneous coronary intervention,sodium concentration,1
+percutaneous coronary intervention,statins,3
+percutaneous coronary intervention,stent,1
+percutaneous coronary intervention,stroke,1
+percutaneous coronary intervention,sulfonylurea,1
+percutaneous coronary intervention,syntax score,1
+percutaneous coronary intervention,systolic blood pressure,1
+peripheral arterial occlusive disease,ACE inhibitors,1
+peripheral arterial occlusive disease,beta-blocker,1
+peripheral arterial occlusive disease,diuretic therapy,1
+peripheral arterial occlusive disease,insulin (measurment),1
+peripheral arterial occlusive disease,metformin,1
+peripheral arterial occlusive disease,pioglitazone treatment,1
+peripheral arterial occlusive disease,statins,1
+peripheral arterial occlusive disease,stroke,1
+peripheral arterial occlusive disease,sulfonylurea,1
+peripheral artery disease,ACE inhibitors,1
+peripheral artery disease,RCT,1
+peripheral artery disease,age,1
+peripheral artery disease,albumin,3
+peripheral artery disease,antihypertensive use,1
+peripheral artery disease,aspirin therapy,2
+peripheral artery disease,atrial fibrillation,1
+peripheral artery disease,beta-blocker,1
+peripheral artery disease,blood glucose,1
+peripheral artery disease,bmi,1
+peripheral artery disease,bnp,1
+peripheral artery disease,c-reactive protein,1
+peripheral artery disease,calcium channel blockers,1
+peripheral artery disease,cholesterol,11
+peripheral artery disease,chronic obstructive pulmonary disease,1
+peripheral artery disease,creatinine,2
+peripheral artery disease,diabetes,1
+peripheral artery disease,diabetes duration,2
+peripheral artery disease,diabetes treatment,2
+peripheral artery disease,dialysis,1
+peripheral artery disease,egfr,2
+peripheral artery disease,fasting plasma glucose,1
+peripheral artery disease,framingham risk score,1
+peripheral artery disease,gastrointestinal bleeding in past 5 years,1
+peripheral artery disease,hba1c,7
+peripheral artery disease,heart failure,1
+peripheral artery disease,history of copd,1
+peripheral artery disease,hyperuricemia-gout,1
+peripheral artery disease,insulin (measurment),1
+peripheral artery disease,ischemic heart disease,1
+peripheral artery disease,lung disease,1
+peripheral artery disease,mca stenosis,1
+peripheral artery disease,myocardial infarction,1
+peripheral artery disease,nephropathy,2
+peripheral artery disease,neuropathy,1
+peripheral artery disease,phosphate,1
+peripheral artery disease,retinopathy,2
+peripheral artery disease,secretagogues,1
+peripheral artery disease,smoking,1
+peripheral artery disease,statins,1
+peripheral artery disease,stroke,3
+peripheral artery disease,systolic blood pressure,1
+peripheral artery disease,the use of drugs yesno,1
+peripheral artery disease,triglycerides,2
+peripheral artery disease,ultrafiltration volume,1
+peripheral artery disease,white blood cell count,1
+peripheral neuropathy,albumin,1
+peripheral neuropathy,metformin,1
+peripheral vascular disease,albumin,1
+peripheral vascular disease,alphaglucosidase inhibitor,1
+peripheral vascular disease,antiplatelet therapy,2
+peripheral vascular disease,bnp,1
+peripheral vascular disease,c-reactive protein,1
+peripheral vascular disease,cardiovascular disease,1
+peripheral vascular disease,charlson index,1
+peripheral vascular disease,cholesterol,2
+peripheral vascular disease,chronic kidney disease,1
+peripheral vascular disease,complete revascularization,1
+peripheral vascular disease,dcb use,1
+peripheral vascular disease,dipeptidyl peptidase 4 inhibitor at discharge,1
+peripheral vascular disease,ecg abnormalities,1
+peripheral vascular disease,egfr,1
+peripheral vascular disease,glycemic control,1
+peripheral vascular disease,hba1c,2
+peripheral vascular disease,insulin (measurment),1
+peripheral vascular disease,left ventricular ejection fraction,1
+peripheral vascular disease,lm treatment,1
+peripheral vascular disease,metformin,1
+peripheral vascular disease,peripheral neuropathy,1
+peripheral vascular disease,retinopathy,1
+peripheral vascular disease,statins,2
+peripheral vascular disease,sulfonylurea,1
+peripheral vascular disease,syntax score,1
+peripheral vascular disease,total baseline expenditures,1
+peripheral vascular disease,triglycerides,1
+phosphate,albumin,1
+phosphate,arteriovenous fistula,1
+phosphate,bnp,1
+phosphate,c-reactive protein,2
+phosphate,cholesterol,3
+phosphate,creatinine,2
+phosphate,dialysis,1
+phosphate,ecg abnormalities,2
+phosphate,egfr,2
+phosphate,hemoglobin,1
+phosphate,homair,1
+phosphate,insulin (measurment),1
+phosphate,interleukin 6,1
+phosphate,parathyroid harmone (PTH),2
+phosphate,systolic blood pressure,1
+phosphate,triglycerides,1
+phosphate,ultrafiltration volume,1
+physical activity,ApoAI,1
+physical activity,albumin,2
+physical activity,albumin to creatinine ratio,1
+physical activity,alcohol use,1
+physical activity,ankle-brachial index (ABI),1
+physical activity,antihypertensive use,1
+physical activity,apoAI/apoB ratio,1
+physical activity,apoB,1
+physical activity,aspirin therapy,4
+physical activity,average of 3 daily 2hour bg levels after meals,1
+physical activity,blood glucose,1
+physical activity,blood pressure,1
+physical activity,bmi,6
+physical activity,c-reactive protein,1
+physical activity,cardiovascular disease,2
+physical activity,cholesterol,13
+physical activity,chronic kidney disease,1
+physical activity,ci,1
+physical activity,coronary heart disease,3
+physical activity,creatinine,4
+physical activity,diabetes treatment,2
+physical activity,diastolic blood pressure,2
+physical activity,ecg abnormalities,1
+physical activity,egfr,1
+physical activity,fasting status yes or no,1
+physical activity,fibrinogen,2
+physical activity,glycemic control,2
+physical activity,hba1c,7
+physical activity,heart rate,3
+physical activity,homair,1
+physical activity,homocysteine,1
+physical activity,hyperlipidemia,1
+physical activity,hypertension,8
+physical activity,idf metabolic syndrome,1
+physical activity,indigenous australian,1
+physical activity,insulin (measurment),1
+physical activity,insulin treatment,1
+physical activity,macrovascular complications,2
+physical activity,microvascular disease,1
+physical activity,neuropathy,1
+physical activity,retinopathy,3
+physical activity,smoking,3
+physical activity,socioeconomic variables,1
+physical activity,statins,1
+physical activity,systolic blood pressure,4
+physical activity,total energy kcalday,1
+physical activity,triglycerides,3
+physical activity,urinary acr,1
+physical activity,waist measurements,2
+physical activity,wasting,1
+physical inactivity,aspirin therapy,4
+physical inactivity,cholesterol,8
+physical inactivity,diastolic blood pressure,1
+physical inactivity,fasting plasma glucose,1
+physical inactivity,glycemic control,1
+physical inactivity,hba1c,3
+physical inactivity,highdensity lipoprotein,1
+physical inactivity,hypertension,3
+physical inactivity,insulin treatment,3
+physical inactivity,macrovascular complications,4
+physical inactivity,microalbuminuria,1
+physical inactivity,microvascular disease,4
+physical inactivity,statins,4
+physical inactivity,systolic blood pressure,4
+plaque thickness,antiaggregating agents,1
+plaque thickness,echolucent plaque,1
+plaque volume,mild plaque calcifi cation,1
+plaque volume,percent low density plaque,1
+postpci thrombolysis in mitimiflow,atrial fibrillation,1
+postpci thrombolysis in mitimiflow,left ventricular ejection fraction,1
+previous diseases,blood transfusion,1
+previous diseases,bmi,1
+previous diseases,diabetes,1
+previous diseases,egfr,1
+previous diseases,gastrointestinal bleeding in past 5 years,1
+previous diseases,heart rate,1
+previous diseases,hyperuricemia-gout,1
+previous diseases,lung disease,1
+previous diseases,peripheral artery disease,1
+previous diseases,systolic blood pressure,1
+previous diseases,white blood cell count,1
+previous pcicabg,c-reactive protein,1
+previous pcicabg,cholesterol,1
+previous pcicabg,diastolic blood pressure,1
+previous pcicabg,fibrinogen,1
+previous pcicabg,hba1c,1
+previous pcicabg,systolic blood pressure,1
+prior coronary artery bypass,ACE inhibitors,1
+prior coronary artery bypass,acute coronary syndrome,1
+prior coronary artery bypass,beta-blocker,1
+prior coronary artery bypass,blood glucose,1
+prior coronary artery bypass,c-reactive protein,1
+prior coronary artery bypass,complex lesions,1
+prior coronary artery bypass,diuretic therapy,2
+prior coronary artery bypass,egfr,1
+prior coronary artery bypass,insulin (measurment),1
+prior coronary artery bypass,insulin treatment,1
+prior coronary artery bypass,left ventricular ejection fraction,1
+prior coronary artery bypass,metformin,1
+prior coronary artery bypass,multivessel coronary disease,1
+prior coronary artery bypass,myocardial infarction,2
+prior coronary artery bypass,peripheral arterial occlusive disease,1
+prior coronary artery bypass,pioglitazone treatment,1
+prior coronary artery bypass,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+prior coronary artery bypass,statins,1
+prior coronary artery bypass,stroke,1
+prior coronary artery bypass,sulfonylurea,1
+prior cv event,age,1
+prior cv event,diabetes duration,2
+prior cv event,intensive treatment,1
+prior cv event,triglycerides,1
+pro btype natriuretic peptide quartiles,c-reactive protein,1
+proteinuria,antidiabetic medication,1
+proteinuria,antihypertensive use,1
+proteinuria,antiplatelet therapy,2
+proteinuria,c-reactive protein,1
+proteinuria,cardiovascular disease,1
+proteinuria,cholesterol,1
+proteinuria,current multifactorial care,1
+proteinuria,diabetes duration,1
+proteinuria,ecg abnormalities,1
+proteinuria,hba1c,1
+proteinuria,history of coronary disease,1
+proteinuria,insulin treatment,1
+proteinuria,myocardial infarction,1
+proteinuria,peripheral artery disease,1
+proteinuria,retinopathy,1
+proteinuria,smoking,1
+proteinuria,statins,1
+provider quality controls,sociodemographics,1
+provider quality controls,year fixed effects,1
+psychiatric medications,blood glucose,1
+psychiatric medications,cholesterol,1
+pulse pressure,ankle-brachial index (ABI),1
+pulse pressure,antihypertensive use,1
+pulse pressure,cholesterol,1
+pulse pressure,diabetes duration,1
+pulse pressure,ecg abnormalities,3
+pulse pressure,egfr,1
+pulse pressure,significant proximal lad disease,1
+pulse pressure,smoking,1
+pulse pressure,the presence of total occlusion,1
+qt interval,bmi,1
+qt interval,cholesterol,2
+qt interval,heart rate,1
+qt interval,microalbuminuria,1
+qt interval,myocardial spect,1
+race/ethnicity,ACE inhibitors,1
+race/ethnicity,ACEI/ARB,1
+race/ethnicity,ARBs,1
+race/ethnicity,ApoAI,1
+race/ethnicity,RCT,6
+race/ethnicity,albumin,1
+race/ethnicity,albumin to creatinine ratio,2
+race/ethnicity,alcohol use,2
+race/ethnicity,antidepressants,1
+race/ethnicity,antihypertensive use,3
+race/ethnicity,antiplatelet therapy,1
+race/ethnicity,apoAI/apoB ratio,1
+race/ethnicity,apoB,1
+race/ethnicity,atrial fibrillation,1
+race/ethnicity,blockers,1
+race/ethnicity,blood glucose,1
+race/ethnicity,blood pressure,2
+race/ethnicity,blood transfusion,1
+race/ethnicity,bmi,7
+race/ethnicity,c-reactive protein,1
+race/ethnicity,cardiovascular disease,6
+race/ethnicity,cholesterol,22
+race/ethnicity,chronic kidney disease,1
+race/ethnicity,ci,1
+race/ethnicity,creatinine,3
+race/ethnicity,depression,1
+race/ethnicity,diabetes,2
+race/ethnicity,diabetes duration,9
+race/ethnicity,diabetes treatment,2
+race/ethnicity,diabetic neuropathy,1
+race/ethnicity,diastolic blood pressure,3
+race/ethnicity,egfr,5
+race/ethnicity,fibrates,1
+race/ethnicity,fibrinogen,1
+race/ethnicity,gastrointestinal bleeding in past 5 years,1
+race/ethnicity,gender,3
+race/ethnicity,hba1c,6
+race/ethnicity,heart failure,4
+race/ethnicity,heart rate,4
+race/ethnicity,high density lipoprotein level,1
+race/ethnicity,homair,1
+race/ethnicity,homocysteine,1
+race/ethnicity,hypertension,7
+race/ethnicity,hyperuricemia-gout,1
+race/ethnicity,idf metabolic syndrome,1
+race/ethnicity,insulin (measurment),1
+race/ethnicity,insulin treatment,1
+race/ethnicity,left ventricular ejection fraction,1
+race/ethnicity,lipidlowering therapy,2
+race/ethnicity,lung disease,1
+race/ethnicity,macroalbuminuria,1
+race/ethnicity,macrovascular complications,1
+race/ethnicity,marital status,1
+race/ethnicity,metformin,1
+race/ethnicity,microalbuminuria,1
+race/ethnicity,microvascular disease,1
+race/ethnicity,mild plaque calcifi cation,1
+race/ethnicity,neuropathy,1
+race/ethnicity,nzdep quintile,1
+race/ethnicity,percent low density plaque,1
+race/ethnicity,peripheral artery disease,1
+race/ethnicity,physical activity,3
+race/ethnicity,plaque volume,1
+race/ethnicity,previous diseases,1
+race/ethnicity,prior event,1
+race/ethnicity,retinopathy,2
+race/ethnicity,smoking,14
+race/ethnicity,sociodemographics,2
+race/ethnicity,socioeconomic variables,4
+race/ethnicity,statins,5
+race/ethnicity,sulfonylurea,1
+race/ethnicity,systolic blood pressure,10
+race/ethnicity,the ukpds risk score,1
+race/ethnicity,thiazolidinediones,1
+race/ethnicity,triglycerides,7
+race/ethnicity,waist measurements,3
+race/ethnicity,white blood cell count,1
+ratio between total,albumin excretion rate,1
+ratio between total,cholesterol,1
+ratio between total,fibrinogen,1
+ratio between total,triglycerides,1
+ratio between total,white blood cell count,1
+reactive hyperemia index,inflammatory markers,1
+referring physician,coronary heart disease,1
+referring physician,hypertension,1
+referring physician,smoking,1
+renal impairment,albumin,1
+renal impairment,heart failure,1
+renal insufficiency,microalbuminuria,1
+renin-angiotensin system inhibitors,antiplatelet therapy,1
+renin-angiotensin system inhibitors,blood glucose,1
+renin-angiotensin system inhibitors,bmi,1
+renin-angiotensin system inhibitors,cardiovascular disease,1
+renin-angiotensin system inhibitors,cholesterol,2
+renin-angiotensin system inhibitors,diastolic blood pressure,2
+renin-angiotensin system inhibitors,egfr,2
+renin-angiotensin system inhibitors,hba1c,3
+renin-angiotensin system inhibitors,nephropathy,1
+renin-angiotensin system inhibitors,statins,3
+renin-angiotensin system inhibitors,systolic blood pressure,2
+renin-angiotensin system inhibitors,triglycerides,1
+renin-angiotensin system inhibitors,uric acid,1
+renin-angiotensin system inhibitors,urinary acr,1
+retinopathy,ACE inhibitors,2
+retinopathy,ARBs,1
+retinopathy,RCT,1
+retinopathy,albumin,1
+retinopathy,antidepressants,1
+retinopathy,antihypertensive use,3
+retinopathy,antiplatelet therapy,1
+retinopathy,blockers,1
+retinopathy,blood glucose,1
+retinopathy,bmi,2
+retinopathy,cardiovascular disease,1
+retinopathy,charlson index,1
+retinopathy,cholesterol,8
+retinopathy,chronic kidney disease,1
+retinopathy,coronary heart disease,1
+retinopathy,depression,1
+retinopathy,diabetes duration,1
+retinopathy,diabetic neuropathy,1
+retinopathy,diastolic blood pressure,1
+retinopathy,ecg abnormalities,1
+retinopathy,egfr,1
+retinopathy,fibrates,1
+retinopathy,hba1c,5
+retinopathy,insulin (measurment),1
+retinopathy,insulin treatment,3
+retinopathy,mca stenosis,1
+retinopathy,metformin,1
+retinopathy,neuropathy,2
+retinopathy,peripheral artery disease,2
+retinopathy,pulse pressure,1
+retinopathy,renin-angiotensin system inhibitors,1
+retinopathy,sensory neuropathy,1
+retinopathy,sensory neuropathy presentabsent,1
+retinopathy,smoking,2
+retinopathy,statins,2
+retinopathy,stroke,3
+retinopathy,sulfonylurea,1
+retinopathy,systolic blood pressure,1
+retinopathy,the use of drugs yesno,1
+retinopathy,thiazolidinediones,1
+retinopathy,total baseline expenditures,1
+retinopathy,triglycerides,2
+retinopathy,uric acid,1
+retinopathy,urinary acr,2
+rosiglitazone during followup,years of enrolment,1
+secretagogues,beta-blocker,1
+secretagogues,calcium channel blockers,1
+sensory neuropathy,ACE inhibitors,1
+sensory neuropathy,antihypertensive use,1
+sensory neuropathy,insulin (measurment),1
+sensory neuropathy,peripheral artery disease,1
+sensory neuropathy,stroke,2
+sensory neuropathy presentabsent,peripheral artery disease,1
+sensory neuropathy presentabsent,stroke,1
+sensory neuropathy presentabsent,the use of drugs yesno,1
+serum magnesium,metformin,1
+significant proximal lad disease,the presence of total occlusion,1
+skinfold thickness,ApoAI,1
+skinfold thickness,coronary artery disease,1
+skinfold thickness,fibrinogen,1
+skinfold thickness,peripheral arterial occlusive disease,1
+skinfold thickness,stroke,1
+sleep duration,alcohol use,1
+smoking,ACE inhibitors,6
+smoking,ACEI/ARB,3
+smoking,ARBs,4
+smoking,ApoAI,1
+smoking,Lp(a),1
+smoking,RCT,5
+smoking,Serum 25-hydroxyvitamin D,1
+smoking,acr,2
+smoking,acute coronary syndrome,3
+smoking,age,4
+smoking,albumin,16
+smoking,albumin excretion rate,7
+smoking,albumin to creatinine ratio,7
+smoking,alcohol use,19
+smoking,alternative healthy eating index ahei diet quality score quintiles,1
+smoking,andor nitroglycerin,1
+smoking,angina,4
+smoking,ankle-brachial index (ABI),5
+smoking,antiaggregating agents,1
+smoking,antialdosterone,1
+smoking,anticoagulants,1
+smoking,antidepressants,1
+smoking,antidiabetic medication,1
+smoking,antihyperlipidemic drugs,1
+smoking,antihypertensive use,18
+smoking,antiplatelet therapy,7
+smoking,apo(a) phenotypes,1
+smoking,apoAI/apoB ratio,2
+smoking,apoB,2
+smoking,arteriovenous fistula,1
+smoking,aspirin therapy,13
+smoking,atrial fibrillation,3
+smoking,autonomic dysfunction,2
+smoking,average of 3 daily 2hour bg levels after meals,1
+smoking,bapwv,1
+smoking,baseline claudication,1
+smoking,beta-blocker,2
+smoking,biomarkers (general),1
+smoking,blockers,2
+smoking,blood glucose,13
+smoking,blood pressure,12
+smoking,blood transfusion,1
+smoking,bmi,49
+smoking,bnp,9
+smoking,c-reactive protein,13
+smoking,calcium channel blockers,1
+smoking,cancer,1
+smoking,cardiovascular disease,23
+smoking,carotid artery imt,1
+smoking,cerebrovascular disease,3
+smoking,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+smoking,cholesterol,150
+smoking,chronic kidney disease,5
+smoking,chronic obstructive pulmonary disease,1
+smoking,chronic renal failure,1
+smoking,cimt,1
+smoking,clinic,1
+smoking,clopidigrel,1
+smoking,clopidogrel,1
+smoking,complex lesions,1
+smoking,coronary artery calcium score,4
+smoking,coronary artery disease,7
+smoking,coronary heart disease,7
+smoking,creatinine,29
+smoking,depression,1
+smoking,diabetes,7
+smoking,diabetes duration,27
+smoking,diabetes treatment,17
+smoking,diabetic neuropathy,1
+smoking,dialysis,4
+smoking,diastolic blood pressure,18
+smoking,dipyridamole stress test,1
+smoking,distal polyneuropathy,1
+smoking,diuretic therapy,3
+smoking,dpucmgp,1
+smoking,ecg abnormalities,13
+smoking,echolucent plaque,1
+smoking,egfr,28
+smoking,ejection fraction 40,1
+smoking,endothelial dysfunction,1
+smoking,fasting plasma glucose,4
+smoking,fasting status yes or no,1
+smoking,fibrates,2
+smoking,fibrinogen,7
+smoking,final timi flow,1
+smoking,fpi,1
+smoking,gastrointestinal bleeding in past 5 years,1
+smoking,gender,4
+smoking,gliclazide,1
+smoking,glycated hemoglobin,1
+smoking,glycemic control,8
+smoking,hba1c,87
+smoking,heart attack,1
+smoking,heart failure,7
+smoking,heart rate,7
+smoking,height,1
+smoking,hemoglobin,1
+smoking,highdensity lipoprotein,2
+smoking,history of coronary disease,1
+smoking,homair,2
+smoking,homocysteine,1
+smoking,homocysteine at baseline,1
+smoking,hyperlipidemia,12
+smoking,hypertension,43
+smoking,hyperuricemia-gout,1
+smoking,idf metabolic syndrome,1
+smoking,indigenous australian,1
+smoking,insulin (measurment),3
+smoking,insulin treatment,21
+smoking,ischemia,1
+smoking,ischemic heart disease,4
+smoking,left ventricular ejection fraction,5
+smoking,left ventricular hypertrophy,1
+smoking,"leisure time physical activity",1
+smoking,lipid profile,1
+smoking,lipidlowering therapy,14
+smoking,log101  acr,1
+smoking,logaer,1
+smoking,lowdensity lipoprotein,1
+smoking,lung disease,1
+smoking,macrovascular complications,10
+smoking,mca stenosis,1
+smoking,medication use,1
+smoking,metformin,3
+smoking,microalbuminuria,5
+smoking,microvascular disease,8
+smoking,mild plaque calcifi cation,1
+smoking,monocyte chemoattractant protin1 m,1
+smoking,multivessel coronary disease,3
+smoking,myocardial infarction,11
+smoking,nephropathy,2
+smoking,neuropathy,2
+smoking,nitrates,1
+smoking,nterminal probrain natriuretic peptide,2
+smoking,nzdep quintile,1
+smoking,other lifestyle risk factors,1
+smoking,pc screen time,1
+smoking,percent low density plaque,1
+smoking,percutaneous coronary intervention,2
+smoking,peripheral arterial occlusive disease,1
+smoking,peripheral artery disease,9
+smoking,peripheral vascular disease,1
+smoking,phosphate,2
+smoking,physical activity,14
+smoking,physical inactivity,4
+smoking,pioglitazone treatment,1
+smoking,plaque thickness,1
+smoking,plaque volume,1
+smoking,previous diseases,1
+smoking,previous pcicabg,1
+smoking,prior coronary artery bypass,2
+smoking,pro btype natriuretic peptide quartiles,1
+smoking,proteinuria,1
+smoking,pulse pressure,2
+smoking,race/ethnicity,3
+smoking,ratio between total,1
+smoking,renal impairment,1
+smoking,renin-angiotensin system inhibitors,3
+smoking,retinopathy,11
+smoking,rosiglitazone during followup,1
+smoking,sensory neuropathy,1
+smoking,sensory neuropathy presentabsent,1
+smoking,significant proximal lad disease,1
+smoking,sleep duration,2
+smoking,sociodemographics,3
+smoking,socioeconomic variables,6
+smoking,statins,23
+smoking,stent,2
+smoking,stroke,10
+smoking,sulfonylurea,3
+smoking,systolic blood pressure,58
+smoking,the presence of total occlusion,1
+smoking,the use of drugs yesno,1
+smoking,thiazolidinediones,1
+smoking,"to tal",1
+smoking,tot chol,1
+smoking,total energy kcalday,1
+smoking,triacylglycerol,3
+smoking,triglycerides,39
+smoking,troponin,2
+smoking,tv viewing,1
+smoking,type of treatment,1
+smoking,ultrafiltration volume,2
+smoking,uric acid,3
+smoking,urinary,1
+smoking,urinary acr,5
+smoking,urinary albumin excretion rate,6
+smoking,urinary protein log,1
+smoking,use of blockers,1
+smoking,use of sulfonamides,1
+smoking,waist measurements,6
+smoking,wasting,1
+smoking,white blood cell count,2
+smoking,years of enrolment,1
+sociodemographics,Elixhauser comorbidies,1
+sociodemographics,RCT,1
+sociodemographics,albumin,1
+sociodemographics,albumin to creatinine ratio,1
+sociodemographics,alcohol use,3
+sociodemographics,antihypertensive use,3
+sociodemographics,antiplatelet therapy,1
+sociodemographics,aspirin therapy,1
+sociodemographics,biomarkers,1
+sociodemographics,blood pressure,2
+sociodemographics,bmi,8
+sociodemographics,calcium channel blockers,1
+sociodemographics,cardiovascular disease,1
+sociodemographics,cardiovascular risk factors,1
+sociodemographics,charlson index,1
+sociodemographics,cholesterol,9
+sociodemographics,chronic kidney disease,2
+sociodemographics,clinical variables,1
+sociodemographics,coronary heart disease,1
+sociodemographics,creatinine,2
+sociodemographics,diabetes,1
+sociodemographics,diabetes duration,4
+sociodemographics,diabetes treatment,2
+sociodemographics,diastolic blood pressure,2
+sociodemographics,drug use,1
+sociodemographics,egfr,5
+sociodemographics,expected costs,1
+sociodemographics,fibrinogen,3
+sociodemographics,hba1c,8
+sociodemographics,heart failure,1
+sociodemographics,heart rate,1
+sociodemographics,hypertension,1
+sociodemographics,insulin treatment,2
+sociodemographics,lipidlowering therapy,2
+sociodemographics,metformin,1
+sociodemographics,microalbuminuria,2
+sociodemographics,myocardial infarction,1
+sociodemographics,other complications,1
+sociodemographics,peripheral vascular disease,1
+sociodemographics,physical activity,3
+sociodemographics,provider quality controls,1
+sociodemographics,retinopathy,2
+sociodemographics,serum magnesium,1
+sociodemographics,smoking,7
+sociodemographics,sulfonylurea,1
+sociodemographics,systolic blood pressure,4
+sociodemographics,total baseline expenditures,1
+sociodemographics,treatment,1
+sociodemographics,treatment intensity,1
+sociodemographics,triacylglycerol,1
+sociodemographics,triglycerides,2
+sociodemographics,urinary protein log,1
+sociodemographics,use of blockers,1
+sociodemographics,waist measurements,1
+sociodemographics,year fixed effects,1
+sociodemographics,young severity index,1
+socioeconomic variables,albumin,1
+socioeconomic variables,albumin to creatinine ratio,2
+socioeconomic variables,antidiabetic medication,1
+socioeconomic variables,antihypertensive use,3
+socioeconomic variables,antiplatelet therapy,1
+socioeconomic variables,blood pressure,2
+socioeconomic variables,bmi,3
+socioeconomic variables,cardiovascular disease,1
+socioeconomic variables,cholesterol,4
+socioeconomic variables,chronic kidney disease,2
+socioeconomic variables,coronary heart disease,1
+socioeconomic variables,creatinine,1
+socioeconomic variables,diabetes duration,1
+socioeconomic variables,diabetes treatment,1
+socioeconomic variables,diastolic blood pressure,1
+socioeconomic variables,egfr,1
+socioeconomic variables,hba1c,3
+socioeconomic variables,heart failure,2
+socioeconomic variables,hyperlipidemia,1
+socioeconomic variables,hypertension,1
+socioeconomic variables,insulin treatment,1
+socioeconomic variables,lipid profile,1
+socioeconomic variables,marital status,1
+socioeconomic variables,myocardial infarction,1
+socioeconomic variables,peripheral artery disease,1
+socioeconomic variables,proteinuria,1
+socioeconomic variables,sleep duration,1
+socioeconomic variables,smoking,3
+socioeconomic variables,sociodemographics,1
+socioeconomic variables,statins,1
+socioeconomic variables,systolic blood pressure,3
+socioeconomic variables,waist measurements,1
+sodium concentration,age,1
+sodium concentration,bnp,1
+sodium concentration,cholesterol,1
+sodium concentration,macroalbuminuria,1
+sodium concentration,peripheral artery disease,1
+statins,ACE inhibitors,3
+statins,ACEI/ARB,1
+statins,ARBs,2
+statins,acute coronary syndrome,1
+statins,age,1
+statins,albumin,2
+statins,alphaglucosidase inhibitor,2
+statins,andor nitroglycerin,1
+statins,antialdosterone,1
+statins,antidepressants,1
+statins,antidiabetic medication,1
+statins,antihypertensive use,2
+statins,antiplatelet therapy,2
+statins,arteriovenous fistula,1
+statins,aspirin therapy,8
+statins,beta-blocker,1
+statins,blockers,1
+statins,blood glucose,3
+statins,bmi,3
+statins,bnp,2
+statins,c-reactive protein,2
+statins,cardiovascular disease,1
+statins,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+statins,cholesterol,17
+statins,coronary artery calcium score,1
+statins,coronary artery disease,2
+statins,creatinine,2
+statins,diabetes duration,3
+statins,dialysis,3
+statins,diastolic blood pressure,4
+statins,dipeptidyl peptidase 4 inhibitor at discharge,2
+statins,diuretic therapy,1
+statins,ecg abnormalities,1
+statins,egfr,4
+statins,fasting plasma glucose,1
+statins,fibrates,2
+statins,framingham risk score,1
+statins,gender,1
+statins,gliclazide,1
+statins,glycemic control,3
+statins,hba1c,10
+statins,heart failure,2
+statins,hypertension,2
+statins,insulin (measurment),2
+statins,insulin treatment,5
+statins,macrovascular complications,1
+statins,metformin,1
+statins,microvascular disease,1
+statins,monocyte chemoattractant protin1 m,1
+statins,nitrates,1
+statins,peripheral artery disease,1
+statins,phosphate,2
+statins,pioglitazone treatment,1
+statins,psychiatric medications,1
+statins,rosiglitazone during followup,1
+statins,smoking,5
+statins,stroke,2
+statins,sulfonylurea,2
+statins,systolic blood pressure,6
+statins,the ukpds risk score,1
+statins,tot chol,1
+statins,triglycerides,3
+statins,ultrafiltration volume,2
+statins,uric acid,1
+statins,urinary acr,1
+statins,years of enrolment,1
+stent,apo(a) phenotypes,1
+stent,diabetes duration,1
+stent,hba1c,1
+stent,hemodynamic measures,1
+stent,left ventricular ejection fraction,1
+stent,minimum lumen diameter,1
+stent,multivessel coronary disease,1
+stent,prior coronary artery bypass,1
+stent,progressive arterial stiffness defined as a bapwv of 1730 or greater,1
+stroke,ACE inhibitors,3
+stroke,ACEI/ARB,1
+stroke,albumin,2
+stroke,alphaglucosidase inhibitor,1
+stroke,angina,1
+stroke,antidiabetic medication,1
+stroke,antihypertensive use,3
+stroke,antiplatelet therapy,2
+stroke,arteriovenous fistula,1
+stroke,beta-blocker,2
+stroke,blood glucose,2
+stroke,bmi,1
+stroke,bnp,2
+stroke,c-reactive protein,2
+stroke,cardiovascular disease,1
+stroke,cholesterol,12
+stroke,clopidigrel,1
+stroke,complete revascularization,1
+stroke,coronary artery disease,1
+stroke,creatinine,2
+stroke,dcb use,1
+stroke,diabetes duration,1
+stroke,diabetes treatment,1
+stroke,dialysis,3
+stroke,dipeptidyl peptidase 4 inhibitor at discharge,1
+stroke,diuretic therapy,1
+stroke,ecg abnormalities,3
+stroke,egfr,1
+stroke,glycemic control,1
+stroke,hba1c,6
+stroke,heart failure,2
+stroke,insulin (measurment),4
+stroke,insulin treatment,2
+stroke,ischemic heart disease,1
+stroke,left ventricular ejection fraction,2
+stroke,lm treatment,1
+stroke,metformin,1
+stroke,microalbuminuria,1
+stroke,myocardial infarction,2
+stroke,percutaneous coronary intervention,1
+stroke,peripheral arterial occlusive disease,1
+stroke,peripheral artery disease,2
+stroke,peripheral vascular disease,2
+stroke,phosphate,2
+stroke,pioglitazone treatment,1
+stroke,pulse pressure,1
+stroke,retinopathy,1
+stroke,smoking,1
+stroke,statins,4
+stroke,sulfonylurea,2
+stroke,syntax score,1
+stroke,the use of drugs yesno,1
+stroke,triglycerides,4
+stroke,ultrafiltration volume,2
+sulfonylurea,ACE inhibitors,1
+sulfonylurea,ARBs,1
+sulfonylurea,antidepressants,1
+sulfonylurea,antihypertensive use,1
+sulfonylurea,aspirin therapy,1
+sulfonylurea,beta-blocker,1
+sulfonylurea,blockers,1
+sulfonylurea,dipeptidyl peptidase 4 inhibitor at discharge,1
+sulfonylurea,diuretic therapy,1
+sulfonylurea,fibrates,1
+sulfonylurea,insulin (measurment),1
+sulfonylurea,insulin treatment,1
+sulfonylurea,pioglitazone treatment,1
+sulfonylurea,provider quality controls,1
+sulfonylurea,sociodemographics,1
+sulfonylurea,statins,2
+sulfonylurea,thiazolidinediones,1
+sulfonylurea,year fixed effects,1
+summed stress score sss,sds summed difference score,1
+syntax score,alphaglucosidase inhibitor,1
+syntax score,antiplatelet therapy,2
+syntax score,complete revascularization,1
+syntax score,dcb use,1
+syntax score,dipeptidyl peptidase 4 inhibitor at discharge,1
+syntax score,glycemic control,1
+syntax score,insulin (measurment),1
+syntax score,lm treatment,1
+syntax score,statins,2
+syntax score,sulfonylurea,1
+systolic blood pressure,ACE inhibitors,2
+systolic blood pressure,ACEI/ARB,2
+systolic blood pressure,ARBs,1
+systolic blood pressure,ApoAI,1
+systolic blood pressure,RCT,3
+systolic blood pressure,Serum 25-hydroxyvitamin D,1
+systolic blood pressure,acr,2
+systolic blood pressure,age,2
+systolic blood pressure,albumin,8
+systolic blood pressure,albumin excretion rate,5
+systolic blood pressure,albumin to creatinine ratio,5
+systolic blood pressure,alcohol use,8
+systolic blood pressure,alphaglucosidase inhibitor,1
+systolic blood pressure,angina,2
+systolic blood pressure,ankle-brachial index (ABI),1
+systolic blood pressure,antiaggregating agents,1
+systolic blood pressure,antidiabetic medication,1
+systolic blood pressure,antihyperlipidemic drugs,2
+systolic blood pressure,antihypertensive use,16
+systolic blood pressure,antiplatelet therapy,6
+systolic blood pressure,apoAI/apoB ratio,1
+systolic blood pressure,apoB,1
+systolic blood pressure,arteriovenous fistula,1
+systolic blood pressure,aspirin therapy,5
+systolic blood pressure,atrial fibrillation,3
+systolic blood pressure,bapwv,1
+systolic blood pressure,beta-blocker,1
+systolic blood pressure,biomarkers (general),1
+systolic blood pressure,blood glucose,7
+systolic blood pressure,blood pressure,4
+systolic blood pressure,bmi,18
+systolic blood pressure,bnp,4
+systolic blood pressure,c-reactive protein,5
+systolic blood pressure,cancer,1
+systolic blood pressure,cardiovascular disease,14
+systolic blood pressure,carotid artery imt,1
+systolic blood pressure,cerebrovascular disease,2
+systolic blood pressure,cholesterol,120
+systolic blood pressure,chronic kidney disease,1
+systolic blood pressure,clopidigrel,1
+systolic blood pressure,complete revascularization,1
+systolic blood pressure,coronary artery calcium score,2
+systolic blood pressure,coronary artery disease,2
+systolic blood pressure,coronary heart disease,4
+systolic blood pressure,creatinine,17
+systolic blood pressure,dcb use,1
+systolic blood pressure,diabetes,4
+systolic blood pressure,diabetes duration,14
+systolic blood pressure,diabetes treatment,8
+systolic blood pressure,dialysis,2
+systolic blood pressure,diastolic blood pressure,39
+systolic blood pressure,dipeptidyl peptidase 4 inhibitor at discharge,1
+systolic blood pressure,ecg abnormalities,9
+systolic blood pressure,echolucent plaque,1
+systolic blood pressure,egfr,30
+systolic blood pressure,fasting cpeptide,1
+systolic blood pressure,fasting plasma glucose,1
+systolic blood pressure,fibrinogen,5
+systolic blood pressure,gender,3
+systolic blood pressure,glycated hemoglobin,1
+systolic blood pressure,glycemic control,5
+systolic blood pressure,hba1c,52
+systolic blood pressure,heart failure,5
+systolic blood pressure,heart rate,2
+systolic blood pressure,highdensity lipoprotein,1
+systolic blood pressure,history of coronary disease,1
+systolic blood pressure,homair,1
+systolic blood pressure,homocysteine,1
+systolic blood pressure,homocysteine at baseline,1
+systolic blood pressure,hyperlipidemia,8
+systolic blood pressure,hypertension,15
+systolic blood pressure,idf metabolic syndrome,1
+systolic blood pressure,insulin (measurment),3
+systolic blood pressure,insulin treatment,7
+systolic blood pressure,ischemic heart disease,1
+systolic blood pressure,left ventricular ejection fraction,2
+systolic blood pressure,lipid profile,1
+systolic blood pressure,lipidlowering therapy,11
+systolic blood pressure,lm treatment,1
+systolic blood pressure,log101  acr,1
+systolic blood pressure,lung disease,1
+systolic blood pressure,macrovascular complications,4
+systolic blood pressure,mca stenosis,1
+systolic blood pressure,medication use,1
+systolic blood pressure,microalbuminuria,3
+systolic blood pressure,microvascular disease,3
+systolic blood pressure,mild plaque calcifi cation,1
+systolic blood pressure,myocardial infarction,8
+systolic blood pressure,nephropathy,1
+systolic blood pressure,nterminal probrain natriuretic peptide,2
+systolic blood pressure,pacemaker implantation,1
+systolic blood pressure,pc screen time,1
+systolic blood pressure,percent low density plaque,1
+systolic blood pressure,percutaneous coronary intervention,2
+systolic blood pressure,peripheral artery disease,5
+systolic blood pressure,peripheral vascular disease,1
+systolic blood pressure,peripherovascular morbidity,1
+systolic blood pressure,phosphate,1
+systolic blood pressure,physical activity,1
+systolic blood pressure,plaque thickness,1
+systolic blood pressure,plaque volume,1
+systolic blood pressure,pro btype natriuretic peptide quartiles,1
+systolic blood pressure,proteinuria,3
+systolic blood pressure,pulse pressure,1
+systolic blood pressure,race/ethnicity,3
+systolic blood pressure,ratio between total,1
+systolic blood pressure,renal impairment,1
+systolic blood pressure,renin-angiotensin system inhibitors,1
+systolic blood pressure,retinopathy,6
+systolic blood pressure,sensory neuropathy,1
+systolic blood pressure,sensory neuropathy presentabsent,1
+systolic blood pressure,significant proximal lad disease,1
+systolic blood pressure,sleep duration,2
+systolic blood pressure,smoking,41
+systolic blood pressure,sociodemographics,1
+systolic blood pressure,socioeconomic variables,3
+systolic blood pressure,statins,10
+systolic blood pressure,stroke,7
+systolic blood pressure,sulfonylurea,1
+systolic blood pressure,syntax score,1
+systolic blood pressure,the presence of total occlusion,1
+systolic blood pressure,the use of drugs yesno,1
+systolic blood pressure,triacylglycerol,2
+systolic blood pressure,triglycerides,29
+systolic blood pressure,troponin,2
+systolic blood pressure,tryglycerides,1
+systolic blood pressure,tv viewing,1
+systolic blood pressure,ultrafiltration volume,1
+systolic blood pressure,uric acid,1
+systolic blood pressure,urinary,1
+systolic blood pressure,urinary acr,3
+systolic blood pressure,urinary albumin excretion rate,8
+systolic blood pressure,urinary protein log,1
+systolic blood pressure,waist measurements,6
+systolic blood pressure,white blood cell count,1
+thiazolidinediones,ARBs,1
+thiazolidinediones,antidepressants,1
+thiazolidinediones,antihypertensive use,1
+thiazolidinediones,blockers,1
+thiazolidinediones,fibrates,1
+thiazolidinediones,insulin treatment,1
+thiazolidinediones,statins,1
+tnfalpha,carotid intima media thickness,1
+"to tal",bmi,1
+"to tal",cholesterol,2
+"to tal",hba1c,1
+"to tal",height,1
+"to tal",triglycerides,1
+top three multidimensional scaling axes,clinic gamma frailty,1
+top three multidimensional scaling axes,intervention arm no interaction model,1
+total baseline expenditures,cardiovascular disease,1
+treatment,hba1c,2
+treatment,lipid profile,1
+treatment intensity,bmi,1
+treatment intensity,expected costs,1
+treatment intensity,hba1c,1
+treatment intensity,physical activity,1
+treatment intensity,smoking,1
+triacylglycerol,ACE inhibitors,1
+triacylglycerol,RCT,1
+triacylglycerol,aspirin therapy,1
+triacylglycerol,blood pressure,1
+triacylglycerol,bmi,1
+triacylglycerol,cholesterol,1
+triacylglycerol,coronary heart disease,1
+triacylglycerol,creatinine,1
+triacylglycerol,diastolic blood pressure,1
+triacylglycerol,egfr,1
+triacylglycerol,fasting plasma glucose,1
+triacylglycerol,fibrinogen,1
+triacylglycerol,hba1c,2
+triacylglycerol,hgi,1
+triacylglycerol,highdensity lipoprotein,1
+triacylglycerol,homocysteine at baseline,1
+triacylglycerol,insulin treatment,1
+triacylglycerol,lipidlowering therapy,1
+triacylglycerol,lowdensity lipoprotein,1
+triacylglycerol,physical activity,1
+triacylglycerol,retinopathy,2
+triacylglycerol,triglycerides,1
+triacylglycerol,urinary acr,1
+triglycerides,ACE inhibitors,4
+triglycerides,ACEI/ARB,2
+triglycerides,ARBs,2
+triglycerides,ApoAI,2
+triglycerides,RCT,3
+triglycerides,acr,1
+triglycerides,acute coronary syndrome,2
+triglycerides,age,2
+triglycerides,albumin,9
+triglycerides,albumin excretion rate,3
+triglycerides,albumin to creatinine ratio,1
+triglycerides,alcohol use,1
+triglycerides,andor nitroglycerin,1
+triglycerides,ankle-brachial index (ABI),1
+triglycerides,antialdosterone,1
+triglycerides,anticoagulants,1
+triglycerides,antidepressants,1
+triglycerides,antihyperlipidemic drugs,1
+triglycerides,antihypertensive use,10
+triglycerides,antiplatelet therapy,2
+triglycerides,apo(a) phenotypes,1
+triglycerides,apoAI/apoB ratio,2
+triglycerides,apoB,2
+triglycerides,aspirin therapy,3
+triglycerides,atrial fibrillation,2
+triglycerides,autonomic dysfunction,2
+triglycerides,bapwv,1
+triglycerides,beta-blocker,1
+triglycerides,blockers,2
+triglycerides,blood glucose,6
+triglycerides,blood pressure,1
+triglycerides,bmi,10
+triglycerides,bnp,3
+triglycerides,c-reactive protein,9
+triglycerides,calcium channel blockers,1
+triglycerides,cardiovascular disease,7
+triglycerides,carotid artery imt,1
+triglycerides,cerebrovascular disease,2
+triglycerides,change of esrage endogenous secretory receptor of advanced glycated endproducts,1
+triglycerides,cholesterol,40
+triglycerides,chronic kidney disease,3
+triglycerides,cimt,3
+triglycerides,clopidogrel,1
+triglycerides,combined alox12 genotypes,1
+triglycerides,coronary artery disease,2
+triglycerides,creatinine,10
+triglycerides,depression,1
+triglycerides,diabetes,1
+triglycerides,diabetes duration,6
+triglycerides,diabetes treatment,9
+triglycerides,diabetic neuropathy,1
+triglycerides,diastolic blood pressure,4
+triglycerides,distal polyneuropathy,1
+triglycerides,diuretic therapy,2
+triglycerides,dpucmgp,1
+triglycerides,ecg abnormalities,1
+triglycerides,egfr,11
+triglycerides,ejection fraction 40,1
+triglycerides,endothelial dysfunction,1
+triglycerides,fasting plasma glucose,2
+triglycerides,fibrates,1
+triglycerides,fibrinogen,3
+triglycerides,gender,4
+triglycerides,glycemic control,1
+triglycerides,hba1c,12
+triglycerides,heart failure,2
+triglycerides,height,2
+triglycerides,history of coronary disease,1
+triglycerides,homair,2
+triglycerides,homocysteine,3
+triglycerides,hyperlipidemia,1
+triglycerides,hypertension,8
+triglycerides,idf metabolic syndrome,2
+triglycerides,inflammatory markers,1
+triglycerides,insulin (measurment),4
+triglycerides,insulin treatment,4
+triglycerides,intensive treatment,1
+triglycerides,left ventricular ejection fraction,1
+triglycerides,left ventricular hypertrophy,1
+triglycerides,"leisure time physical activity",1
+triglycerides,lipidlowering therapy,6
+triglycerides,log101  acr,1
+triglycerides,macroalbuminuria,1
+triglycerides,macrovascular complications,1
+triglycerides,metformin,3
+triglycerides,microalbuminuria,2
+triglycerides,microvascular disease,1
+triglycerides,monocyte chemoattractant protin1 m,1
+triglycerides,multivessel coronary disease,1
+triglycerides,myocardial infarction,3
+triglycerides,nephropathy,1
+triglycerides,neuropathy,2
+triglycerides,nitrates,1
+triglycerides,nterminal probrain natriuretic peptide,1
+triglycerides,peripheral arterial occlusive disease,1
+triglycerides,peripheral artery disease,3
+triglycerides,peripheral neuropathy,1
+triglycerides,peripheral vascular disease,1
+triglycerides,physical activity,1
+triglycerides,pioglitazone treatment,1
+triglycerides,prior coronary artery bypass,1
+triglycerides,proteinuria,1
+triglycerides,pulse pressure,1
+triglycerides,reactive hyperemia index,1
+triglycerides,renal impairment,1
+triglycerides,renal insufficiency,1
+triglycerides,renin-angiotensin system inhibitors,3
+triglycerides,retinopathy,4
+triglycerides,sensory neuropathy,1
+triglycerides,sensory neuropathy presentabsent,1
+triglycerides,smoking,14
+triglycerides,sociodemographics,1
+triglycerides,statins,6
+triglycerides,stent,1
+triglycerides,stroke,4
+triglycerides,sulfonylurea,2
+triglycerides,systolic blood pressure,7
+triglycerides,the use of drugs yesno,1
+triglycerides,therapy for hypercoagulation,1
+triglycerides,thiazolidinediones,1
+triglycerides,troponin,1
+triglycerides,uric acid,3
+triglycerides,urinary acr,1
+triglycerides,urinary albumin excretion rate,1
+triglycerides,use of blockers,1
+triglycerides,waist measurements,3
+triglycerides,wasting,1
+triglycerides,white blood cell count,1
+troponin,c-reactive protein,2
+troponin,nterminal probrain natriuretic peptide,1
+troponin,pro btype natriuretic peptide quartiles,1
+tryglycerides,blood glucose,1
+tv viewing,alcohol use,1
+tv viewing,pc screen time,1
+tv viewing,sleep duration,1
+type of treatment,albumin excretion rate,1
+type of treatment,bmi,1
+type of treatment,cholesterol,1
+type of treatment,diastolic blood pressure,1
+type of treatment,fibrinogen,1
+type of treatment,ratio between total,1
+type of treatment,systolic blood pressure,1
+type of treatment,triglycerides,1
+type of treatment,white blood cell count,1
+ultrafiltration volume,albumin,2
+ultrafiltration volume,arteriovenous fistula,1
+ultrafiltration volume,bnp,1
+ultrafiltration volume,c-reactive protein,1
+ultrafiltration volume,cholesterol,2
+ultrafiltration volume,dialysis,1
+ultrafiltration volume,hba1c,2
+ultrafiltration volume,phosphate,1
+ultrafiltration volume,triglycerides,1
+uric acid,ACEI/ARB,1
+uric acid,age,1
+uric acid,bmi,2
+uric acid,cardiovascular disease,1
+uric acid,carotid intima media thickness,1
+uric acid,cholesterol,2
+uric acid,creatinine,2
+uric acid,diastolic blood pressure,1
+uric acid,egfr,1
+uric acid,hba1c,2
+uric acid,left ventricular ejection fraction,1
+uric acid,lipidlowering therapy,1
+uric acid,mpv mean platelet volume,1
+uric acid,syntax score,1
+uric acid,systolic blood pressure,1
+uric acid,tnfalpha,1
+uric acid,triglycerides,1
+uric acid,urinary acr,1
+urinary acr,blood glucose,1
+urinary acr,bmi,1
+urinary acr,cholesterol,2
+urinary acr,diastolic blood pressure,1
+urinary acr,fibrates,1
+urinary acr,gliclazide,1
+urinary acr,hba1c,2
+urinary acr,neuropathy,1
+urinary acr,renin-angiotensin system inhibitors,1
+urinary acr,retinopathy,2
+urinary acr,rosiglitazone during followup,1
+urinary acr,smoking,1
+urinary acr,statins,2
+urinary acr,systolic blood pressure,1
+urinary acr,triglycerides,1
+urinary acr,years of enrolment,1
+urinary albumin excretion rate,ACEI/ARB,1
+urinary albumin excretion rate,RCT,1
+urinary albumin excretion rate,antiplatelet therapy,1
+urinary albumin excretion rate,bmi,1
+urinary albumin excretion rate,bnp,3
+urinary albumin excretion rate,c-reactive protein,1
+urinary albumin excretion rate,cholesterol,2
+urinary albumin excretion rate,coronary artery calcium score,2
+urinary albumin excretion rate,creatinine,1
+urinary albumin excretion rate,diabetes duration,1
+urinary albumin excretion rate,egfr,3
+urinary albumin excretion rate,fasting cpeptide,1
+urinary albumin excretion rate,hba1c,2
+urinary albumin excretion rate,hypertension,1
+urinary albumin excretion rate,ischemic heart disease,1
+urinary albumin excretion rate,lipidlowering therapy,1
+urinary albumin excretion rate,smoking,1
+urinary albumin excretion rate,study treatment,1
+urinary albumin excretion rate,triglycerides,1
+urinary albumin excretion rate,uric acid,1
+urinary protein log,diabetes duration,1
+urinary protein log,hba1c,1
+use of blockers,calcium channel blockers,1
+use of blockers,systolic blood pressure,1
+use of sulfonamides,ACE inhibitors,1
+use of sulfonamides,ARBs,1
+use of sulfonamides,antiplatelet therapy,1
+use of sulfonamides,hypertension,1
+use of sulfonamides,insulin treatment,1
+use of sulfonamides,statins,1
+vessel size,diabetes duration,1
+vessel size,hba1c,1
+vessel size,hemodynamic measures,1
+vessel size,minimum lumen diameter,1
+vessel size,stent,1
+vitamin b12,cholesterol,1
+vitamin b12,diabetes duration,1
+vitamin b12,folate,1
+vitamin b12,hba1c,1
+vitamin b12,hypertension,1
+vitamin b12,smoking,1
+waist measurements,ACE inhibitors,1
+waist measurements,ApoAI,2
+waist measurements,RCT,1
+waist measurements,Serum 25-hydroxyvitamin D,1
+waist measurements,albumin to creatinine ratio,1
+waist measurements,antihypertensive use,4
+waist measurements,antiplatelet therapy,1
+waist measurements,apoAI/apoB ratio,2
+waist measurements,apoB,2
+waist measurements,blood glucose,3
+waist measurements,c-reactive protein,2
+waist measurements,cardiovascular disease,2
+waist measurements,carotid plaque,1
+waist measurements,cholesterol,21
+waist measurements,chronic kidney disease,1
+waist measurements,coronary artery calcium score,1
+waist measurements,coronary heart disease,1
+waist measurements,creatinine,4
+waist measurements,diabetes,1
+waist measurements,diabetes treatment,4
+waist measurements,diastolic blood pressure,2
+waist measurements,egfr,4
+waist measurements,fibrinogen,2
+waist measurements,fpi,1
+waist measurements,glycemic control,1
+waist measurements,hba1c,7
+waist measurements,heart rate,2
+waist measurements,high density lipoprotein level,1
+waist measurements,homair,2
+waist measurements,homocysteine,2
+waist measurements,hypertension,2
+waist measurements,idf metabolic syndrome,2
+waist measurements,inflammatory markers,1
+waist measurements,insulin (measurment),3
+waist measurements,insulin treatment,1
+waist measurements,lipid profile,1
+waist measurements,lipidlowering therapy,3
+waist measurements,log101  acr,1
+waist measurements,microalbuminuria,1
+waist measurements,peripheral artery disease,1
+waist measurements,physical activity,1
+waist measurements,proteinuria,1
+waist measurements,reactive hyperemia index,1
+waist measurements,renin-angiotensin system inhibitors,1
+waist measurements,retinopathy,1
+waist measurements,sensory neuropathy,1
+waist measurements,smoking,6
+waist measurements,statins,1
+waist measurements,stroke,2
+waist measurements,systolic blood pressure,8
+waist measurements,triglycerides,7
+waist measurements,urinary acr,1
+wasting,albumin,1
+wasting,creatinine,1
+wasting,diabetes treatment,1
+weight,albumin to creatinine ratio,1
+weight,antihypertensive use,1
+weight,average of 3 daily 2hour bg levels after meals,1
+weight,bmi,1
+weight,diastolic blood pressure,1
+weight,egfr,1
+weight,glycemic control,2
+weight,hba1c,1
+weight,heart rate,1
+weight,height,1
+weight,lipidlowering therapy,1
+weight,physical activity,1
+weight,smoking,2
+weight,systolic blood pressure,3
+white blood cell count,alcohol use,1
+white blood cell count,alternative healthy eating index ahei diet quality score quintiles,1
+white blood cell count,ankle-brachial index (ABI),1
+white blood cell count,bmi,2
+white blood cell count,c-reactive protein,1
+white blood cell count,cholesterol,2
+white blood cell count,creatinine,1
+white blood cell count,diabetes,1
+white blood cell count,diabetes duration,2
+white blood cell count,diastolic blood pressure,1
+white blood cell count,ecg abnormalities,3
+white blood cell count,egfr,2
+white blood cell count,gastrointestinal bleeding in past 5 years,1
+white blood cell count,hba1c,2
+white blood cell count,heart failure,1
+white blood cell count,hyperlipidemia,1
+white blood cell count,hypertension,2
+white blood cell count,hyperuricemia-gout,1
+white blood cell count,lung disease,1
+white blood cell count,myocardial infarction,1
+white blood cell count,physical activity,1
+white blood cell count,pro btype natriuretic peptide quartiles,1
+white blood cell count,pulse pressure,1
+white blood cell count,significant proximal lad disease,1
+white blood cell count,smoking,3
+white blood cell count,systolic blood pressure,3
+white blood cell count,the presence of total occlusion,1
+white blood cell count,troponin,1
+year fixed effects,sociodemographics,1
+year of followup start,alcohol use,1
+year of followup start,antihypertensive use,1
+year of followup start,antiplatelet therapy,1
+year of followup start,blood glucose,1
+year of followup start,bmi,1
+year of followup start,cholesterol,1
+year of followup start,macrovascular complications,1
+year of followup start,microvascular disease,1
+year of followup start,psychiatric medications,1
+year of followup start,statins,1
+young severity index,blood pressure,1
+young severity index,bmi,1
+young severity index,cholesterol,1
+young severity index,creatinine,1
+young severity index,microalbuminuria,1
+young severity index,provider quality controls,1
+young severity index,sociodemographics,1
+young severity index,sulfonylurea,1
+young severity index,year fixed effects,1

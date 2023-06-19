@@ -1,0 +1,43 @@
+country_of_affiliation,sum_country,rank,Country_Rank,ISO2
+United States,17.4159103459607,1,1 : United States,US
+United Kingdom,10.0613414952348,2,2 : United Kingdom,GB
+China,7.85479574783948,3,3 : China,CN
+Japan,7.52940418956044,4,4 : Japan,JP
+Italy,7.32429450610119,5,5 : Italy,IT
+France,5.19360568370563,6,6 : France,FR
+Sweden,5.17644681707182,7,7 : Sweden,SE
+Australia,4.49396164042229,8,8 : Australia,AU
+Denmark,3.68286227661228,9,9 : Denmark,DK
+Germany,3.55318035800926,10,10 : Germany,DE
+Netherlands,3.40202115592741,11,11 : Netherlands,NL
+Brazil,2.76842948717949,12,12 : Brazil,BR
+Taiwan,2.32371794871795,13,13 : Taiwan,TW
+Finland,2.29119627841794,14,14 : Finland,FI
+Spain,2.23220310391363,15,15 : Spain,ES
+South Korea,2.22928113553114,16,16 : South Korea,KR
+Iran,1.83293269230769,17,17 : Iran,IR
+New Zealand,1.33503913477568,18,18 : New Zealand,NZ
+Israel,1.31256384893784,19,19 : Israel,IL
+Greece,1.09460851648352,20,20 : Greece,GR
+Austria,1.04166666666667,21,21 : Austria,AT
+Portugal,0.9765625,22,22 : Portugal,PT
+Hong Kong S.A.R.,0.921474358974359,23,23 : Hong Kong S.A.R.,HK
+India,0.733173076923077,24,24 : India,IN
+Canada,0.592139474658006,25,25 : Canada,CA
+Poland,0.510817307692308,26,26 : Poland,PL
+Norway,0.30982905982906,27,27 : Norway,NO
+Turkey,0.260416666666667,28,28 : Turkey,TR
+Thailand,0.244601889338731,29,29 : Thailand,TH
+Chile,0.240384615384615,30,30 : Chile,CL
+Czech Republic,0.240384615384615,30,30 : Czech Republic,CZ
+Ireland,0.240384615384615,30,30 : Ireland,IE
+Macedonia,0.240384615384615,30,30 : Macedonia,MK
+Colombia,0.0681089743589744,34,34 : Colombia,CO
+Singapore,0.0655594405594406,35,35 : Singapore,SG
+Belgium,0.048480930833872,36,36 : Belgium,BE
+Argentina,0.0454059829059829,37,37 : Argentina,AR
+Switzerland,0.0333867521367521,38,38 : Switzerland,CH
+Hungary,0.0300480769230769,39,39 : Hungary,HU
+South Africa,0.0250668449197861,40,40 : South Africa,ZA
+Lebanon,0.0150240384615385,41,41 : Lebanon,LB
+Malaysia,0.0089031339031339,42,42 : Malaysia,MY
