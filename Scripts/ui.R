@@ -17,9 +17,6 @@ library(shinydashboard)
 library(shinybusy)
 
 # Pre-processing -----------------------------------------------------------------------
-
-setwd("~/Documents/Projects/T2DCVD_Prognostics/Scripts/")
-
 # Histograms
 
 total_cov <- rio::import("../data/cova_total.csv")

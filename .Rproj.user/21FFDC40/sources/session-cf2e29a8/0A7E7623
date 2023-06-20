@@ -3,7 +3,7 @@
     "path": "~/Documents/Projects/T2DCVD_Prognostics/Scripts/ui.R",
     "project_path": "Scripts/ui.R",
     "type": "r_source",
-    "hash": "2003359987",
+    "hash": "1269398424",
     "contents": "",
     "dirty": false,
     "created": 1687242894185.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "684,0",
-        "scrollLine": "657"
+        "cursorPosition": "19,0",
+        "scrollLine": "7"
     },
     "folds": "",
-    "lastKnownWriteTime": 1687243030,
+    "lastKnownWriteTime": 1687243284,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1687243030394,
+    "last_content_update": 1687243284124,
     "read_only": false,
     "read_only_alternatives": []
 }
