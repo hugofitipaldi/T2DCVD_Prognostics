@@ -1,4 +1,3 @@
-library(rio)
 library(tidyverse)
 library(shiny)
 library(plotly)
@@ -19,17 +18,17 @@ library(shinybusy)
 # Pre-processing -----------------------------------------------------------------------
 # Histograms
 
-total_cov <- rio::import("../data/cova_total.csv")
-traditional_cov <- rio::import("../data/cova_traditional.csv")
+total_cov <- readr::read_csv("../data/cova_total.csv")
+traditional_cov <- readr::read_csv("../data/cova_traditional.csv")
 
 total_cov <-  total_cov %>%
-  select(total_cov, Frequency) %>%
-  mutate(group = "Total (Traditional & Non-traditional)", color_fill = "lightblue",  color_line = "darkblue",
+  dplyr::select(total_cov, Frequency) %>%
+  dplyr::mutate(group = "Total (Traditional & Non-traditional)", color_fill = "lightblue",  color_line = "darkblue",
          xaxis_title =  "Number of Total Adjusted Covariates")
 
 traditional_cov <-  traditional_cov %>%
-  select(total_cov, Frequency) %>%
-  mutate(group = "Traditional", color_fill = "red",  color_line = "darkred",
+  dplyr::select(total_cov, Frequency) %>%
+  dplyr::mutate(group = "Traditional", color_fill = "red",  color_line = "darkred",
          xaxis_title =  "Number of Traditional Adjusted Covariates")
 
 names(total_cov) <- c("count_cov", "n" , "group", "color_fill", "color_line", "xaxis_title")
@@ -40,17 +39,17 @@ cov_df <- rbind(total_cov, traditional_cov)
 covariates.options <- unique(cov_df$group)
 
 # Network
-result_test <- rio::import("../data/network_data.csv")
+result_test <- readr::read_csv("../data/network_data.csv")
 
 bigram_graph <- result_test %>%
-  graph_from_data_frame()
+  igraph::graph_from_data_frame()
 
 # Affiliations
 
-affiliations <- rio::import("../data/affiliations.csv")
+affiliations <- readr::read_csv("../data/affiliations.csv")
 
 affiliations_map <- affiliations
-world_aff <- map("world", fill=TRUE, plot=FALSE)
+world_aff <- maps::map("world", fill=TRUE, plot=FALSE)
 
 affiliations_map[affiliations_map$country_of_affiliation == "United Kingdom",]$country_of_affiliation <- "UK"
 affiliations_map[affiliations_map$country_of_affiliation == "United States",]$country_of_affiliation <- "USA"
@@ -75,7 +74,7 @@ pal <- colorBin(palette = c("#56B1F7", "#72B8DB", "#4A9FC4", "#3887B1", "#2D6F96
 
 # Gender
 
-gender_coauthors <- rio::import("../data/All_authors_genderAPI_groups.csv")
+gender_coauthors <- readr::read_csv("../data/All_authors_genderAPI_groups.csv")
 
 gender_coauthors[gender_coauthors$gender == "female",]$gender <- "Female"
 gender_coauthors[gender_coauthors$gender == "male",]$gender <- "Male"
@@ -85,7 +84,7 @@ study.options <- unique(gender_coauthors$BM_GN_RS)
 
 # Origin participants
 
-origin_df <- rio::import("../data/origins_participants.csv")
+origin_df <- readr::read_csv("../data/origins_participants.csv")
 
 origins_map <- origin_df
 world_ori <- map("world", fill=TRUE, plot=FALSE)
@@ -114,20 +113,20 @@ origins_map2 <- merge(target_ori, origins_map, by.x = "country", by.y = "Origin"
 
 # ancestry participants
 
-ancestry_df <- rio::import("../data/ancestry.csv")
+ancestry_df <- readr::read_csv("../data/ancestry.csv")
 
 # Traffic light
-traffic_data <- rio::import("../data/BM_GN_RS_qualitySCORESbyStudy.csv")
+traffic_data <- readr::read_csv("../data/BM_GN_RS_qualitySCORESbyStudy.csv")
 
 traffic_data <- traffic_data %>%
-  mutate_all(~ case_when(
+  dplyr::mutate_all(~ case_when(
     . == "hig" ~ "low",
     . == "low" ~ "hig",
     . == "med" ~ "med",
     TRUE ~ as.character(.)
   ))
 
-new_metadata416 <- rio::import("../data/new_metadata416.csv")
+new_metadata416 <- readr::read_csv("../data/new_metadata416.csv")
 
 traffic_data <- traffic_data %>%
   merge(new_metadata416, by.x = "studynum", by.y = "studyNum")
@@ -155,7 +154,7 @@ traffic_data_RS <- traffic_data %>%
          PointQual_FUPlost012, BiasRiskTotal) # D-M -K & L
 
 traffic_light_GN <- traffic_data_GN %>%
-  mutate_all(~ case_when(
+  dplyr::mutate_all(~ case_when(
     . == "hig" ~ "red_sign",
     . == "low" ~ "green_sign",
     . == "med" ~ "yellow_sign",
@@ -221,7 +220,7 @@ GN_gt <-traffic_light_GN %>%
   opt_interactive(use_search = TRUE, use_compact_mode = TRUE, use_page_size_select = TRUE)
 
 traffic_light_RS <- traffic_data_RS %>%
-  mutate_all(~ case_when(
+  dplyr::mutate_all(~ case_when(
     . == "hig" ~ "red_sign",
     . == "low" ~ "green_sign",
     . == "med" ~ "yellow_sign",
@@ -287,7 +286,7 @@ RS_gt <- traffic_light_RS %>%
   opt_interactive(use_search = TRUE, use_compact_mode = TRUE, use_page_size_select = TRUE)
 
 traffic_light_BM <- traffic_data_BM %>%
-  mutate_all(~ case_when(
+  dplyr::mutate_all(~ case_when(
     . == "hig" ~ "red_sign",
     . == "low" ~ "green_sign",
     . == "med" ~ "yellow_sign",
