@@ -54,8 +54,8 @@ world_aff <- maps::map("world", fill=TRUE, plot=FALSE)
 affiliations_map[affiliations_map$country_of_affiliation == "United Kingdom",]$country_of_affiliation <- "UK"
 affiliations_map[affiliations_map$country_of_affiliation == "United States",]$country_of_affiliation <- "USA"
 
-world_aff_map <- map2SpatialPolygons(world_aff, sub(":.*$", "", world_aff$names))
-world_aff_map <- SpatialPolygonsDataFrame(world_aff_map,
+world_aff_map <- maptools::map2SpatialPolygons(world_aff, sub(":.*$", "", world_aff$names))
+world_aff_map <- sp::SpatialPolygonsDataFrame(world_aff_map,
                                           data.frame(country=names(world_aff_map),
                                                      stringsAsFactors=FALSE),
                                           FALSE)
@@ -69,7 +69,7 @@ affiliations_map2 <- merge(target_aff, affiliations_map, by.x = "country", by.y 
 affiliations_map$sum_country
 risk.bins <- c(0, 0.5, 1, 2, 3, 5, 8, 12, 17, 18)
 
-pal <- colorBin(palette = c("#56B1F7", "#72B8DB", "#4A9FC4", "#3887B1", "#2D6F96","#24577A","#1B3F5F", "#132B43"),
+pal <- leaflet::colorBin(palette = c("#56B1F7", "#72B8DB", "#4A9FC4", "#3887B1", "#2D6F96","#24577A","#1B3F5F", "#132B43"),
                 bins=risk.bins, na.color = 'lightgrey')
 
 # Gender
@@ -132,23 +132,23 @@ traffic_data <- traffic_data %>%
   merge(new_metadata416, by.x = "studynum", by.y = "studyNum")
 
 traffic_data_BM <- traffic_data %>%
-  filter(bm_GN_RS == "BM") %>%
-  select(study_id, Author_Year, PointQual_Represent012,
+  dplyr::filter(bm_GN_RS == "BM") %>%
+  dplyr::select(study_id, Author_Year, PointQual_Represent012,
          PointQual_Selection012,	PointQual_Exposure012,
          PointQual_OutcDef012,	PointQual_FUPduration012,
          PointQual_FUPlost012,	PointQual_TOTALcov012,
          PointQual_TOTALtrad012, BiasRiskTotal) # D-M
 
 traffic_data_GN <- traffic_data %>%
-  filter(bm_GN_RS == "GN") %>%
-  select(study_id, Author_Year, PointQual_Represent012,
+  dplyr::filter(bm_GN_RS == "GN") %>%
+  dplyr::select(study_id, Author_Year, PointQual_Represent012,
          PointQual_Selection012,	PointQual_Exposure012,
          PointQual_OutcDef012,	PointQual_FUPduration012,
          PointQual_FUPlost012, BiasRiskTotal) # D-M -K & L
 
 traffic_data_RS <- traffic_data %>%
-  filter(bm_GN_RS == "RS") %>%
-  select(study_id, Author_Year, PointQual_Represent012,
+  dplyr::filter(bm_GN_RS == "RS") %>%
+  dplyr::select(study_id, Author_Year, PointQual_Represent012,
          PointQual_Selection012,	PointQual_Exposure012,
          PointQual_OutcDef012,	PointQual_FUPduration012,
          PointQual_FUPlost012, BiasRiskTotal) # D-M -K & L
@@ -168,15 +168,15 @@ traffic_light_GN[traffic_light_GN$BiasRiskTotal == "Med.",]$BiasRiskTotal <- "ye
 names(traffic_light_GN) <- c("Study_ID", "Study", "D1", "D2", "D3", "D4", "D5", "D6", "Overall")
 
 GN_gt <-traffic_light_GN %>%
-  select("Study", "D1", "D2", "D3", "D4", "D5", "D6", "Overall") %>%
-  gt() %>%
-  cols_align(
+  dplyr::select("Study", "D1", "D2", "D3", "D4", "D5", "D6", "Overall") %>%
+  gt::gt() %>%
+  gt::cols_align(
     align = "center"
   ) %>%
-  tab_options(
+  gt::tab_options(
     data_row.padding = px(2)
   ) %>%
-  text_transform(
+  gt::text_transform(
     locations = cells_body(c(D1, D2, D3,
                              D4, D5, D6,
                              Overall)),
@@ -187,7 +187,7 @@ GN_gt <-traffic_light_GN %>%
         height = 25
       ))
     }) %>%
-  tab_options(
+  gt::tab_options(
     column_labels.background.color = "#585d63",
     column_labels.border.top.width = px(3),
     column_labels.border.top.color = "#585d63",
@@ -201,23 +201,23 @@ GN_gt <-traffic_light_GN %>%
     table.border.bottom.width = px(5),
     row.striping.background_color = "#f9f9fb",
     data_row.padding = px(3)) %>%
-  cols_width(starts_with("D") ~ px(70),
+  gt::cols_width(starts_with("D") ~ px(70),
              starts_with("O") ~ px(80),
              Study ~ px(100)
   ) %>%
-  tab_style(
+  gt::tab_style(
     style = list(
       cell_fill(color = "#585d63"),
       cell_text(color = "white")
     ),
     locations = cells_body(columns = Study)) %>%
-  tab_style(
+  gt::tab_style(
     style = list(
       cell_fill(color = "lightgray"),
       cell_text(color = "white")
     ),
     locations = cells_body(columns = Overall)) %>%
-  opt_interactive(use_search = TRUE, use_compact_mode = TRUE, use_page_size_select = TRUE)
+  gt::opt_interactive(use_search = TRUE, use_compact_mode = TRUE, use_page_size_select = TRUE)
 
 traffic_light_RS <- traffic_data_RS %>%
   dplyr::mutate_all(~ case_when(
