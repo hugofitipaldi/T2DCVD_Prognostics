@@ -18,8 +18,8 @@ library(shinybusy)
 # Pre-processing -----------------------------------------------------------------------
 # Histograms
 
-total_cov <- readr::read_csv("../data/cova_total.csv")
-traditional_cov <- readr::read_csv("../data/cova_traditional.csv")
+total_cov <- readr::read_csv("data/cova_total.csv")
+traditional_cov <- readr::read_csv("data/cova_traditional.csv")
 
 total_cov <-  total_cov %>%
   dplyr::select(total_cov, Frequency) %>%
@@ -39,14 +39,14 @@ cov_df <- rbind(total_cov, traditional_cov)
 covariates.options <- unique(cov_df$group)
 
 # Network
-result_test <- readr::read_csv("../data/network_data.csv")
+result_test <- readr::read_csv("data/network_data.csv")
 
 bigram_graph <- result_test %>%
   igraph::graph_from_data_frame()
 
 # Affiliations
 
-affiliations <- readr::read_csv("../data/affiliations.csv")
+affiliations <- readr::read_csv("data/affiliations.csv")
 
 affiliations_map <- affiliations
 world_aff <- maps::map("world", fill=TRUE, plot=FALSE)
@@ -74,7 +74,7 @@ pal <- leaflet::colorBin(palette = c("#56B1F7", "#72B8DB", "#4A9FC4", "#3887B1",
 
 # Gender
 
-gender_coauthors <- readr::read_csv("../data/All_authors_genderAPI_groups.csv")
+gender_coauthors <- readr::read_csv("data/All_authors_genderAPI_groups.csv")
 
 gender_coauthors[gender_coauthors$gender == "female",]$gender <- "Female"
 gender_coauthors[gender_coauthors$gender == "male",]$gender <- "Male"
@@ -84,7 +84,7 @@ study.options <- unique(gender_coauthors$BM_GN_RS)
 
 # Origin participants
 
-origin_df <- readr::read_csv("../data/origins_participants.csv")
+origin_df <- readr::read_csv("data/origins_participants.csv")
 
 origins_map <- origin_df
 world_ori <- map("world", fill=TRUE, plot=FALSE)
@@ -113,10 +113,10 @@ origins_map2 <- merge(target_ori, origins_map, by.x = "country", by.y = "Origin"
 
 # ancestry participants
 
-ancestry_df <- readr::read_csv("../data/ancestry.csv")
+ancestry_df <- readr::read_csv("data/ancestry.csv")
 
 # Traffic light
-traffic_data <- readr::read_csv("../data/BM_GN_RS_qualitySCORESbyStudy.csv")
+traffic_data <- readr::read_csv("data/BM_GN_RS_qualitySCORESbyStudy.csv")
 
 traffic_data <- traffic_data %>%
   dplyr::mutate_all(~ case_when(
@@ -126,7 +126,7 @@ traffic_data <- traffic_data %>%
     TRUE ~ as.character(.)
   ))
 
-new_metadata416 <- readr::read_csv("../data/new_metadata416.csv")
+new_metadata416 <- readr::read_csv("data/new_metadata416.csv")
 
 traffic_data <- traffic_data %>%
   merge(new_metadata416, by.x = "studynum", by.y = "studyNum")
@@ -183,7 +183,7 @@ GN_gt <-traffic_light_GN %>%
     fn = function(x) {
       # loop over the elements of the column
       map_chr(x, ~ local_image(
-        filename = paste0("../images/", .x, ".png"),
+        filename = paste0("images/", .x, ".png"),
         height = 25
       ))
     }) %>%
@@ -249,7 +249,7 @@ RS_gt <- traffic_light_RS %>%
     fn = function(x) {
       # loop over the elements of the column
       map_chr(x, ~ local_image(
-        filename = paste0("../images/", .x, ".png"),
+        filename = paste0("images/", .x, ".png"),
         height = 25
       ))
     }) %>%
@@ -317,7 +317,7 @@ BM_gt <- traffic_light_BM %>%
     fn = function(x) {
       # loop over the elements of the column
       map_chr(x, ~ local_image(
-        filename = paste0("../images/", .x, ".png"),
+        filename = paste0("images/", .x, ".png"),
         height = 25
       ))
     }) %>%
@@ -676,5 +676,4 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
-
 
