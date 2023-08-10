@@ -130,6 +130,8 @@ new_metadata416 <- readr::read_csv("data/new_metadata416.csv")
 
 traffic_data <- traffic_data %>%
   merge(new_metadata416, by.x = "studynum", by.y = "studyNum")
+traffic_data$Author_Year.x <- NULL
+names(traffic_data)[names(traffic_data) == 'Author_Year.y'] <- 'Author_Year'
 
 traffic_data_BM <- traffic_data %>%
   dplyr::filter(bm_GN_RS == "BM") %>%
