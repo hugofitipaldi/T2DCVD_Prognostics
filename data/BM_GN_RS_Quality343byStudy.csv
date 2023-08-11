@@ -248,21 +248,21 @@ studynum,study_id,bm_GN_RS,Author_Year,PointQual_Represent012,PointQual_Selectio
 9458,#9458,BM,vonScholten 2016a,med,med,hig,hig,hig,hig,hig,med,High,10,8,Low,2,2,2,3,1,3,3,4,20
 9734,#9734,BM,Østergaard 2019,hig,med,hig,hig,hig,hig,hig,hig,High,10,10,Low,3,2,2,3,1,3,3,6,23
 2369,#2369,GN,Doney 2005,hig,med,hig,med,hig,hig,,,Med,7,6,Med.,3,2,2,2,1,3,,,13
-735,#735,GN,Satirapoj 2019,low,med,hig,hig,hig,hig,,,Low,0,0,High,1,2,2,3,1,3,,,12
+735,#735,GN,Satirapoj 2019,low,med,hig,hig,hig,hig,,,Med,0,0,Med.,1,2,2,3,1,3,,,12
 434,#434,GN,Tan 2020,hig,med,hig,hig,hig,med,,,Med,8,6,Med.,3,2,2,3,1,2,,,13
 14225,#14225,GN,Alkhalaf 2015,low,med,hig,hig,hig,med,,,Low,11,11,High,1,2,2,3,1,2,,,11
 14742,#14742,GN,Bacci 2011,low,med,hig,med,hig,med,,,Low,1,0,High,0,2,2,2,1,2,,,9
 15036,#15036,GN,Baeney 2016,hig,med,hig,hig,hig,med,,,Med,1,1,Med.,3,2,2,3,1,2,,,13
-15047,#15047,GN,Bernard 2004,low,med,hig,hig,hig,hig,,,Low,6,5,High,1,2,2,3,1,3,,,12
+15047,#15047,GN,Bernard 2004,low,med,hig,hig,hig,hig,,,Med,6,5,Med.,1,2,2,3,1,3,,,12
 14400,#14400,GN,Boger 2005,low,med,hig,low,hig,med,,,Low,2,2,High,1,2,2,0,1,2,,,8
-14853,#14853,GN,Cox 2014,low,med,hig,hig,hig,hig,,,Low,7,6,High,1,2,2,3,1,3,,,12
+14853,#14853,GN,Cox 2014,low,med,hig,hig,hig,hig,,,Med,7,6,Med.,1,2,2,3,1,3,,,12
 13343,#13343,GN,Doney 2005a,hig,med,hig,med,hig,hig,,,Med,1,1,Med.,3,2,2,2,1,3,,,13
 13344,#13344,GN,Doney 2009,hig,med,hig,low,hig,med,,,Low,10,9,High,3,2,2,0,1,2,,,10
 15062,#15062,GN,"Ferrarezi, 2013",hig,med,hig,hig,hig,hig,,,High,4,4,Low,3,2,2,3,1,3,,,14
-15057,#15057,GN,"Hadjadj, 2008",low,med,hig,hig,hig,hig,,,Low,7,6,High,1,2,2,3,1,3,,,12
+15057,#15057,GN,"Hadjadj, 2008",low,med,hig,hig,hig,hig,,,Med,7,6,Med.,1,2,2,3,1,3,,,12
 15051,#15051,GN,He 2021,hig,med,hig,hig,hig,med,,,High,2,2,Low,3,2,2,3,3,1,,,14
 15054,#15054,GN,"Heijmans, 2000",low,med,hig,hig,hig,med,,,Low,2,2,High,1,2,2,3,1,2,,,11
-15040,#15040,GN,Ho 2012,low,med,hig,hig,hig,hig,,,Low,18,15,High,1,2,2,3,1,3,,,12
+15040,#15040,GN,Ho 2012,low,med,hig,hig,hig,hig,,,Med,18,15,Med.,1,2,2,3,1,3,,,12
 12952,#12952,GN,Hoffman (2011),med,med,hig,hig,hig,hig,,,Med,15,12,Med.,2,2,2,3,1,3,,,13
 15053,#15053,GN,"Hong Huang, 1998",hig,med,hig,hig,hig,hig,,,High,7,5,Low,3,2,2,3,1,3,,,14
 15035,#15035,GN,Huggins 2016,med,med,hig,hig,hig,hig,,,Med,5,2,Med.,2,2,2,3,1,3,,,13
@@ -271,22 +271,22 @@ studynum,study_id,bm_GN_RS,Author_Year,PointQual_Represent012,PointQual_Selectio
 12243,#12243,GN,Kuricová 2013,hig,med,hig,low,hig,hig,,,Low,3,3,High,3,2,2,0,1,3,,,11
 12115,#12115,GN,Levy (2002),hig,med,hig,hig,hig,hig,,,High,11,8,Low,3,2,2,3,1,3,,,14
 12447,#12447,GN,Lu (2011),low,med,hig,hig,hig,hig,,,High,1,0,Low,1,2,2,3,3,3,,,14
-15056,#15056,GN,"Lu Qi, 2005",low,med,hig,hig,hig,hig,,,Low,9,7,High,1,2,2,3,1,3,,,12
+15056,#15056,GN,"Lu Qi, 2005",low,med,hig,hig,hig,hig,,,Med,9,7,Med.,1,2,2,3,1,3,,,12
 15037,#15037,GN,Mccaffery 2015,low,med,hig,hig,hig,med,,,Low,7,6,High,1,2,2,3,1,2,,,11
 15044,#15044,GN,Mohammedi 2015,med,med,hig,hig,hig,hig,,,Med,10,9,Med.,2,2,2,3,1,3,,,13
 11705,#11705,GN,Morieri 2018,hig,med,hig,hig,hig,med,,,Med,13,12,Med.,3,2,2,3,1,2,,,13
 15061,#15061,GN,Neves AL 2012,hig,med,hig,hig,hig,hig,,,High,12,10,Low,3,2,2,3,1,3,,,14
 11323,#11323,GN,Odeberg 2008,hig,med,hig,med,hig,hig,,,Med,6,4,Med.,3,2,2,2,1,3,,,13
-11263,#11263,GN,Ortega Moreno 2016,med,med,hig,hig,hig,med,,,Low,10,9,High,2,2,2,3,1,2,,,12
+11263,#11263,GN,Ortega Moreno 2016,med,med,hig,hig,hig,med,,,Med,10,9,Med.,2,2,2,3,1,2,,,12
 15065,#15065,GN,PYK Poon · 2014,low,med,hig,med,hig,hig,,,Low,2,1,High,1,2,2,2,1,3,,,11
-10976,#10976,GN,Poon (2010),low,med,hig,hig,hig,hig,,,Low,11,9,High,1,2,2,3,1,3,,,12
-15058,#15058,GN,"Porchay-Baldérelli , 2009",low,med,hig,hig,hig,hig,,,Low,10,9,High,1,2,2,3,1,3,,,12
+10976,#10976,GN,Poon (2010),low,med,hig,hig,hig,hig,,,Med,11,9,Med.,1,2,2,3,1,3,,,12
+15058,#15058,GN,"Porchay-Baldérelli , 2009",low,med,hig,hig,hig,hig,,,Med,10,9,Med.,1,2,2,3,1,3,,,12
 10968,#10968,GN,Porchay-Baldérelli 2007,med,med,hig,hig,hig,hig,,,Med,15,12,Med.,2,2,2,3,1,3,,,13
 11480,#11480,GN,Qi 2011,hig,med,hig,hig,med,low,,,Low,7,7,High,3,2,2,3,0,0,,,10
 15046,#15046,GN,Qi 2012,hig,med,hig,hig,hig,hig,,,High,2,2,Low,3,2,2,3,1,3,,,14
 15034,#15034,GN,Qi 2013,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
 10732,#10732,GN,Roumeliotis (2017),low,med,hig,hig,hig,med,,,Low,18,14,High,1,2,2,3,1,2,,,11
-15067,#15067,GN,"Roumeliotis, 2018",low,med,hig,hig,hig,hig,,,Low,15,12,High,1,2,2,3,1,3,,,12
+15067,#15067,GN,"Roumeliotis, 2018",low,med,hig,hig,hig,hig,,,Med,15,12,Med.,1,2,2,3,1,3,,,12
 10710,#10710,GN,Russo 2011,hig,med,hig,hig,hig,med,,,Med,10,8,Med.,3,2,2,3,1,2,,,13
 15073,#15073,GN,So 2008,med,med,hig,low,hig,med,,,Low,10,8,High,2,2,2,0,1,2,,,9
 15043,#15043,GN,Valoti 2019,hig,med,hig,hig,hig,hig,,,High,9,6,Low,3,2,2,3,1,3,,,14
@@ -294,51 +294,51 @@ studynum,study_id,bm_GN_RS,Author_Year,PointQual_Represent012,PointQual_Selectio
 15041,#15041,GN,Wang 2010,low,med,hig,hig,hig,med,,,Low,19,14,High,1,2,2,3,1,2,,,11
 15070,#15070,GN,Watson C 2021,hig,med,hig,hig,hig,hig,,,High,2,2,Low,3,2,2,3,1,3,,,14
 10007,#10007,GN,Winkler 2010,hig,med,hig,hig,hig,hig,,,High,21,16,Low,3,2,2,3,1,3,,,14
-15071,#15071,GN,"Zhang, 2005",low,med,hig,hig,hig,hig,,,Low,6,3,High,1,2,2,3,1,3,,,12
+15071,#15071,GN,"Zhang, 2005",low,med,hig,hig,hig,hig,,,Med,6,3,Med.,1,2,2,3,1,3,,,12
 14673,#14673,RS,Basu 2017,med,med,low,hig,hig,hig,,,Low,3,1,High,2,2,0,3,1,3,,,11
 14674,#14674,RS,Basu 2018,hig,med,hig,med,hig,low,,,Low,7,7,High,3,2,2,2,1,0,,,10
-13854,#13854,RS,Cederholm 2008,hig,med,hig,hig,hig,hig,,,Med,9,9,Med.,3,2,2,3,1,3,,,14
-15023,#15023 ,RS,Clarke 2004,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
+13854,#13854,RS,Cederholm 2008,hig,med,hig,hig,hig,hig,,,High,9,9,Low,3,2,2,3,1,3,,,14
+15023,#15023 ,RS,Clarke 2004,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
 14855,#14855,RS,Cox 2014,hig,med,hig,hig,hig,low,,,Low,7,7,High,3,2,2,3,1,0,,,11
 9867,#9867,RS,Cox 2014a,hig,med,hig,hig,hig,med,,,Med,7,7,Med.,3,2,2,3,1,2,,,13
 14351,#14351,RS,Davis 2009,med,med,hig,hig,hig,hig,,,Med,0,0,Med.,2,2,2,3,1,3,,,13
 14350,#14350,RS,Davis 2010,hig,med,hig,hig,hig,low,,,Low,8,8,High,3,2,2,3,1,0,,,11
 2655,#2655,RS,Davis 2020,hig,med,hig,hig,hig,low,,,Low,0,0,High,3,2,2,3,1,0,,,11
 13335,#13335,RS,Donnan 2006,hig,med,hig,hig,hig,low,,,Low,10,8,High,3,2,2,3,1,0,,,11
-14090,#14090,RS,Elley 2010,hig,med,hig,hig,hig,med,,,Low,11,11,High,3,2,2,3,1,1,,,12
+14090,#14090,RS,Elley 2010,hig,med,hig,hig,hig,med,,,Med,11,11,Med.,3,2,2,3,1,1,,,12
 15029,#15029 ,RS,Folsom 2003,hig,med,hig,med,hig,hig,,,Med,0,0,Med.,3,2,2,2,1,3,,,13
 13509,#13509,RS,Guzder 2005,hig,med,low,hig,hig,low,,,Low,0,0,High,3,2,0,3,1,0,,,9
-13964,#13964,RS,Hamada 2018,hig,med,hig,hig,hig,hig,,,Med,11,10,Med.,3,2,2,3,1,3,,,14
-15024,#15024 ,RS,Hayes 2013,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
-15033,#15033 ,RS,Kengne 2010,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
+13964,#13964,RS,Hamada 2018,hig,med,hig,hig,hig,hig,,,High,11,10,Low,3,2,2,3,1,3,,,14
+15024,#15024 ,RS,Hayes 2013,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
+15033,#15033 ,RS,Kengne 2010,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
 12531,#12531,RS,Kengne 2011,hig,med,hig,hig,hig,low,,,Low,0,0,High,3,2,2,3,1,0,,,11
 12221,#12221,RS,Lagani 2015,med,med,hig,low,hig,low,,,Low,0,0,High,2,2,2,0,1,0,,,7
 12092,#12092,RS,Li 2018,med,med,hig,hig,hig,low,,,Low,6,4,High,2,2,2,3,1,0,,,10
 11852,#11852,RS,McEwan 2015,hig,med,hig,hig,hig,low,,,Low,0,0,High,3,2,2,3,1,0,,,11
 11806,#11806,RS,Mentz 2018,hig,med,hig,hig,hig,low,,,Low,0,0,High,3,2,2,3,1,0,,,11
-15026,#15026 ,RS,Mukamal 2013,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
-11010,#11010,RS,Pinias 2014,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
+15026,#15026 ,RS,Mukamal 2013,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
+11010,#11010,RS,Pinias 2014,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
 11468,#11468,RS,Quan 2019,hig,med,hig,hig,hig,low,,,Low,0,0,High,3,2,2,3,1,0,,,11
-957,#957,RS,RamÃ­rez-Prado 2015,med,med,hig,hig,hig,low,,,Low,0,0,High,2,2,2,3,3,0,,,12
+957,#957,RS,RamÃ­rez-Prado 2015,med,med,hig,hig,hig,low,,,Med,0,0,Med.,2,2,2,3,3,0,,,12
 15028,#15028 ,RS,Read 2018,hig,med,hig,med,hig,hig,,,Med,0,0,Med.,3,2,2,2,1,3,,,13
-10740,#10740,RS,Rossi 2011,hig,med,hig,hig,hig,hig,,,Med,7,5,Med.,3,2,2,3,1,3,,,14
-10513,#10513,RS,Shao 2018,hig,med,hig,hig,hig,hig,,,Med,1,0,Med.,3,2,2,3,1,3,,,14
-10512,#10512,RS,Shao 2020,med,med,hig,hig,hig,med,,,Low,0,0,High,2,2,2,3,1,2,,,12
+10740,#10740,RS,Rossi 2011,hig,med,hig,hig,hig,hig,,,High,7,5,Low,3,2,2,3,1,3,,,14
+10513,#10513,RS,Shao 2018,hig,med,hig,hig,hig,hig,,,High,1,0,Low,3,2,2,3,1,3,,,14
+10512,#10512,RS,Shao 2020,med,med,hig,hig,hig,med,,,Med,0,0,Med.,2,2,2,3,1,2,,,12
 15031,#15031 ,RS,Simmons 2009,hig,med,hig,med,hig,hig,,,Med,0,0,Med.,3,2,2,2,1,3,,,13
-15022,#15022 ,RS,Stevens 2001,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
-9719,#9719,RS,Tanaka 2013,hig,med,low,hig,hig,hig,,,Low,0,0,High,3,2,0,3,1,3,,,12
-9515,#9515,RS,VenÃ¤lÃ¤inen 2020,med,med,hig,hig,hig,med,,,Low,1,0,High,2,2,2,3,1,2,,,12
-9406,#9406,RS,Wan 2018,hig,med,hig,hig,hig,hig,,,Med,1,0,Med.,3,2,2,3,1,3,,,14
+15022,#15022 ,RS,Stevens 2001,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
+9719,#9719,RS,Tanaka 2013,hig,med,low,hig,hig,hig,,,Med,0,0,Med.,3,2,0,3,1,3,,,12
+9515,#9515,RS,VenÃ¤lÃ¤inen 2020,med,med,hig,hig,hig,med,,,Med,1,0,Med.,2,2,2,3,1,2,,,12
+9406,#9406,RS,Wan 2018,hig,med,hig,hig,hig,hig,,,High,1,0,Low,3,2,2,3,1,3,,,14
 182,#182,RS,Wells 2013,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,3,3,,,16
 9980,#9980,RS,Woodward 2016,med,med,hig,hig,hig,low,,,Low,0,0,High,2,2,2,3,1,0,,,10
 15030,#15030 ,RS,Yang 2008,low,med,hig,med,hig,hig,,,Low,0,0,High,1,2,2,2,1,3,,,11
-102,#102,RS,Yang 2013,med,med,hig,hig,hig,low,,,Low,0,0,High,2,2,2,3,3,0,,,12
+102,#102,RS,Yang 2013,med,med,hig,hig,hig,low,,,Med,0,0,Med.,2,2,2,3,3,0,,,12
 10308,#10308,RS,Yeboah 2014,med,med,hig,hig,hig,hig,,,Med,1,0,Med.,2,2,2,3,1,3,,,13
 9877,#9877,RS,Yoshida 2012,med,med,hig,hig,hig,hig,,,Med,11,8,Med.,2,2,2,3,1,3,,,13
 9875,#9875,RS,Young 2018,hig,med,hig,hig,hig,hig,,,High,1,0,Low,3,2,2,3,3,3,,,16
 9865,#9865,RS,Yu 2019,hig,med,hig,hig,hig,med,,,High,1,0,Low,3,2,2,3,3,2,,,15
-15025,#15025 ,RS,Zethelius 2011,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
-58,#58,RS,Zhang 2020,hig,med,hig,hig,hig,hig,,,Med,2,1,Med.,3,2,2,3,1,3,,,14
-15032,#15032 ,RS,vanDieren 2011,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
-10344,#10344,RS,vanderHeijden 2009,hig,med,hig,hig,hig,hig,,,Med,0,0,Med.,3,2,2,3,1,3,,,14
+15025,#15025 ,RS,Zethelius 2011,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
+58,#58,RS,Zhang 2020,hig,med,hig,hig,hig,hig,,,High,2,1,Low,3,2,2,3,1,3,,,14
+15032,#15032 ,RS,vanDieren 2011,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
+10344,#10344,RS,vanderHeijden 2009,hig,med,hig,hig,hig,hig,,,High,0,0,Low,3,2,2,3,1,3,,,14
 15027,#15027 ,RS,vanderLeeuw 2015,hig,med,hig,med,hig,hig,,,Med,0,0,Med.,3,2,2,2,1,3,,,13
