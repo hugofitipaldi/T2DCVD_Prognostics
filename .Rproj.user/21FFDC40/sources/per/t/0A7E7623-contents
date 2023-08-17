@@ -116,7 +116,7 @@ origins_map2 <- merge(target_ori, origins_map, by.x = "country", by.y = "Origin"
 ancestry_df <- readr::read_csv("data/ancestry.csv")
 
 # Traffic light
-traffic_data <- readr::read_csv("data/BM_GN_RS_qualitySCORESbyStudy.csv")
+traffic_data <- rio::import("data/BM_GN_RS_Quality343byStudy.csv")
 
 traffic_data <- traffic_data %>%
   dplyr::mutate_all(~ case_when(
@@ -126,12 +126,12 @@ traffic_data <- traffic_data %>%
     TRUE ~ as.character(.)
   ))
 
-new_metadata416 <- readr::read_csv("data/new_metadata416.csv")
-
-traffic_data <- traffic_data %>%
-  merge(new_metadata416, by.x = "studynum", by.y = "studyNum")
-traffic_data$Author_Year.x <- NULL
-names(traffic_data)[names(traffic_data) == 'Author_Year.y'] <- 'Author_Year'
+# new_metadata416 <- readr::read_csv("data/new_metadata416.csv")
+#
+# traffic_data <- traffic_data %>%
+#   merge(new_metadata416, by.x = "studynum", by.y = "studyNum")
+# traffic_data$Author_Year.x <- NULL
+# names(traffic_data)[names(traffic_data) == 'Author_Year.y'] <- 'Author_Year'
 
 traffic_data_BM <- traffic_data %>%
   dplyr::filter(bm_GN_RS == "BM") %>%
