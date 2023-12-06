@@ -1,4 +1,6 @@
 
+[![DOI](https://zenodo.org/badge/655724730.svg)](https://zenodo.org/doi/10.5281/zenodo.10277098)
+
 ## Precision Prognostics for CVD in T2D: Interactive Results Repository
 
 Description This repository houses the interactive results for the
